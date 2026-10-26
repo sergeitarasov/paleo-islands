@@ -1,0 +1,317 @@
+﻿name-tree,id-tmp,G-SP,Genus,species,Specimen ID,Reference,Lab Code,N° of UCE Loci,DNA,Barcode i5 ID,Barcode i5 Seq,Barcode i7 ID,Barcode i7Seq,NCBI BioProject
+,id-1,Helictopleurus _fasciolatus obscurus,Helictopleurus ,fasciolatus obscurus,STL-10334,Lopes et al. 2023,A02FO_STL10334,2539,Archival DNA extraction,507,ACGTCCTG,25,AGATCGCA,PRJNA1031114
+,id-2,Helictopleurus _fasciolatus pseudofasciolatus,Helictopleurus ,fasciolatus pseudofasciolatus,STL-10333,Lopes et al. 2023,A03FP_STL10333,2499,Archival DNA extraction,507,ACGTCCTG,63,TCTTCACA,PRJNA1031114
+,id-3,Helictopleurus _cf. Furcicornis,Helictopleurus ,cf. Furcicornis,STL-10332,Lopes et al. 2023,A19FU_STL10332,2048,Archival DNA extraction,507,ACGTCCTG,19,ACAGCAGA,PRJNA1031114
+,id-4,Helictopleurus _undatus,Helictopleurus ,undatus,STL-10331,Lopes et al. 2023,A11UN_STL10331,2243,Archival DNA extraction,507,ACGTCCTG,17,AAGGTACA,PRJNA1031114
+,id-5,Helictopleurus _sinuatocornis,Helictopleurus ,sinuatocornis,STL-10330,Lopes et al. 2023,A0651_STL10330,2656,Archival DNA extraction,507,ACGTCCTG,28,ATCCTGTA,PRJNA1031114
+,id-6,Helictopleurus _perrieri,Helictopleurus ,perrieri,STL-10329,Lopes et al. 2023,A17PE_STL10329,2452,Archival DNA extraction,501,AGGCTATA,119,CCTAACAG,PRJNA1031114
+,id-7,Helictopleurus _neuter,Helictopleurus ,neuter,STL-10327,Lopes et al. 2023,A05NE_STL10327,2571,Archival DNA extraction,501,AGGCTATA,128,TTCGAAGC,PRJNA1031114
+,id-8,Helictopleurus _fasciolatus fasciolatus,Helictopleurus ,fasciolatus fasciolatus,STL-10324,Lopes et al. 2023,A01FF_STL10324,2210,Archival DNA extraction,1102,GTGTTCTA,20,ACCTCCAA,PRJNA1031114
+,id-9,Helictopleurus _nicollei,Helictopleurus ,nicollei,STL-10319,Lopes et al. 2023,A13NI_STL10319,2464,Archival DNA extraction,1102,GTGTTCTA,60,TAGGATGA,PRJNA1031114
+,id-10,Nesosisyphus _rotundatus,Nesosisyphus ,rotundatus,STL-52,Lopes et al. 2023,13_STL52,1528,Archival DNA extraction,1102,GTGTTCTA,41,CGACTGGA,PRJNA1031114
+,id-11,Kheper_nigroaeneus,Kheper,nigroaeneus,STL-10036,Lopes et al. 2023,Khnig_STL10036,1864,Commercial Kit extraction,504,TCAGAGCC,100,GAACGAAG,PRJNA1031114
+,id-12,Sceliages_hippias,Sceliages,hippias,STL-10030,Lopes et al. 2023,Schip_STL10030,1753,Commercial Kit extraction,504,TCAGAGCC,102,CAGTGCTT,PRJNA1031114
+,id-13,Helictopleurus_neoamplicollis,Helictopleurus,neoamplicollis,STL-5024,Lopes et al. 2023,Heneo_STL5024,1599,Commercial Kit extraction,504,TCAGAGCC,104,CCAACACT,PRJNA1031114
+,id-14,Scarabaeus_westwoodi,Scarabaeus,westwoodi,STL-10034,Lopes et al. 2023,Scwes_STL10034,1758,Commercial Kit extraction,504,TCAGAGCC,111,GCATAACG,PRJNA1031114
+,id-15,Frankenbergerius_armatus,Frankenbergerius,armatus,STL-10002,Lopes et al. 2023,Frarm_STL10002,1461,Commercial Kit extraction,504,TCAGAGCC,155,CTCGGTAA,PRJNA1031114
+,id-16,Hamonthophagus_depressus,Hamonthophagus,depressus,STL-10013,Lopes et al. 2023,Hadep_STL10013,1922,Commercial Kit extraction,504,TCAGAGCC,157,AAGTGCAG,PRJNA1031114
+,id-17,Heteronitis_ragazzii,Heteronitis,ragazzii,STL-10032,Lopes et al. 2023,Herag_STL10032,1709,Commercial Kit extraction,504,TCAGAGCC,191,ACCATGTC,PRJNA1031114
+,id-18,Gyronotus_pumilus,Gyronotus,pumilus,STL-10003,Lopes et al. 2023,Gypum_STL10003,1886,Commercial Kit extraction,505,CTTCGCCT,98,TTACGTGC,PRJNA1031114
+,id-19,Arachnodes_sp4,Arachnodes,sp4,STL-5016,Lopes et al. 2023,Arac4_STL5016,1931,Commercial Kit extraction,505,CTTCGCCT,106,GGACAGAT,PRJNA1031114
+,id-20,Drepanopodus_proximus,Drepanopodus,proximus,STL-10001,Lopes et al. 2023,Drepro_STL10001,1840,Commercial Kit extraction,505,CTTCGCCT,112,CATCCAAG,PRJNA1031114
+,id-21,Epirinus_cf.silvestris,Epirinus,cf.silvestris,STL-10018,Lopes et al. 2023,Epsil_STL10018,1587,Commercial Kit extraction,505,CTTCGCCT,114,CTACAAGG,PRJNA1031114
+,id-22,Catharsius_sp.,Catharsius,sp.,STL-10033,Lopes et al. 2023,Cath1_STL10033,1907,Commercial Kit extraction,505,CTTCGCCT,116,TCGAACCT,PRJNA1031114
+,id-23,Nanos_dubitatus,Nanos,dubitatus,STL-5001,Lopes et al. 2023,Nadub_STL5001,1822,Commercial Kit extraction,505,CTTCGCCT,122,GTCGTTAC,PRJNA1031114
+,id-24,Metacatharsius_opacus,Metacatharsius,opacus,STL-10017,Lopes et al. 2023,Meopa_STL10017,1596,Commercial Kit extraction,505,CTTCGCCT,128,TTCGAAGC,PRJNA1031114
+,id-25,Helictopleurus_politicollis,Helictopleurus,politicollis,STL-5029,Lopes et al. 2023,Hepol_STL5029,1684,Commercial Kit extraction,505,CTTCGCCT,136,CTTCGGTT,PRJNA1031114
+,id-26,Epilissus_cuprarius,Epilissus,cuprarius,STL-5011,Lopes et al. 2023,Epcup_STL5011,1774,Commercial Kit extraction,505,CTTCGCCT,144,AGAAGCCT,PRJNA1031114
+,id-27,Copris (Paracopris)_sp.,Copris (Paracopris),sp.,STL-10022,Lopes et al. 2023,Copr2_STL10022,1965,Commercial Kit extraction,505,CTTCGCCT,175,ACATGGAG,PRJNA1031114
+,id-28,Onthophagus_cf.bicavifrons,Onthophagus,cf.bicavifrons,STL-10006,Lopes et al. 2023,Onbic_STL10006,1331,Commercial Kit extraction,505,CTTCGCCT,177,TCAGCCTT,PRJNA1031114
+,id-29,Apotolamprus_quadrinotatus,Apotolamprus,quadrinotatus,STL-5006,Lopes et al. 2023,Apqua_STL5006,1729,Commercial Kit extraction,505,CTTCGCCT,188,CTGGTCAT,PRJNA1031114
+,id-30,Litocopris_muticus,Litocopris,muticus,STL-10027,Lopes et al. 2023,Limut_STL10027,1737,Commercial Kit extraction,505,CTTCGCCT,190,ATAGGTCC,PRJNA1031114
+,id-31,Onthophagus_probus,Onthophagus,probus,STL-10015,Lopes et al. 2023,Onpro_STL10015,1748,Commercial Kit extraction,506,TAAGATTA,111,GCATAACG,PRJNA1031114
+,id-32,Microcopris_sp1,Microcopris,sp1,STL-10023,Lopes et al. 2023,Micr1_STL10023,1965,Commercial Kit extraction,506,TAAGATTA,168,TAGGAGCT,PRJNA1031114
+,id-33,Sarophorus_costatus,Sarophorus,costatus,STL-10011,Lopes et al. 2023,Sacos_STL10011,1443,Commercial Kit extraction,506,TAAGATTA,173,CATCTGCT,PRJNA1031114
+,id-34,Xinidium_dewitzi,Xinidium,dewitzi,STL-10008,Lopes et al. 2023,Xidew_STL10008,1543,Commercial Kit extraction,506,TAAGATTA,187,GGTCGTAT,PRJNA1031114
+,id-35,Sisyphus_sordidus,Sisyphus,sordidus,STL-6,Lopes et al. 2023,Ssor_1_STL6,1687,Commercial Kit extraction,505,CTTCGCCT,100,GAACGAAG,PRJNA1031114
+,id-36,Sisyphus (Neosisyphus) _spinipes,Sisyphus (Neosisyphus) ,spinipes,STL-17,Lopes et al. 2023,Sspi_1_STL17,1766,Commercial Kit extraction,505,CTTCGCCT,106,GGACAGAT,PRJNA1031114
+,id-37,Epirinus_sp. 1,Epirinus,sp. 1,STL-43,Lopes et al. 2023,EPI_1_STL43,1770,Commercial Kit extraction,505,CTTCGCCT,118,TGTGTCAG,PRJNA1031114
+,id-38,Onycothechus_tricornigeris,Onycothechus,tricornigeris,STL-10225,Lopes et al. 2023,Ony_STL10225,1692,Commercial Kit extraction,505,CTTCGCCT,121,AACCACTC,PRJNA1031114
+,id-39,Apotolamprus_sp. morpho 1,Apotolamprus,sp. morpho 1,STL-31,Lopes et al. 2023,Apot_1_STL31,2174,Commercial Kit extraction,505,CTTCGCCT,122,GTCGTTAC,PRJNA1031114
+,id-40,Arachnodes_sp. morpho 1,Arachnodes,sp. morpho 1,STL-45,Lopes et al. 2023,Arac_1_STL45,2232,Commercial Kit extraction,505,CTTCGCCT,127,AAGCGACT,PRJNA1031114
+,id-41,Sisyphus_schaefferi,Sisyphus,schaefferi,STL-44,Lopes et al. 2023,Ssff_1_STL44,1755,Commercial Kit extraction,505,CTTCGCCT,133,TCTTCGAC,PRJNA1031114
+,id-42,Janssensantus_cf. inexpectatus,Janssensantus,cf. inexpectatus,STL-10221,Lopes et al. 2023,KIVE01_STL10221,1970,Commercial Kit extraction,505,CTTCGCCT,142,AAGTCCTC,PRJNA1031114
+,id-43,Amphistomus_primonactus,Amphistomus,primonactus,-,Gustafson et al. 2023,Amppri_UCE,471,GenBank,-,-,-,-,PRJNA977672
+,id-44,Anoplostethus_sp,Anoplostethus,sp,COL892,Lopes et al. 2023,Anop1_COL892,1312,Commercial Kit extraction,504,TCAGAGCC,177,TCAGCCTT,PRJNA1031114
+,id-45,Aphodius_immundus,Aphodius,immundus,ST-003,Gustafson et al. 2023,Apimm_ST003,2379,GenBank,-,-,-,-,PRJNA977672
+,id-46,Caccobius_schereberi,Caccobius,schereberi,ST-001,Gustafson et al. 2023,Casch_ST001,2712,GenBank,-,-,-,-,PRJNA977672
+,id-47,Chrysina_resplendens,Chrysina,resplendens,-,Gustafson et al. 2023,Chrres_UCE,158,GenBank,-,-,-,-,PRJNA977672
+,id-48,Copris_fidius,Copris,fidius,ST-005,Gustafson et al. 2023,Cocin_ST005,642,GenBank,-,-,-,-,PRJNA977672
+,id-49,Coptodactyla_brooksi,Coptodactyla,brooksi,-,Gustafson et al. 2023,CopbroUCE,663,GenBank,-,-,-,-,PRJNA977672
+,id-50,Diorygopyx_dudplodentatus,Diorygopyx,dudplodentatus,-,Gustafson et al. 2023,Diodud_UCE,655,GenBank,-,-,-,-,PRJNA977672
+,id-51,Eophileurus_sp,Eophileurus,sp,COL1054,Lopes et al. 2023,Eoph1_COL1054,1374,Commercial Kit extraction,504,TCAGAGCC,131,TCTTACGG,PRJNA1031114
+,id-52,Epilissus_splendidus splendidus,Epilissus,splendidus splendidus,ST-008,Gustafson et al. 2023,Epspl_ST008,522,GenBank,-,-,-,-,PRJNA977672
+,id-53,Geotrupes_opacus,Geotrupes,opacus,COL3920,Lopes et al. 2023,Geopa_COL3920,1295,Commercial Kit extraction,505,CTTCGCCT,149,CTCGTTCT,PRJNA1031114
+,id-54,Geotrupes_splendidus,Geotrupes,splendidus,COL3901,Lopes et al. 2023,Gespl_COL3901,1311,Commercial Kit extraction,504,TCAGAGCC,129,CACAGACT,PRJNA1031114
+,id-55,Helictopleurus_sicardi,Helictopleurus,sicardi,ST-012,Gustafson et al. 2023,Hesic_ST012,2551,Commercial Kit extraction,-,-,-,-,PRJNA977672
+,id-56,Helictopleurus_sicardi,Helictopleurus,sicardi,ST-013,Gustafson et al. 2023,Hesic_ST013,1166,Commercial Kit extraction,-,-,-,-,PRJNA977672
+,id-57,Hybosorus_illigeri,Hybosorus,illigeri,COL4013,Gustafson et al. 2023,Hyill_COL4013,1102,Commercial Kit extraction,506,TAAGATTA,141,TACGGAAG,PRJNA1031114
+,id-58,Ischiopsophra_sp,Ischiopsophra,sp,COL1049,Gustafson et al. 2023,Isch1_COL1049,1174,Commercial Kit extraction,506,TAAGATTA,157,AAGTGCAG,PRJNA1031114
+,id-59,Lamprima_sp,Lamprima,sp,COL544,Gustafson et al. 2023,Lamp1_COL544,1185,Commercial Kit extraction,505,CTTCGCCT,132,ATGAGTGC,PRJNA1031114
+,id-60,Lepidiota_sp,Lepidiota,sp,COL629,Gustafson et al. 2023,Lepd1_COL629,1296,Commercial Kit extraction,504,TCAGAGCC,106,GGACAGAT,PRJNA1031114
+,id-61,Liparochrus_sp,Liparochrus,sp,COL4004,Gustafson et al. 2023,Lipa1_COL4004,1359,Commercial Kit extraction,505,CTTCGCCT,154,AACCAGAG,PRJNA1031114
+,id-62,Lucanus_capreolus,Lucanus,capreolus,COL3897,Gustafson et al. 2023,Lucap_COL3897,1198,Commercial Kit extraction,505,CTTCGCCT,174,TACCGGAT,PRJNA1031114
+,id-63,Marronus_borbonicus,Marronus,borbonicus,-,Gustafson et al. 2023,Marbor_UCE,155,GenBank,-,-,-,-,PRJNA977672
+,id-64,Nanos_aff,Nanos,aff,ST-009,Gustafson et al. 2023,Nadub_ST009,450,GenBank,-,-,-,-,PRJNA977672
+,id-65,Nanos_vadoni,Nanos,vadoni,ST-011,Gustafson et al. 2023,Navad_ST011,601,GenBank,-,-,-,-,PRJNA977672
+,id-66,Nicrophorus_orbicollis,Nicrophorus,orbicollis,-,Gustafson et al. 2023,Nicorb_UCE,36,GenBank,-,-,-,-,PRJNA977672
+,id-67,Nicrophorus_vespilloides,Nicrophorus,vespilloides,-,Gustafson et al. 2023,Nicves_UCE,70,GenBank,-,-,-,-,PRJNA977672
+,id-68,Omorgus_sp,Omorgus,sp,COL3918,Gustafson et al. 2023,Omor1_COL3918,1221,Commercial Kit extraction,504,TCAGAGCC,167,CTGATGAG,PRJNA1031114
+,id-69,Oniticellus_cinctus,Oniticellus,cinctus,ST-004,Gustafson et al. 2023,Oncin_ST004,1454,GenBank,-,-,-,-,PRJNA977672
+,id-70,Onthophagus_taurus,Onthophagus,taurus,ST-002,Gustafson et al. 2023,Ontau_ST002,2865,GenBank,-,-,-,-,PRJNA977672
+,id-71,Oryctes_borbonicus,Oryctes,borbonicus,-,Gustafson et al. 2023,Orybor_UCE,162,GenBank,-,-,-,-,PRJNA977672
+,id-72,Oryctes_rhinoceros,Oryctes,rhinoceros,-,Gustafson et al. 2023,Oryrhi_UCE,164,GenBank,-,-,-,-,PRJNA977672
+,id-73,Phanaeus_dejeani,Phanaeus,dejeani,PH043,Gustafson et al. 2023,Pdej_PH043,2026,Commercial Kit extraction,507,ACGTCCTG,74,ACACGACC,PRJNA1031114
+,id-74,Popillia_japonica,Popillia,japonica,-,Gustafson et al. 2023,Popjap_UCE,150,GenBank,-,-,-,-,PRJNA977672
+,id-75,Protaetia_brevitarsis,Protaetia,brevitarsis,-,Gustafson et al. 2023,Probre_UCE,66,GenBank,-,-,-,-,PRJNA977672
+,id-76,Sarrophorus_costatus,Sarrophorus,costatus,ST-006,Gustafson et al. 2023,Sacos_ST006,2304,GenBank,-,-,-,-,PRJNA977672
+,id-77,Sarophorus_costatus,Sarophorus,costatus,ST-007,Gustafson et al. 2023,Sacos_ST007,2383,GenBank,-,-,-,-,PRJNA977672
+,id-78,Semanopterus_sp,Semanopterus,sp,COL035,Gustafson et al. 2023,Sema1_COL035,1386,Commercial Kit extraction,504,TCAGAGCC,172,AGTCTTGG,PRJNA1031114
+,id-79,Temnoplectron_lewisensis,Temnoplectron,lewisensis,-,Gustafson et al. 2023,Temlew_UCE,271,GenBank,-,-,-,-,PRJNA977672
+,id-80,Thyregis_relictus,Thyregis,relictus,-,Gustafson et al. 2023,Thyrel_UCE,433,GenBank,-,-,-,-,PRJNA977672
+,id-81,Trichaulax_sp,Trichaulax,sp,COL1050,Lopes et al. 2023,Tric1_COL1050,1283,Commercial Kit extraction,504,TCAGAGCC,139,AGAAGTGG,PRJNA1031114
+,id-82,Trypoxylus_dichotomus,Trypoxylus,dichotomus,-,Gustafson et al. 2023,Trydic_UCE,161,GenBank,-,-,-,-,PRJNA977672
+,id-83,Xylonichus_sp,Xylonichus,sp,COL066,Lopes et al. 2023,Xylo1_COL066,1347,Commercial Kit extraction,504,TCAGAGCC,117,TCATCTCC,PRJNA1031114
+,id-84,Chalconotus_convexus   ,Chalconotus,convexus   ,STL-10035,This study,Ancon_STL10035,1762,Commercial Kit extraction,504,TCAGAGCC,74,ACACGACC,
+,id-85,Copris_urus   ,Copris,urus   ,STL-10024,This study,Couru_STL10024,2121,Commercial Kit extraction,504,TCAGAGCC,31,CAAGACTA,
+,id-86,Helictopleurus_marsyas   ,Helictopleurus,marsyas   ,STL-5026,This study,Hemar_STL5026,2470,Commercial Kit extraction,504,TCAGAGCC,58,GTCTGTCA,
+,id-87,Metacatharsius_sp1   ,Metacatharsius,sp1   ,STL-10007,This study,Mesp1_STL10007,1962,Commercial Kit extraction,504,TCAGAGCC,41,CGACTGGA,
+,id-88,Pedaria_sp1   ,Pedaria,sp1   ,STL-10016,This study,Pesp1_STL10016,2029,Commercial Kit extraction,504,TCAGAGCC,11,CTGTAGCC,
+,id-89,Helictopleurus_aurocupreus   ,Helictopleurus,aurocupreus   ,STL-5025,This study,Heaur_STL5025,2285,Commercial Kit extraction,504,TCAGAGCC,83,CAAGGAGC,
+,id-90,Epilissus_alluaudi   ,Epilissus,alluaudi   ,STL-5009,This study,Epall_STL5009,2172,Commercial Kit extraction,540,TCAGAGCC,125,TCCAGCAA,
+,id-91,Helictopleurus_splendidicollis   ,Helictopleurus,splendidicollis   ,STL-5020,This study,Hespl_STL5020,2470,Commercial Kit extraction,540,TCAGAGCC,133,TCTTCGAC,
+,id-92,Copris_sp2   ,Copris,sp2   ,STL-10025,This study,Cosp2_STL10025,2106,Commercial Kit extraction,540,TCAGAGCC,137,AGGTAGGA,
+,id-93,Epilissus_fuscovirens   ,Epilissus,fuscovirens   ,STL-5010,This study,Epfus_STL5010,2183,Commercial Kit extraction,540,TCAGAGCC,170,CGTAGATG,
+,id-94,Helictopleurus_unifasciatus   ,Helictopleurus,unifasciatus   ,STL-5030,This study,Heuni_STL5030,2529,Commercial Kit extraction,540,TCAGAGCC,191,ACCATGTC,
+,id-95,Copris_nevinsoni   ,Copris,nevinsoni   ,STL-10021,This study,Conev_STL10021,1861,Commercial Kit extraction,1098,ATGCTACT,55,GGTGCGAA,
+,id-96,Epilissus_morio   ,Epilissus,morio   ,STL-5007,This study,Epmor_STL5007,2160,Commercial Kit extraction,1098,ATGCTACT,75,ACAGATTC,
+,id-97,Nanos_sp7   ,Nanos,sp7   ,STL-5005,This study,Nasp7_STL5005,1717,Commercial Kit extraction,1098,ATGCTACT,45,CTGGCATA,
+,id-98,Arachnodes_sp2   ,Arachnodes,sp2   ,STL-5013,This study,Arsp2_STL5013,2024,Commercial Kit extraction,1098,ATGCTACT,10,ACAAGCTA,
+,id-99,Copris_gilleti   ,Copris,gilleti   ,STL-10028,This study,Cogil_STL10028,1767,Commercial Kit extraction,1099,ATGCTACT,8,CATCAAGT,
+,id-100,Helictopleurus_fasciolatus suturalis   ,Helictopleurus,fasciolatus suturalis   ,STL-10234,This study,A04FS_STL10234,2546,Commercial Kit extraction,507,ACGTCCTG,59,GTGTTCTA,
+,id-101,Helictopleurus_semivirens   ,Helictopleurus,semivirens   ,STL-10242,This study,A16SE_STL10242,2654,Commercial Kit extraction,507,ACGTCCTG,27,AGTCACTA,
+,id-102,Helictopleurus_sp   ,Helictopleurus,sp   ,STL-10248,This study,A28NS_STL10248,2414,Commercial Kit extraction,507,ACGTCCTG,82,ATTGGCTC,
+,id-103,Helictopleurus_carbonarius   ,Helictopleurus,carbonarius   ,STL-10249,This study,A29CA_STL10249,2368,Commercial Kit extraction,507,ACGTCCTG,7,CAGATCTG,
+,id-104,Arachnodes_sp7 cf insularis ,Arachnodes,sp7 cf insularis ,STL-10201,This study,201_STL10201,2058,Commercial Kit extraction,507,ACGTCCTG,36,CCAGTTCA,
+,id-105,Helictopleurus_coruscus   ,Helictopleurus,coruscus   ,STL-10209,This study,209_STL10209,2458,Commercial Kit extraction,507,ACGTCCTG,54,GGAGAACA,
+,id-106,Helictopleurus_viridans pseudoviridans  ,Helictopleurus,viridans pseudoviridans  ,STL-10236,This study,A08VP_STL10236,2743,Commercial Kit extraction,507,ACGTCCTG,23,ACTATGCA,
+,id-107,Helictopleurus_giganteus   ,Helictopleurus,giganteus   ,STL-10177,This study,177_STL10177,2669,Commercial Kit extraction,507,ACGTCCTG,39,CCTCCTGA,
+,id-108,Helictopleurus_fissicollis morettoi   ,Helictopleurus,fissicollis morettoi   ,STL-10237,This study,A09FM_STL10237,2609,Commercial Kit extraction,507,ACGTCCTG,2,AAACATCG,
+,id-109,Helictopleurus_fulgens purpuricollis   ,Helictopleurus,fulgens purpuricollis   ,STL-10239,This study,A12FP_STL10239,2048,Commercial Kit extraction,507,ACGTCCTG,20,ACCTCCAA,
+,id-110,Helictopleurus_dorbignyi   ,Helictopleurus,dorbignyi   ,STL-10240,This study,A14DO_STL10240,2483,Commercial Kit extraction,507,ACGTCCTG,90,CGGATTGC,
+,id-111,Helictopleurus_cambeforti   ,Helictopleurus,cambeforti   ,STL-10250,This study,A30CM_STL10250,2684,Commercial Kit extraction,507,ACGTCCTG,6,ACATTGGC,
+,id-112,Cyptochirus_sp1   ,Cyptochirus,sp1   ,STL-10112,This study,112_STL10112,2459,Commercial Kit extraction,507,ACGTCCTG,29,ATTGAGGA,
+,id-113,Helictopleurus_cf steineri n sp,Helictopleurus,cf steineri n sp,STL-10211,This study,211_STL10211,2672,Commercial Kit extraction,507,ACGTCCTG,57,GTCGTAGA,
+,id-114,Helictopleurus_sp group semivirens ,Helictopleurus,sp group semivirens ,STL-10214,This study,214_STL10214,2690,Commercial Kit extraction,507,ACGTCCTG,5,ACCACTGT,
+,id-115,Digitonthophagus_gazella   ,Digitonthophagus,gazella   ,STL-10213,This study,213_STL10213,2509,Commercial Kit extraction,507,ACGTCCTG,67,TGGTGGTA,
+,id-116,Helictopleurus_fissicollis australis  ,Helictopleurus,fissicollis australis  ,STL-10246,This study,A24FA_STL10246,2635,Commercial Kit extraction,507,ACGTCCTG,40,CGAACTTA,
+,id-117,Helictopleurus_cribricollis   ,Helictopleurus,cribricollis   ,STL-10243,This study,A18CR_STL10243,2620,Commercial Kit extraction,507,ACGTCCTG,81,ATCATTCC,
+,id-118,Oniticellus_planatus   ,Oniticellus,planatus   ,STL-10119,This study,119_STL10119,2511,Commercial Kit extraction,507,ACGTCCTG,3,ATGCCTAA,
+,id-119,Helictopleurus_viridans viridans  ,Helictopleurus,viridans viridans  ,STL-10235,This study,A07VV_STL10235,1712,Commercial Kit extraction,507,ACGTCCTG,93,GACAGTGC,
+,id-120,Proagoderus_sapphirinus   ,Proagoderus,sapphirinus   ,STL-10098,This study,98_STL10098,2525,Commercial Kit extraction,507,ACGTCCTG,70,AAGAGATC,
+,id-121,Onitis_caffer   ,Onitis,caffer   ,STL-10042,This study,42_STL10042,2183,Commercial Kit extraction,507,ACGTCCTG,52,GCTAACGA,
+,id-122,Arachnodes_oberthuri   ,Arachnodes,oberthuri   ,STL-10144,This study,144_STL10144,2027,Commercial Kit extraction,507,ACGTCCTG,72,AATCCGTC,
+,id-123,Arachnodes_sp6   ,Arachnodes,sp6   ,STL-10200,This study,200_STL10200,1788,Commercial Kit extraction,507,ACGTCCTG,30,CAACCACA,
+,id-124,Onthophagus_Bicornonthophagus interstitialis  ,Onthophagus,Bicornonthophagus interstitialis  ,STL-10081,This study,81_STL10081,2647,Commercial Kit extraction,507,ACGTCCTG,91,CTAAGGTC,
+,id-125,Epilissus_aff antoetrae  ,Epilissus,aff antoetrae  ,STL-10180,This study,180_STL10180,1766,Commercial Kit extraction,507,ACGTCCTG,71,AAGGACAC,
+,id-126,Onthophagus_Palaeonthophagus gibbulus  ,Onthophagus,Palaeonthophagus gibbulus  ,STL-10133,This study,133_STL10133,2667,Commercial Kit extraction,507,ACGTCCTG,86,CCGACAAC,
+,id-127,Helictopleurus_rudicollis   ,Helictopleurus,rudicollis   ,STL-10173,This study,173_STL10173,2368,Commercial Kit extraction,507,ACGTCCTG,8,CATCAAGT,
+,id-128,Apotolamprus_aff ambohitsitondronensi  ,Apotolamprus,aff ambohitsitondronensi  ,STL-10140,This study,140_STL10140,2230,Commercial Kit extraction,507,ACGTCCTG,89,CGACACAC,
+,id-129,Onthophagus_sl borneensis  ,Onthophagus,sl borneensis  ,STL-10306,This study,Borne_STL10306,995,Commercial Kit extraction,507,ACGTCCTG,87,CCTAATCC,
+,id-130,Phalops_flavocinctus   ,Phalops,flavocinctus   ,STL-10045,This study,45_STL10045,2420,Commercial Kit extraction,507,ACGTCCTG,21,ACGCTCGA,
+,id-131,Hexodon_sp1   ,Hexodon,sp1   ,STL-10313,This study,DYN_STL10313,1105,Commercial Kit extraction,507,ACGTCCTG,94,GAGTTAGC,
+,id-132,Orphninae_sp1   ,Orphninae,sp1   ,STL-10310,This study,ORPH_STL10310,1135,Commercial Kit extraction,507,ACGTCCTG,35,CATACCAA,
+,id-133,Sceliages_hippias   ,Sceliages,hippias   ,STL-10117,This study,117_STL10117,1084,Commercial Kit extraction,507,ACGTCCTG,44,CTGAGCCA,
+,id-134,Onthophagus_Paraphanaeomorphus aff phanaeiformis ,Onthophagus,Paraphanaeomorphus aff phanaeiformis ,STL-10113,This study,113_STL10113,2683,Commercial Kit extraction,507,ACGTCCTG,4,AGTGGTCA,
+,id-135,Apotolamprus_quadrimaculatus   ,Apotolamprus,quadrimaculatus   ,STL-10139,This study,139_STL10139,1674,Commercial Kit extraction,507,ACGTCCTG,24,AGAGTCAA,
+,id-136,Apotolamprus_vadoni   ,Apotolamprus,vadoni   ,STL-10135,This study,135_STL10135,2035,Commercial Kit extraction,507,ACGTCCTG,76,AGATGTAC,
+,id-137,Scaptocnemis_segregis   ,Scaptocnemis,segregis   ,STL-10251,This study,Scapto_STL10251,2253,Commercial Kit extraction,507,ACGTCCTG,78,AGCCATGC,
+,id-138,Scarabaeus_n sp1  ,Scarabaeus,n sp1  ,STL-10210,This study,210_STL10210,1661,Commercial Kit extraction,507,ACGTCCTG,45,CTGGCATA,
+,id-139,Catharsius_cf molossus  ,Catharsius,cf molossus  ,STL-10120,This study,120_STL10120,1552,Commercial Kit extraction,507,ACGTCCTG,60,TAGGATGA,
+,id-140,Epirinus_flagellatus   ,Epirinus,flagellatus   ,STL-10118,This study,118_STL10118,1926,Commercial Kit extraction,507,ACGTCCTG,46,GAATCTGA,
+,id-141,Pachylomera_femoralis   ,Pachylomera,femoralis   ,STL-10128,This study,128_STL10128,1731,Commercial Kit extraction,507,ACGTCCTG,51,GCGAGTAA,
+,id-142,Onthophagus_Parascatonomus tricornis  ,Onthophagus,Parascatonomus tricornis  ,STL-10111,This study,111_STL10111,2604,Commercial Kit extraction,507,ACGTCCTG,66,TGGCTTCA,
+,id-143,Nanos_sp10   ,Nanos,sp10   ,STL-10206,This study,206_STL10206,1999,Commercial Kit extraction,507,ACGTCCTG,84,CACCTTAC,
+,id-144,Proagoderus_cf lanista  ,Proagoderus,cf lanista  ,STL-10079,This study,79_STL10079,2645,Commercial Kit extraction,507,ACGTCCTG,12,AGTACAAG,
+,id-145,Onthophagus_sl giraffa  ,Onthophagus,sl giraffa  ,STL-10130,This study,130_STL10130,2877,Commercial Kit extraction,507,ACGTCCTG,22,ACGTATCA,
+,id-146,Pachysoma_hippocrates   ,Pachysoma,hippocrates   ,STL-10127,This study,127_STL10127,1171,Commercial Kit extraction,507,ACGTCCTG,10,ACAAGCTA,
+,id-147,Onthophagus_sl leucopygus  ,Onthophagus,sl leucopygus  ,STL-10100,This study,100_STL10100,2846,Commercial Kit extraction,507,ACGTCCTG,69,AACTCACC,
+,id-148,Cheironitis_scabrosus   ,Cheironitis,scabrosus   ,STL-10096,This study,96_STL10096,1739,Commercial Kit extraction,507,ACGTCCTG,68,TTCACGCA,
+,id-149,Hybosoridae_sp1 Madagascar  ,Hybosoridae,sp1 Madagascar  ,STL-10311,This study,HYBM_STL10311,612,Commercial Kit extraction,507,ACGTCCTG,37,TTCACGCA,
+,id-150,Arachnodes_sp5   ,Arachnodes,sp5   ,STL-10217,This study,217_STL10217,2127,Commercial Kit extraction,507,ACGTCCTG,96,GCCAAGAC,
+,id-151,Garreta_unicolor   ,Garreta,unicolor   ,STL-10077,This study,77_STL10077,1843,Commercial Kit extraction,507,ACGTCCTG,42,CGCATACA,
+,id-152,Epilissus_aff morio group ,Epilissus,aff morio group ,STL-10184,This study,184_STL10184,999,Commercial Kit extraction,507,ACGTCCTG,11,CTGTAGCC,
+,id-153,Epilissus_sp1   ,Epilissus,sp1   ,STL-10186,This study,186_STL10186,1872,Commercial Kit extraction,507,ACGTCCTG,88,CCTCTATC,
+,id-154,Pycnopanelus_krikkeni   ,Pycnopanelus,krikkeni   ,STL-10076,This study,76_STL10076,2266,Commercial Kit extraction,507,ACGTCCTG,73,AATGTTGC,
+,id-155,Nanos_aff rubrosignatus  ,Nanos,aff rubrosignatus  ,STL-10142,This study,142_STL10142,1662,Commercial Kit extraction,507,ACGTCCTG,15,AACGCTTA,
+,id-156,Onthophagus_sl laevis  ,Onthophagus,sl laevis  ,STL-10302,This study,Laevis_STL10302,2470,Commercial Kit extraction,507,ACGTCCTG,85,CCATCCTC,
+,id-157,Heliocopris_sp   ,Heliocopris,sp   ,STL-10292,This study,12720_STL10292,1161,Commercial Kit extraction,507,ACGTCCTG,34,CAGCGTTA,
+,id-158,Euoniticellus_fulvus   ,Euoniticellus,fulvus   ,STL-10132,This study,132_STL10132,2498,Commercial Kit extraction,507,ACGTCCTG,95,GATGAATC,
+,id-159,Nanos_aff mirjae  ,Nanos,aff mirjae  ,STL-10189,This study,189_STL10189,2053,Commercial Kit extraction,507,ACGTCCTG,56,GTACGCAA,
+,id-160,Onthophagus_Serrophorus seniculus  ,Onthophagus,Serrophorus seniculus  ,STL-10110,This study,110_STL10110,2655,Commercial Kit extraction,501,AGGCTATA,97,ACTTGGCT,
+,id-161,Helictopleurus_furcicornis   ,Helictopleurus,furcicornis   ,STL-10169,This study,169_STL10169,2462,Commercial Kit extraction,501,AGGCTATA,99,ACGTCGTT,
+,id-162,Onthophagus_sl vulpes  ,Onthophagus,sl vulpes  ,STL-10307,This study,Vulpe_STL10307,2840,Commercial Kit extraction,501,AGGCTATA,101,CAATCAGG,
+,id-163,Anonychonitis_freyi   ,Anonychonitis,freyi   ,STL-10095,This study,95_STL10095,2225,Commercial Kit extraction,501,AGGCTATA,103,GTGTGTTC,
+,id-164,Hammondantus_psammophilus   ,Hammondantus,psammophilus   ,STL-10047,This study,47_STL10047,2025,Commercial Kit extraction,501,AGGCTATA,104,CCAACACT,
+,id-165,Arachnodes_sp3   ,Arachnodes,sp3   ,STL-10218,This study,218_STL10218,1769,Commercial Kit extraction,501,AGGCTATA,105,GAAGTGCT,
+,id-166,Onthophagus_cf muelleri  ,Onthophagus,cf muelleri  ,STL-10298,This study,Muell_STL10298,2330,Commercial Kit extraction,501,AGGCTATA,106,GGACAGAT,
+,id-167,Helictopleurus_vadoni   ,Helictopleurus,vadoni   ,STL-10244,This study,A20VA_STL10244,2646,Commercial Kit extraction,501,AGGCTATA,107,AGCTTCAG,
+,id-168,Paragymnopleurus_sp   ,Paragymnopleurus,sp   ,STL-10293,This study,12722_STL10293,839,Commercial Kit extraction,501,AGGCTATA,108,GATCCACT,
+,id-169,Onthophagus_Onthophagiellus cf sp1 ,Onthophagus,Onthophagiellus cf sp1 ,STL-10304,This study,Giellus1_STL10304,1707,Commercial Kit extraction,501,AGGCTATA,109,ACCGAATG,
+,id-170,Onthophagus_Gibbonthophagus rectecornutus  ,Onthophagus,Gibbonthophagus rectecornutus  ,STL-10114,This study,114_STL10114,2773,Commercial Kit extraction,501,AGGCTATA,114,CTACAAGG,
+,id-171,Nanos_sp11   ,Nanos,sp11   ,STL-10207,This study,207_STL10207,2081,Commercial Kit extraction,501,AGGCTATA,115,CGCGTATT,
+,id-172,Onthophagus_Sunenaga streltsovi cf ,Onthophagus,Sunenaga streltsovi cf ,STL-10303,This study,Sune2_STL10303,2052,Commercial Kit extraction,501,AGGCTATA,116,TCGAACCT,
+,id-173,Onthophagus_Hikidaeus waterstradti  ,Onthophagus,Hikidaeus waterstradti  ,STL-10308,This study,Water_STL10308,2386,Commercial Kit extraction,501,AGGCTATA,117,TCATCTCC,
+,id-174,Synapsis_sp   ,Synapsis,sp   ,STL-10129,This study,129_STL10129,233,Commercial Kit extraction,501,AGGCTATA,121,AACCACTC,
+,id-175,Macroderes_sp1   ,Macroderes,sp1   ,STL-10328,This study,62_STL10328,2087,Commercial Kit extraction,501,AGGCTATA,122,GTCGTTAC,
+,id-176,Copridaspidus_peregrinus   ,Copridaspidus,peregrinus   ,STL-10258,This study,COPP_STL10258,1832,Commercial Kit extraction,501,AGGCTATA,123,CGAGAGAA,
+,id-177,Onitis_alexis   ,Onitis,alexis   ,STL-10041,This study,41_STL10041,1754,Commercial Kit extraction,501,AGGCTATA,126,ACTCCTAC,
+,id-178,Heliocopris_sp   ,Heliocopris,sp   ,STL-10271,This study,67_STL10271,1967,Commercial Kit extraction,501,AGGCTATA,129,CACAGACT,
+,id-179,Nanos_bicoloratus   ,Nanos,bicoloratus   ,STL-10155,This study,155_STL10155,2066,Commercial Kit extraction,501,AGGCTATA,130,GTTCCATG,
+,id-180,Nanos_sp5   ,Nanos,sp5   ,STL-10202,This study,202_STL10202,2079,Commercial Kit extraction,501,AGGCTATA,131,TCTTACGG,
+,id-181,Helictopleurus_hanskii   ,Helictopleurus,hanskii   ,STL-10247,This study,A25HA_STL10247,2506,Commercial Kit extraction,501,AGGCTATA,134,CTCTATCG,
+,id-182,Onthophagus_Pseudophanaeomorphus quasijohkii aff  ,Onthophagus,Pseudophanaeomorphus quasijohkii aff  ,STL-10299,This study,Quasi_STL10299,2557,Commercial Kit extraction,501,AGGCTATA,135,GCTGTAAG,
+,id-183,Paraphytus_cf hindu  ,Paraphytus,cf hindu  ,STL-10093,This study,93_STL10093,446,Commercial Kit extraction,501,AGGCTATA,138,CTAACCTG,
+,id-184,Helictopleurus_nigricans   ,Helictopleurus,nigricans   ,STL-10238,This study,A10NI_STL10238,2654,Commercial Kit extraction,501,AGGCTATA,139,AGAAGTGG,
+,id-185,Epilissus_splendidus cf delphinensis  ,Epilissus,splendidus cf delphinensis  ,STL-10185,This study,185_STL10185,2159,Commercial Kit extraction,501,AGGCTATA,140,TGGATGGT,
+,id-186,Nanos_sp8   ,Nanos,sp8   ,STL-10204,This study,204_STL10204,2052,Commercial Kit extraction,501,AGGCTATA,141,TACGGAAG,
+,id-187,Nanos_aff viridissimus  ,Nanos,aff viridissimus  ,STL-10191,This study,191_STL10191,2089,Commercial Kit extraction,501,AGGCTATA,142,AAGTCCTC,
+,id-188,Epilissus_aff planatus  ,Epilissus,aff planatus  ,STL-10187,This study,187_STL10187,1266,Commercial Kit extraction,501,AGGCTATA,143,TGAGACGA,
+,id-189,Arachnodes_aff saprinoides  ,Arachnodes,aff saprinoides  ,STL-10195,This study,195_STL10195,2213,Commercial Kit extraction,501,AGGCTATA,144,AGAAGCCT,
+,id-190,Macronthophagus_diabolicus   ,Macronthophagus,diabolicus   ,STL-10291,This study,12724_STL10291,1467,Commercial Kit extraction,501,AGGCTATA,146,TCTAGGAG,
+,id-191,Onthophagus_sl vinctus  ,Onthophagus,sl vinctus  ,STL-10080,This study,80_STL10080,2585,Commercial Kit extraction,501,AGGCTATA,147,GTAGTACC,
+,id-192,Helictopleurus_viettei   ,Helictopleurus,viettei   ,STL-10241,This study,A15VI_STL10241,2502,Commercial Kit extraction,501,AGGCTATA,148,GATGCTAC,
+,id-193,Epilissus_aff semilissus  ,Epilissus,aff semilissus  ,STL-10181,This study,181_STL10181,2083,Commercial Kit extraction,501,AGGCTATA,150,ATAGTCGG,
+,id-194,Amietina_larrochei   ,Amietina,larrochei   ,STL-10208,This study,208_STL10208,2766,Commercial Kit extraction,501,AGGCTATA,153,GTCAACAG,
+,id-195,Apotolamprus_aff metallicus  ,Apotolamprus,aff metallicus  ,STL-10160,This study,160_STL10160,2093,Commercial Kit extraction,501,AGGCTATA,157,AAGTGCAG,
+,id-196,Helictopleurus_steineri   ,Helictopleurus,steineri   ,STL-10264,This study,A31ST_STL10264,2466,Commercial Kit extraction,501,AGGCTATA,158,CGATTCTG,
+,id-197,Epactoides_jounii   ,Epactoides,jounii   ,STL-10192,This study,192_STL10192,1747,Commercial Kit extraction,501,AGGCTATA,159,CGGAGTAT,
+,id-198,Apotolamprus_perinetensis   ,Apotolamprus,perinetensis   ,STL-10161,This study,161_STL10161,2075,Commercial Kit extraction,501,AGGCTATA,160,GTGAGACT,
+,id-199,Macroderes_foveatus   ,Macroderes,foveatus   ,STL-10040,This study,40_STL10040,1986,Commercial Kit extraction,501,AGGCTATA,164,GGACTACT,
+,id-200,Nanos_aff humeralis  ,Nanos,aff humeralis  ,STL-10190,This study,190_STL10190,2012,Commercial Kit extraction,501,AGGCTATA,165,AGAGGATG,
+,id-201,Liatongus_sp   ,Liatongus,sp   ,STL-10290,This study,12727_STL10290,2247,Commercial Kit extraction,501,AGGCTATA,166,TGTGGCTT,
+,id-202,Epactoides_olsoufieffi   ,Epactoides,olsoufieffi   ,STL-10141,This study,141_STL10141,1706,Commercial Kit extraction,501,AGGCTATA,167,CTGATGAG,
+,id-203,Cleptocaccobius_viridicollis   ,Cleptocaccobius,viridicollis   ,STL-10099,This study,99_STL10099,2744,Commercial Kit extraction,501,AGGCTATA,168,TAGGAGCT,
+,id-204,Nanos_sp4   ,Nanos,sp4   ,STL-10215,This study,215_STL10215,2058,Commercial Kit extraction,501,AGGCTATA,169,ACTGCACT,
+,id-205,Arachnodes_saprinoides   ,Arachnodes,saprinoides   ,STL-10143,This study,143_STL10143,2075,Commercial Kit extraction,501,AGGCTATA,170,CGTAGATG,
+,id-206,Circellium_bacchus   ,Circellium,bacchus   ,STL-10270,This study,66_STL10270,2200,Commercial Kit extraction,501,AGGCTATA,171,GCAATTCC,
+,id-207,Janssensantus_mabuensis n sp ,Janssensantus,mabuensis n sp ,STL-10102,This study,102_STL10102,1335,Commercial Kit extraction,501,AGGCTATA,172,AGTCTTGG,
+,id-208,Gymnopleurus_aenescens   ,Gymnopleurus,aenescens   ,STL-10097,This study,97_STL10097,1762,Commercial Kit extraction,501,AGGCTATA,175,ACATGGAG,
+,id-209,Onthophagus_Micronthophagus sp1  ,Onthophagus,Micronthophagus sp1  ,STL-10115,This study,115_STL10115,2804,Commercial Kit extraction,501,AGGCTATA,178,AATCGCTG,
+,id-210,Epactoides_sp3   ,Epactoides,sp3   ,STL-10162,This study,162_STL10162,1300,Commercial Kit extraction,501,AGGCTATA,180,CACGATTC,
+,id-211,Eusaproecius_sp1   ,Eusaproecius,sp1   ,STL-10256,This study,Eusap_STL10256,844,Commercial Kit extraction,501,AGGCTATA,181,CTACATCC,
+,id-212,Epactoides_sp2   ,Epactoides,sp2   ,STL-10157,This study,157_STL10157,1791,Commercial Kit extraction,501,AGGCTATA,182,AGTGCATC,
+,id-213,Apotolamprus_aff sparsepunctatus  ,Apotolamprus,aff sparsepunctatus  ,STL-10198,This study,198_STL10198,2124,Commercial Kit extraction,501,AGGCTATA,183,TGCTGTGA,
+,id-214,Hybosoridae_sp2 Laos  ,Hybosoridae,sp2 Laos  ,STL-10312,This study,HYBL_STL10312,194,Commercial Kit extraction,501,AGGCTATA,185,CAACTTGG,
+,id-215,Apotolamprus_aff latipennis  ,Apotolamprus,aff latipennis  ,STL-10197,This study,197_STL10197,2092,Commercial Kit extraction,501,AGGCTATA,187,GGTCGTAT,
+,id-216,Kurtops_signatus   ,Kurtops,signatus   ,STL-10043,This study,43_STL10043,113,Commercial Kit extraction,501,AGGCTATA,190,ATAGGTCC,
+,id-217,Nanos_sp1   ,Nanos,sp1   ,STL-10147,This study,147_STL10147,1122,Commercial Kit extraction,501,AGGCTATA,191,ATAGGTCC,
+,id-218,Endroedyolus_paradoxus   ,Endroedyolus,paradoxus   ,STL-10049,This study,49_STL10049,1350,Commercial Kit extraction,1102,GTGTTCTA,59,GTGTTCTA,
+,id-219,Arachnodes_aff metallicus  ,Arachnodes,aff metallicus  ,STL-10196,This study,196_STL10196,2230,Commercial Kit extraction,1102,GTGTTCTA,82,ATTGGCTC,
+,id-220,Apterepilissus_ovalis   ,Apterepilissus,ovalis   ,STL-10325,This study,A26AO_STL10325,2236,Archival DNA extraction,1102,GTGTTCTA,36,CCAGTTCA,
+,id-221,Onthophagus_sl cf quadrimaculatus ,Onthophagus,sl cf quadrimaculatus ,STL-10046,This study,46_STL10046,2451,Commercial Kit extraction,1102,GTGTTCTA,54,GGAGAACA,
+,id-222,Apotolamprus_sp1   ,Apotolamprus,sp1   ,STL-10146,This study,146_STL10146,2228,Commercial Kit extraction,1102,GTGTTCTA,23,ACTATGCA,
+,id-223,Arachnodes_sp    ,Arachnodes,sp    ,STL-10216,This study,216_STL10216,2295,Commercial Kit extraction,1102,GTGTTCTA,31,CAAGACTA,
+,id-224,Parascatonomus_anceyi   ,Parascatonomus,anceyi   ,STL-10091,This study,91_STL10091,2540,Commercial Kit extraction,1102,GTGTTCTA,39,CCTCCTGA,
+,id-225,Nanos_aff Pseudominutus  ,Nanos,aff Pseudominutus  ,STL-10156,This study,156_STL10156,2243,Commercial Kit extraction,1102,GTGTTCTA,6,ACCTCCAA,
+,id-226,Epactoides_aff Lissus  ,Epactoides,aff Lissus  ,STL-10134,This study,134_STL10134,1936,Commercial Kit extraction,1102,GTGTTCTA,57,GTCGTAGA,
+,id-227,Scarabaeolus_intricatus   ,Scarabaeolus,intricatus   ,STL-10044,This study,44_STL10044,2095,Commercial Kit extraction,1102,GTGTTCTA,63,TCTTCACA,
+,id-228,Coptorhina_klugii   ,Coptorhina,klugii   ,STL-10039,This study,39_STL10039,1732,Commercial Kit extraction,1102,GTGTTCTA,55,GGTGCGAA,
+,id-229,Epactoides_semiaeneus   ,Epactoides,semiaeneus   ,STL-10136,This study,136_STL10136,486,Commercial Kit extraction,1102,GTGTTCTA,5,ACCACTGT,
+,id-230,Onthophagus_Furconthophagus variegatus  ,Onthophagus,Furconthophagus variegatus  ,STL-10083,This study,83_STL10083,1916,Commercial Kit extraction,1102,GTGTTCTA,65,TGGAACAA,
+,id-231,Janssensantus_cf inexpectatus  ,Janssensantus,cf inexpectatus  ,STL-10103,This study,103_STL10103,2036,Commercial Kit extraction,1102,GTGTTCTA,67,TGGTGGTA,
+,id-232,Epactoides_femoralis   ,Epactoides,femoralis   ,STL-10145,This study,145_STL10145,1966,Commercial Kit extraction,1102,GTGTTCTA,40,CGAACTTA,
+,id-233,Hammondantus_psammophilus   ,Hammondantus,psammophilus   ,STL-10321,This study,51_STL10321,2221,Commercial Kit extraction,1102,GTGTTCTA,81,ATCATTCC,
+,id-234,Frankenbergerius_armatus   ,Frankenbergerius,armatus   ,STL-10322,This study,56_STL10322,2329,Commercial Kit extraction,1102,GTGTTCTA,3,ATGCCTAA,
+,id-235,Pedaria_sp   ,Pedaria,sp   ,STL-10323,This study,36_STL10323,2277,Commercial Kit extraction,1102,GTGTTCTA,62,TCCGTCTA,
+,id-236,Epactoides_mangabeensis   ,Epactoides,mangabeensis   ,STL-10154,This study,154_STL10154,1671,Commercial Kit extraction,1102,GTGTTCTA,17,AAGGTACA,
+,id-237,Onthophagus_sl lamelliger  ,Onthophagus,sl lamelliger  ,STL-10131,This study,131_STL10131,2392,Commercial Kit extraction,1102,GTGTTCTA,93,GACAGTGC,
+,id-238,Arachnodes_aff robinsoni  ,Arachnodes,aff robinsoni  ,STL-10194,This study,194_STL10194,2312,Commercial Kit extraction,1102,GTGTTCTA,72,AATCCGTC,
+,id-239,Chalconotus_convexus   ,Chalconotus,convexus   ,STL-10294,This study,12702_STL10294,548,Commercial Kit extraction,1102,GTGTTCTA,71,AAGGACAC,
+,id-240,Nanos_sp2   ,Nanos,sp2   ,STL-10153,This study,153_STL10153,2219,Commercial Kit extraction,1102,GTGTTCTA,50,GCCACATA,
+,id-241,Dwesasilvasedis_medinae   ,Dwesasilvasedis,medinae   ,STL-10265,This study,63a_STL10265,2238,Commercial Kit extraction,1102,GTGTTCTA,86,CCGACAAC,
+,id-242,Odontoloma_planatum   ,Odontoloma,planatum   ,STL-10048,This study,48_STL10048,1589,Commercial Kit extraction,1102,GTGTTCTA,80,ATAGCGAC,
+,id-243,Epactoides_aff major  ,Epactoides,aff major  ,STL-10163,This study,163_STL10163,1779,Commercial Kit extraction,1102,GTGTTCTA,9,CGCTGATC,
+,id-244,Onthophagus_sl baeri  ,Onthophagus,sl baeri  ,STL-10084,This study,84_STL10084,2676,Commercial Kit extraction,1102,GTGTTCTA,48,GAGCTGAA,
+,id-245,Bohepilissus_sp1   ,Bohepilissus,sp1   ,STL-10279,This study,58_STL10279,1877,Commercial Kit extraction,1102,GTGTTCTA,87,CCTAATCC,
+,id-246,Onthophagus_sstr obscurior  ,Onthophagus,sstr obscurior  ,STL-10305,This study,Obsc_STL10305,2771,Commercial Kit extraction,1102,GTGTTCTA,21,ACGCTCGA,
+,id-247,Arachnodes_saprinoides   ,Arachnodes,saprinoides   ,STL-10151,This study,151_STL10151,2303,Commercial Kit extraction,1102,GTGTTCTA,94,GAGTTAGC,
+,id-248,Odontoloma_sp1   ,Odontoloma,sp1   ,STL-10288,This study,43_STL10288,1500,Commercial Kit extraction,1102,GTGTTCTA,35,CATACCAA,
+,id-249,Bohepilissus_sp sp1  ,Bohepilissus,sp sp1  ,STL-10075,This study,75_STL10075,1855,Commercial Kit extraction,1102,GTGTTCTA,44,CTGAGCCA,
+,id-250,Caccobius_binodulus   ,Caccobius,binodulus   ,STL-10300,This study,Bino_STL10300,2492,Commercial Kit extraction,1102,GTGTTCTA,4,AGTGGTCA,
+,id-251,Copris_sl diversus  ,Copris,sl diversus  ,STL-10245,This study,A23CD_STL10245,2025,Commercial Kit extraction,1102,GTGTTCTA,76,AGATGTAC,
+,id-252,Epactoides_aff Semiaeneus  ,Epactoides,aff Semiaeneus  ,STL-10158,This study,158_STL10158,1918,Commercial Kit extraction,1102,GTGTTCTA,28,ATCCTGTA,
+,id-253,Dicranocara_deschodti   ,Dicranocara,deschodti   ,STL-10269,This study,55_STL10269,1776,Commercial Kit extraction,1102,GTGTTCTA,33,CACTTCGA,
+,id-254,Onthophagus_sl pilosus  ,Onthophagus,sl pilosus  ,STL-10101,This study,101_STL10101,2797,Commercial Kit extraction,1102,GTGTTCTA,53,GCTCGGTA,
+,id-255,Nanos_aff Bicoloratus  ,Nanos,aff Bicoloratus  ,STL-10137,This study,137_STL10137,2162,Commercial Kit extraction,1102,GTGTTCTA,26,AGCAGGAA,
+,id-256,Haroldius_sp2   ,Haroldius,sp2   ,STL-10273,This study,84_STL10273,1448,Commercial Kit extraction,1102,GTGTTCTA,51,GCGAGTAA,
+,id-257,Helictopleurus_fulgens   ,Helictopleurus,fulgens   ,STL-10168,This study,168_STL10168,2549,Commercial Kit extraction,1102,GTGTTCTA,84,CACCTTAC,
+,id-258,Onthophagus_sl batillifer  ,Onthophagus,sl batillifer  ,STL-10301,This study,Bati_STL10301,2196,Commercial Kit extraction,1102,GTGTTCTA,10,ACAAGCTA,
+,id-259,Paragymnopleurus_sp   ,Paragymnopleurus,sp   ,STL-10092,This study,92_STL10092,779,Commercial Kit extraction,1102,GTGTTCTA,14,AACCGAGA,
+,id-260,Megalonitis_bohemani   ,Megalonitis,bohemani   ,STL-10318,This study,MEGAB_STL10318,2177,Commercial Kit extraction,1102,GTGTTCTA,18,ACACAGAA,
+,id-261,Haroldius_sp1   ,Haroldius,sp1   ,STL-10266,This study,30_STL10266,1554,Commercial Kit extraction,1102,GTGTTCTA,96,GCCAAGAC,
+,id-262,Byrrhidium_namaquensis   ,Byrrhidium,namaquensis   ,STL-10268,This study,54_STL10268,1783,Commercial Kit extraction,1102,GTGTTCTA,73,GCCAAGAC,
+,id-263,Onthophagus_Euonthophagus flavimargo  ,Onthophagus,Euonthophagus flavimargo  ,STL-10109,This study,109_STL10109,1411,Commercial Kit extraction,1102,GTGTTCTA,85,CCATCCTC,
+,id-264,Onthophagus_sl sp1 cf gr,Onthophagus,sl sp1 cf gr,STL-10315,This study,ONTHM_STL10315,443,Commercial Kit extraction,1102,GTGTTCTA,56,CCATCCTC,
+,id-265,Xinidium_dentilabris   ,Xinidium,dentilabris   ,STL10004,This study,Xiden_STL10004,1950,Commercial Kit extraction,504,TCAGAGCC,98,TTACGTGC,
+,id-266,Helictopleurus_peyrierasi   ,Helictopleurus,peyrierasi   ,STL5021,This study,Hepey_STL5021,1993,Commercial Kit extraction,504,TCAGAGCC,134,CTCTATCG,
+,id-267,Onthophagus_pipitzi   ,Onthophagus,pipitzi   ,STL5018,This study,Onpip_STL5018,2329,Commercial Kit extraction,504,TCAGAGCC,156,AACCTACG,
+,id-268,Epactoides_sp   ,Epactoides,sp   ,STL5017,This study,Epac1_STL5017,1575,Commercial Kit extraction,504,TCAGAGCC,176,TTGCAACG,
+,id-269,Helictopleurus_sicardi   ,Helictopleurus,sicardi   ,STL5019,This study,Hesic_STL5019,1589,Commercial Kit extraction,504,TCAGAGCC,185,CAACTTGG,
+,id-270,Arachnodes_pusillus   ,Arachnodes,pusillus   ,STL5015,This study,Arpus_STL5015,1731,Commercial Kit extraction,505,CTTCGCCT,102,CAGTGCTT,
+,id-271,Nanos_sp6   ,Nanos,sp6   ,STL5002,This study,Nano6_STL5002,1394,Commercial Kit extraction,505,CTTCGCCT,172,AGTCTTGG,
+,id-272,Helictopleurus_quadripunctatus   ,Helictopleurus,quadripunctatus   ,STL5027,This study,Hequa_STL5027,2114,Commercial Kit extraction,505,CTTCGCCT,184,ACTGGTGT,
+,id-273,Onitis_uncinatus   ,Onitis,uncinatus   ,STL10031,This study,Onunc_STL10031,1741,Commercial Kit extraction,505,CTTCGCCT,186,TCCTGACT,
+,id-274,Epilissus_apotolamproides   ,Epilissus,apotolamproides   ,STL5008,This study,Epapo_STL5008,1881,Commercial Kit extraction,506,TAAGATTA,129,CACAGACT,
+,id-275,Pedaria_sp2   ,Pedaria,sp2   ,STL10019,This study,Peda2_STL10019,868,Commercial Kit extraction,506,TAAGATTA,140,TGGATGGT,
+,id-276,Arachnodes_sp1   ,Arachnodes,sp1   ,STL5012,This study,Arac1_STL5012,2038,Commercial Kit extraction,506,TAAGATTA,161,GGTTGAAC,
+,id-277,Nanos_sp9   ,Nanos,sp9   ,STL5004,This study,Nano9_STL5004,1890,Commercial Kit extraction,506,TAAGATTA,175,ACATGGAG,
+,id-278,Nesosisyphus_vicinus   ,Nesosisyphus,vicinus   ,STL-1,This study,Nvic_1_STL1,1663,Commercial Kit extraction,505,CTTCGCCT,97,ACTTGGCT,
+,id-279,Nesosisyphus_regnardi   ,Nesosisyphus,regnardi   ,STL-2,This study,Nreg_1_STL2,1676,Commercial Kit extraction,505,CTTCGCCT,98,TTACGTGC,
+,id-280,Nesosisyphus_pygmaeus   ,Nesosisyphus,pygmaeus   ,STL-3,This study,Npyg_1_STL3,1676,Commercial Kit extraction,505,CTTCGCCT,99,ACGTCGTT,
+,id-281,Sisyphus_muricatus   ,Sisyphus,muricatus   ,STL-5,This study,Smur_1_STL5,1709,Commercial Kit extraction,505,CTTCGCCT,101,CAATCAGG,
+,id-282,Sisyphus_umbraphilus   ,Sisyphus,umbraphilus   ,STL-10,This study,Sumb_1_STL10,1717,Commercial Kit extraction,505,CTTCGCCT,102,CAGTGCTT,
+,id-283,Sisyphus_australis   ,Sisyphus,australis   ,STL-13,This study,Saus_1_STL13,1029,Commercial Kit extraction,505,CTTCGCCT,103,GTGTGTTC,
+,id-284,Sisyphus_manni   ,Sisyphus,manni   ,STL-15,This study,Sman_1_STL15,1750,Commercial Kit extraction,505,CTTCGCCT,104,CCAACACT,
+,id-285,Sisyphus (Neosisyphus) _barbarossa  ,Sisyphus (Neosisyphus) ,barbarossa  ,STL-8,This study,Sbar_1_STL8,1680,Commercial Kit extraction,505,CTTCGCCT,105,GAAGTGCT,
+,id-286,Sisyphus (Neosisyphus) _infuscatus  ,Sisyphus (Neosisyphus) ,infuscatus  ,STL-14,This study,Sinf_1_STL14,1696,Commercial Kit extraction,505,CTTCGCCT,107,AGCTTCAG,
+,id-287,Sisyphus (Neosisyphus) _calcaratus  ,Sisyphus (Neosisyphus) ,calcaratus  ,STL-7,This study,Scal_1_STL7,1663,Commercial Kit extraction,505,CTTCGCCT,108,GATCCACT,
+,id-288,Sisyphus (Neosisyphus) _rubrus  ,Sisyphus (Neosisyphus) ,rubrus  ,STL-12,This study,Srub_1_STL12,1771,Commercial Kit extraction,505,CTTCGCCT,109,ACCGAATG,
+,id-289,Sisyphus (Neosisyphus) _mirabilis  ,Sisyphus (Neosisyphus) ,mirabilis  ,STL-11,This study,Smir_1_STL11,1740,Commercial Kit extraction,505,CTTCGCCT,110,GGCAAGTT,
+,id-290,Sisyphus_gazanus   ,Sisyphus,gazanus   ,STL-9,This study,Sgaz_1_STL9,1459,Commercial Kit extraction,505,CTTCGCCT,111,GCATAACG,
+,id-291,Sisyphus_inconspicuus   ,Sisyphus,inconspicuus   ,STL-16,This study,Sinc_1_STL16,1768,Commercial Kit extraction,505,CTTCGCCT,112,CATCCAAG,
+,id-292,Sisyphini_sp morpho1  ,Sisyphini,sp morpho1  ,STL-18,This study,SL1_1_STL18,1793,Commercial Kit extraction,505,CTTCGCCT,113,CTCAGAAG,
+,id-293,Sisyphini_sp morpho6  ,Sisyphini,sp morpho6  ,STL-23,This study,SL6_1_STL23,1016,Commercial Kit extraction,505,CTTCGCCT,115,CGCGTATT,
+,id-294,Sisyphini_sp morpho8  ,Sisyphini,sp morpho8  ,STL-40,This study,SL8_1_STL40,1792,Commercial Kit extraction,505,CTTCGCCT,116,TCGAACCT,
+,id-295,Sisyphini_sp morpho 10 ,Sisyphini,sp morpho 10 ,STL-42,This study,SL10_1_STL42,1634,Commercial Kit extraction,505,CTTCGCCT,117,TCATCTCC,
+,id-296,Nesovinsionia_vinsoni   ,Nesovinsionia,vinsoni   ,STL-4,This study,Nes_1_STL4,1933,Commercial Kit extraction,505,CTTCGCCT,119,CCTAACAG,
+,id-297,Nesovinsionia_vinsoni   ,Nesovinsionia,vinsoni   ,STL-34,This study,Nes_2_1_STL34,1883,Commercial Kit extraction,505,CTTCGCCT,120,AACAAGGC,
+,id-298,Nanos_sp   ,Nanos,sp   ,STL-39,This study,Apot_2_1_STL39,2104,Commercial Kit extraction,505,CTTCGCCT,123,CGAGAGAA,
+,id-299,Apotolamprus_sp   ,Apotolamprus,sp   ,STL-30,This study,Nano_1_STL30,2129,Commercial Kit extraction,505,CTTCGCCT,124,TCGTGCAT,
+,id-300,Nanos_morpho 2  ,Nanos,morpho 2  ,STL-35,This study,Nano_2_1_STL35,2158,Commercial Kit extraction,505,CTTCGCCT,125,TCCAGCAA,
+,id-301,Epactoides_hanski   ,Epactoides,hanski   ,STL-29,This study,Epac_1_STL29,1858,Commercial Kit extraction,505,CTTCGCCT,126,ACTCCTAC,
+,id-302,Arachnodes_sp morpho 2 ,Arachnodes,sp morpho 2 ,STL-37,This study,Arac_2_1_STL37,2093,Commercial Kit extraction,505,CTTCGCCT,128,TTCGAAGC,
+,id-303,Helictopleurus_fissicollis   ,Helictopleurus,fissicollis   ,STL-28,This study,Hfis_1_STL28,2471,Commercial Kit extraction,505,CTTCGCCT,129,CACAGACT,
+,id-304,Cambefortantus_pauliani   ,Cambefortantus,pauliani   ,STL-27,This study,Camb_1_STL27,2165,Commercial Kit extraction,505,CTTCGCCT,130,GTTCCATG,
+,id-305,Epilissus_sp morpho 1 ,Epilissus,sp morpho 1 ,STL-26,This study,Epss_1_STL26,2093,Commercial Kit extraction,505,CTTCGCCT,131,TCTTACGG,
+,id-306,Epilissus_sp morpho 2 ,Epilissus,sp morpho 2 ,STL-48,This study,Epss_2_2_STL48,2069,Commercial Kit extraction,505,CTTCGCCT,132,ATGAGTGC,
+,id-307,Ochichanton_sp1   ,Ochichanton,sp1   ,STL-25,This study,Ochi_1_STL25,1735,Commercial Kit extraction,505,CTTCGCCT,134,CTCTATCG,
+,id-308,Epactoides_jounii   ,Epactoides,jounii   ,STL-33,This study,Epjo_1_STL33,1823,Commercial Kit extraction,505,CTTCGCCT,135,GCTGTAAG,
+,id-309,Epactoides_major   ,Epactoides,major   ,STL-47,This study,Epma_1_STL47,1852,Commercial Kit extraction,505,CTTCGCCT,136,CTTCGGTT,
+,id-310,Cambefortantus_pauliani   ,Cambefortantus,pauliani   ,STL-32,This study,Camb2_1_STL32,2125,Commercial Kit extraction,505,CTTCGCCT,137,AGGTAGGA,
+,id-311,Grebennikovius_lupanganus sp n1 ,Grebennikovius,lupanganus sp n1 ,CNCCOLVG00004076,This study,4077_1_CNCCOLVG00004076,691,Commercial Kit extraction,505,CTTCGCCT,138,CTAACCTG,
+,id-312,Tanzanolus_sp1   ,Tanzanolus,sp1   ,STL-10223,This study,SHU48-4_STL10223,1946,Commercial Kit extraction,505,CTTCGCCT,140,TGGATGGT,
+,id-313,Tanzanolus_sp2   ,Tanzanolus,sp2   ,STL-10224,This study,UDZ11_STL10224,1884,Commercial Kit extraction,505,CTTCGCCT,141,TACGGAAG,
+,id-314,Janssensantus_cf inexpectatus  ,Janssensantus,cf inexpectatus  ,STL-10222,This study,KIVE02_STL10222,1974,Commercial Kit extraction,505,CTTCGCCT,143,TGAGACGA,
+,id-315,Panelus_rhodesiensis   ,Panelus,rhodesiensis   ,STL-10037,This study,Pugu2_STL10037,1681,Commercial Kit extraction,505,CTTCGCCT,144,AGAAGCCT,
+,id-316,Panelus_sp3   ,Panelus,sp3   ,STL-51,This study,Pan3_1_STL51,1900,Commercial Kit extraction,505,CTTCGCCT,145,AACAGGTG,

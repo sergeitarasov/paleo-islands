@@ -1,0 +1,99 @@
+Loading required package: ape
+Loading required package: diversitree
+Loading required package: yaml
+Loading required package: knitr
+Loading required package: kableExtra
+Loading required package: maps
+  model    logLik npar      AIC delta.AIC    weight
+1   gr6 -1036.231    9 2090.462 0.4457143 0.4445152
+2   gr7 -1035.008   10 2090.016 0.0000000 0.5554848
+Warning message:
+package ‘kableExtra’ was built under R version 4.6.1 
+Starting nesosisyphus gr6 map 20 posterior row 5645
+Starting nesosisyphus gr7 map 18 posterior row 1775
+Starting nesosisyphus gr6 map 36 posterior row 4762
+Starting nesosisyphus gr6 map 34 posterior row 9820
+Starting nesosisyphus gr7 map 35 posterior row 7448
+Starting nesovin gr7 map 34 posterior row 9923
+Timing stopped at: 3.618 0.044 3.686
+Worker 6: Extinction interpolation failed to converge; tighten ODE controls
+Timing stopped at: 3.689 0.047 3.766
+Worker 3: Extinction interpolation failed to converge; tighten ODE controls
+Completed nesovin gr7 map 34 in 18.85 seconds
+Starting nesosisyphus gr7 map 37 posterior row 13259
+Completed nesosisyphus gr7 map 35 in 46.872 seconds
+Starting nesovin gr7 map 35 posterior row 7448
+Completed nesovin gr7 map 35 in 13.514 seconds
+Starting nesosisyphus gr7 map 38 posterior row 9789
+Completed nesosisyphus gr6 map 36 in 62.682 seconds
+Starting nesovin gr6 map 36 posterior row 4762
+Completed nesosisyphus gr6 map 34 in 64.939 seconds
+Starting nesovin gr6 map 34 posterior row 9820
+Completed nesosisyphus gr7 map 37 in 52.001 seconds
+Starting nesovin gr7 map 37 posterior row 13259
+Completed nesovin gr6 map 36 in 20.615 seconds
+Starting nesosisyphus gr6 map 39 posterior row 33
+Completed nesovin gr7 map 37 in 14.813 seconds
+Starting nesosisyphus gr7 map 40 posterior row 10340
+Completed nesovin gr6 map 34 in 21.014 seconds
+Starting nesosisyphus gr6 map 37 posterior row 13413
+Completed nesosisyphus gr7 map 38 in 63.469 seconds
+Starting nesovin gr7 map 38 posterior row 9789
+Completed nesovin gr7 map 38 in 22.229 seconds
+Starting nesosisyphus gr7 map 41 posterior row 5139
+Completed nesosisyphus gr6 map 39 in 64.417 seconds
+Starting nesovin gr6 map 39 posterior row 33
+Completed nesosisyphus gr6 map 37 in 62.102 seconds
+Starting nesovin gr6 map 37 posterior row 13413
+Completed nesosisyphus gr7 map 40 in 62.699 seconds
+Starting nesovin gr7 map 40 posterior row 10340
+Completed nesovin gr6 map 39 in 19.637 seconds
+Starting nesosisyphus gr6 map 42 posterior row 946
+Completed nesovin gr6 map 37 in 19.377 seconds
+Starting nesosisyphus gr6 map 40 posterior row 1671
+Completed nesovin gr7 map 40 in 20.303 seconds
+Starting nesosisyphus gr7 map 43 posterior row 1733
+Completed nesosisyphus gr7 map 41 in 50.994 seconds
+Starting nesovin gr7 map 41 posterior row 5139
+Completed nesovin gr7 map 41 in 16.656 seconds
+Starting nesosisyphus gr7 map 44 posterior row 4684
+Completed nesosisyphus gr6 map 42 in 61.445 seconds
+Starting nesovin gr6 map 42 posterior row 946
+Completed nesosisyphus gr7 map 43 in 60.982 seconds
+Starting nesovin gr7 map 43 posterior row 1733
+Completed nesosisyphus gr6 map 40 in 66.798 seconds
+Starting nesovin gr6 map 40 posterior row 1671
+Completed nesovin gr6 map 42 in 18.198 seconds
+Starting nesosisyphus gr6 map 45 posterior row 1117
+Completed nesovin gr7 map 43 in 18.94 seconds
+Starting nesosisyphus gr7 map 46 posterior row 1237
+Timing stopped at: 3.318 0.014 3.377
+Worker 2: Extinction interpolation failed to converge; tighten ODE controls
+Completed nesovin gr6 map 40 in 24.76 seconds
+Starting nesosisyphus gr6 map 43 posterior row 15006
+Completed nesosisyphus gr7 map 44 in 61.589 seconds
+Starting nesovin gr7 map 44 posterior row 4684
+Completed nesovin gr7 map 44 in 18.418 seconds
+Starting nesosisyphus gr7 map 47 posterior row 8772
+Completed nesosisyphus gr6 map 45 in 63.99 seconds
+Starting nesovin gr6 map 45 posterior row 1117
+Completed nesosisyphus gr6 map 43 in 63.151 seconds
+Starting nesovin gr6 map 43 posterior row 15006
+Completed nesovin gr6 map 45 in 20.579 seconds
+Starting nesosisyphus gr6 map 48 posterior row 3379
+Completed nesovin gr6 map 43 in 20.279 seconds
+Starting nesosisyphus gr6 map 46 posterior row 15474
+Completed nesosisyphus gr7 map 47 in 56.162 seconds
+Starting nesovin gr7 map 47 posterior row 8772
+Completed nesovin gr7 map 47 in 19.231 seconds
+Starting nesosisyphus gr7 map 50 posterior row 2136
+Completed nesosisyphus gr6 map 48 in 61.776 seconds
+Starting nesovin gr6 map 48 posterior row 3379
+Completed nesosisyphus gr6 map 46 in 66.068 seconds
+Starting nesovin gr6 map 46 posterior row 15474
+Completed nesovin gr6 map 48 in 19.891 seconds
+Starting nesosisyphus gr6 map 51 posterior row 14624
+Completed nesosisyphus gr7 map 50 in 59.663 seconds
+Starting nesovin gr7 map 50 posterior row 2136
+Completed nesovin gr6 map 46 in 21.031 seconds
+Starting nesosisyphus gr6 map 49 posterior row 6838

@@ -1,0 +1,49 @@
+Loading required package: ape
+Loading required package: diversitree
+Loading required package: yaml
+Loading required package: knitr
+Loading required package: kableExtra
+Loading required package: maps
+  model    logLik npar      AIC delta.AIC    weight
+1   gr6 -1036.231    9 2090.462 0.4457143 0.4445152
+2   gr7 -1035.008   10 2090.016 0.0000000 0.5554848
+Warning message:
+package ‘kableExtra’ was built under R version 4.6.1 
+Starting nesosisyphus gr6 map 1 posterior row 491
+Starting nesosisyphus gr7 map 1 posterior row 3424
+Starting nesosisyphus gr6 map 20 posterior row 5645
+Starting nesosisyphus gr7 map 18 posterior row 1775
+Starting nesosisyphus gr7 map 46 posterior row 1237
+Starting nesosisyphus gr6 map 2 posterior row 3721
+Completed nesosisyphus gr7 map 1 in 57.176 seconds
+Starting nesovin gr7 map 1 posterior row 3424
+Completed nesosisyphus gr6 map 1 in 62.347 seconds
+Starting nesovin gr6 map 1 posterior row 491
+Completed nesosisyphus gr7 map 18 in 66.049 seconds
+Starting nesovin gr7 map 18 posterior row 1775
+Completed nesosisyphus gr7 map 46 in 67.94 seconds
+Starting nesovin gr7 map 46 posterior row 1237
+Completed nesosisyphus gr6 map 20 in 69.033 seconds
+Starting nesovin gr6 map 20 posterior row 5645
+Completed nesosisyphus gr6 map 2 in 71.517 seconds
+Starting nesovin gr6 map 2 posterior row 3721
+Completed nesovin gr7 map 1 in 17.104 seconds
+Completed nesovin gr6 map 1 in 17.755 seconds
+Completed nesovin gr7 map 18 in 20.551 seconds
+Completed nesovin gr7 map 46 in 22.397 seconds
+Completed nesovin gr6 map 2 in 21.448 seconds
+Completed nesovin gr6 map 20 in 24.051 seconds
+          clade model map posterior.row seconds observed extinct
+1  nesosisyphus     6   1           491  62.347        4      21
+2       nesovin     6   1           491  17.755        1      10
+3  nesosisyphus     7   1          3424  57.176        4      26
+4       nesovin     7   1          3424  17.104        1       4
+5  nesosisyphus     6  20          5645  69.033        4       8
+6       nesovin     6  20          5645  24.051        1       4
+7  nesosisyphus     7  18          1775  66.049        4      15
+8       nesovin     7  18          1775  20.551        1      16
+9  nesosisyphus     7  46          1237  67.940        4      20
+10      nesovin     7  46          1237  22.397        1      37
+11 nesosisyphus     6   2          3721  71.517        4       4
+12      nesovin     6   2          3721  21.448        1       5
+PILOT PASSED. Start the full analysis with: bash smaps/run-smaps-local.sh full

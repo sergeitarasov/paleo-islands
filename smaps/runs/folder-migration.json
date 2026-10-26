@@ -1,0 +1,474 @@
+[
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0004.rds",
+    "sha256": "5ef3d0be2fa73d40f2f62056d8f2349a75e7ab9304b68e39dd93e5dfb80aca49"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0010.rds",
+    "sha256": "0bc9a0a5752164926766f27f56b6c83b84c80c613f2bc80443e60220b3794ca8"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0004.rds",
+    "sha256": "b4b7b7df4f1e50bb028529dfce434584ed0a1f2249b34f7990ce10c61e50e658"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0010.rds",
+    "sha256": "8d11ee14bdfbea4fa3f5fbf8e5e69621b34f7991a4caa76739700556a6b99ad8"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0005.rds",
+    "sha256": "65f696c8a985515ad31f638a52b161da33a9ac72d0f6ae6960eca07dc023ddbf"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0011.rds",
+    "sha256": "394bfc0b467ad471a08e51f29af8d514a2edc3c6e2650953fab69890ac6e4d55"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0005.rds",
+    "sha256": "c2342d5883b6f7975004e4171df18baffe63aaad79f2ace14b0a0e4e641ec53d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0011.rds",
+    "sha256": "6751c186b9633a1d766625c2533e0599635a337297c445e631e6aba0ab3a80a2"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0013.rds",
+    "sha256": "1b92ab850062c0703c7a6146a7d75b845a4ad319daa12dd8d9f324e0143c5117"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0007.rds",
+    "sha256": "57da7a835923ffc2045dd2fcf7474c49130f42986bc91d96543025111d7b759c"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0013.rds",
+    "sha256": "ceb81868a90fece28f794f84fb1596d1fe51f8d10bbc857bbcef54503a92f830"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0007.rds",
+    "sha256": "51a7d0989ae0bf9284a42a66b4226e3a438a2e06fd5fa478950bf3fb33e9bfb1"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0012.rds",
+    "sha256": "97e5e9d716e4d619107d5816958712148be47a920f33a23ec4532beca5be0f6b"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0006.rds",
+    "sha256": "0fe869af2c687c125ec5fa810c58031501444f01a44896547be89b5b0ba68b3c"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0012.rds",
+    "sha256": "a39904500742913d83b2952d9bee8a01d8a250626e29bf8a99f6856a9c1c29a9"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0006.rds",
+    "sha256": "91fd21470773475c67fb3540d7ec18911a472aeddaca46e1bf7b33e2743201bb"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0002.rds",
+    "sha256": "ee7d36db071655cd17f3d007f692f1526b3ddaadb94aaacf241beeaa8c298582"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0016.rds",
+    "sha256": "02da9d250665ca4edc7f4c66608b334ed5b09498d82a462b59cdacfe325bfe1f"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0002.rds",
+    "sha256": "854b9ac10b4c5a1646e056a9c57d34b2486c19923fee1f0838af0e6032efc64d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0016.rds",
+    "sha256": "2859cca5bee38154750bfe2390a350f0f615bc86fe3353122e6187fda366de59"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0003.rds",
+    "sha256": "a48a1d08e85e80fdc458796d6d8395aa6c80dae1f2b872ccc66af6eeae589653"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0017.rds",
+    "sha256": "f153d6bccadc4ebdbaac921cd2f8ec32773410698d1c815818c96295a50fecf0"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0003.rds",
+    "sha256": "63eefdfe5c3b3a90b0d1ac76a2aaede12553d5f837536b7647c35793a3abee5f"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0017.rds",
+    "sha256": "784bfaa7026dceef08a8ad22bf31f03abfb31a25ff6464d25a56bfb93fd98293"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0029.rds",
+    "sha256": "18792aebadd3d8bfa3f9f96f9d1e20b4fb68a4e47996e3fd63c4b47fbe0cb590"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0015.rds",
+    "sha256": "15e357b69b6f7bfb694b9da3b96625888ae6eaf10ef9758ea8e70416630892f6"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0001.rds",
+    "sha256": "248d82078b33daed1a4f5d99cb47677583a6e66833669280bbc3d4f2165f43a7"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0015.rds",
+    "sha256": "41be874e517006972b281cbc2a1107f50bee610070d5bca2de7fe30c0de4ad20"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0001.rds",
+    "sha256": "6b34a02659181526aeaea56839afa9e742fd1ba312731064305e1be8f67c0553"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0014.rds",
+    "sha256": "d2d560ee1a49dd14b5c62f03d574c369b4a95f3baca1be79bd25428a9477198a"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0014.rds",
+    "sha256": "7d8fed3c03e6454df697454c054030f4f3a4fd191f720e42213394784841a9dc"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0028.rds",
+    "sha256": "4d3757531133ee34abe011cfa3e6a43a7cf0256b068120095f11abe76cd49b39"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0028.rds",
+    "sha256": "d7a8552fb1a565b1dc4458a03ba17a4e53afb52bf0dd65c726e59e256aedd1b9"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0032.rds",
+    "sha256": "17bff4e361758e433bc22a0a391f5362a6a1624a43f1a226064ec608c7949dad"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0026.rds",
+    "sha256": "211e75f4f8533269c8f94a89c784de0d34eab55871d4ce04eabda76919186fa5"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0033.rds",
+    "sha256": "a0a0bd1762dd4f44ccf4ad057de524f9e5bc58f8794bf072e0723ee788e84525"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0027.rds",
+    "sha256": "262a388d3520402cae601b9bf4ceabe562b5dd48ebc9c07823810352fc8a6ec2"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0019.rds",
+    "sha256": "247a437ebd13074945a23ef9edd3a3ca2378ec3cfc065fd12dbf889e1f8423e4"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0019.rds",
+    "sha256": "1de9fb2b142c72417fc403dcf8cf12c13b19462137c5b8a9a5a12c792051501d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0031.rds",
+    "sha256": "6ee16979a1d58766c7990cb9b4d236c44563ee46f25fc9480d76ab4dcb0e2274"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0025.rds",
+    "sha256": "b2c1177a50b3cc52c9ae6ffe9e37691b6c5dbc485fc78be34effe04f1fef762f"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0031.rds",
+    "sha256": "50ad2d027679f49cc7cbc24f6446722490ddd8cfa5a951bd131c44b70a2dde54"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0025.rds",
+    "sha256": "2b4cd1fdae2ceaca24b40408ad0fae8ede9e1e307f7bfc62d248dfdf07a1166d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0024.rds",
+    "sha256": "48f1b32c796b8a113cc181965f10c775b740f4bf97a5fc85cf6c507dd6405b29"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0030.rds",
+    "sha256": "3fd9883500c6b826807b6126d9b1d7be89d7c27468502c70fdcbf3574e27f2ca"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0018.rds",
+    "sha256": "a695c0b66f13f81469d2ba8b2bd82be0fa7bc2f66e33147d92f7e615ac79d96e"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0020.rds",
+    "sha256": "9d5356c32a92ecd95dc9aca58ea991dbe9cbf494fca9670a927ebdfc9e65f268"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0008.rds",
+    "sha256": "038894305966d1495ee6352c37cbb70b95684766fff8bda9a92c54c5aa234d4c"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0008.rds",
+    "sha256": "3222ac1ede78421d9b43cc67cdce479d1949dfd99de3ae505cb6bc189289ad11"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0009.rds",
+    "sha256": "4ea6e14dfe58d38bb587a5d985299128abb71f144a5823d8d12925828a6f4574"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0009.rds",
+    "sha256": "ce0fb1128b524003f047fe571a788d4c2f930b2a07b7d2a301e1e7272df2ed97"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0021.rds",
+    "sha256": "bdca09d9dfc3f9fe08d78784f46dddcc59f975bde38b0000d7887a3648c640eb"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0023.rds",
+    "sha256": "a85b8b87c7cd84046debe7bcf29c57b80265c4d021633cc4f27c13f6a600e9c3"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0022.rds",
+    "sha256": "dd0bc20a794f0669ab43cd30ee352acbc0ed439af0481337c65cc62c1a6fd615"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0022.rds",
+    "sha256": "dcd56993e8828375d43bb0542d06a727fa8fe783f6190a297661e9a9e989a7dc"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0007.rds",
+    "sha256": "4e868756a5a767514d6d809e53831a0b8a8edd9c77dd8bb6dd88a3a17e08958d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0013.rds",
+    "sha256": "c59b4fd5916249e7dbc42ce6326adcbf62c0ef076f70f49975834cd3afd795f9"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0007.rds",
+    "sha256": "7ba36f0ab33f591d1e3385aeae076d4c54c929a65ae359e173e2f78da632fc83"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0013.rds",
+    "sha256": "f8509548d427a73ff27c2414f34d73d177ac99fee22cfe538072b8c1a9c5dcd3"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0006.rds",
+    "sha256": "52076c1ea16541743330b030b6bbfe12f8abb264955c05f81f7b24b331e7a01b"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0012.rds",
+    "sha256": "179363be4160077e955eeaf6761a1e7e0941e3dd3d78a29c0c00a6255a125529"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0006.rds",
+    "sha256": "c850f5126f11a0f97f48a9dbd57fd46ce12bdbeaa75764f810429697c512c20b"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0012.rds",
+    "sha256": "63eaf4653fbb063be4178ee35986ea068659c59689bd78da42a496365df64ca6"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0010.rds",
+    "sha256": "5288aff68c7f8b5cfff028b57e624ddab9f17034d024db3eeae25a31df0e3dcd"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0004.rds",
+    "sha256": "c407af7c4d34eeb9099992a1f5d7741c07123b93ab64dbd4ea5611bf2de4855c"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0010.rds",
+    "sha256": "1dcb8befef70661a6d2e16e0a74f421e07188064cfbf05631c678884d264b209"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0004.rds",
+    "sha256": "b636ada7042269232134baf29098b85b72c0d55f69dcb4e478c782e2f7b8624e"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0011.rds",
+    "sha256": "933a78d20e82cc795188a608104a44def541993e9d85e586a0e9390831eaf753"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0005.rds",
+    "sha256": "75994e7a9b60a49ab6f8144cef3ff39c17ee04df20a59bf5db8eb357688fcdb4"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0011.rds",
+    "sha256": "94d6fdfce3ae214ed2753661cd35236a64e4f5c1b3060c7d42a5ba8a2d30cb0f"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0005.rds",
+    "sha256": "c0b3d9c9b3ada8f2514cb9a1ae525e3820d6ac0aa98ecf353d3bd38a668686c6"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0001.rds",
+    "sha256": "1f59c9c07c480c38979dc2ade798d6b42f46be10616dcfbbe61250f940b2d195"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0015.rds",
+    "sha256": "79b96f5172148dd296dcf90166fe544bd9a3a998c76ce9a23864081bfcbf0195"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0001.rds",
+    "sha256": "480a4a324b2405137c0a5154012b39d4858111b75e2b051220279ff45f42f22c"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0015.rds",
+    "sha256": "f214f9a352df5cf9f7951d865a7207a9122c6b875866a9c30e86eb4a516bac25"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0029.rds",
+    "sha256": "b4eb9f002a77c2581032a0b2ffa1458c9256a6af08c621a354d92e025186b425"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0028.rds",
+    "sha256": "260e4f48f0e61886c3590622cd3ade8c450674bdd5e2ae2aac72f2637b9b4021"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0028.rds",
+    "sha256": "e15c7b0d0c20a6e0ffbc2aed0eea8055d73edb4f3ddef6e48433a7c93a54c2e1"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0014.rds",
+    "sha256": "e4474ecb0d20ef2b7ce6f4bf78abe631e8935cf0c6af900ce9b5bd17e55b6afd"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0014.rds",
+    "sha256": "b9162953586efaf48c41b5179d07bfbab860390069a8e094908432b79e5ace93"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0016.rds",
+    "sha256": "494207024c08b10ed313058efa725d06521a5070fd4396798dbcaee9974009d8"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0002.rds",
+    "sha256": "966fd3083bff3a029f9a923a33eddd8720e8f9b8d8829884a43dc984d39459a3"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0016.rds",
+    "sha256": "c73356ba0e86341a04b4951022d8d58c0c4548fedaabe5c05f3591ed5a2c9394"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0002.rds",
+    "sha256": "0622e05756d317e7ac6c8de674ec817ff4af7d90d8b7b91b13341788f8fb2e69"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0017.rds",
+    "sha256": "60984452f018aa2dcbf2e756bfe8a6fa842df28f801c2cb1bee23afa7f228429"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0003.rds",
+    "sha256": "bb6505b43b80beaacc8ce563127bf6a8fe269278974a6de182df684cd0f1528d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr7-0017.rds",
+    "sha256": "c0c372e978dfce23e864da561408b8a3280619983c66f3fefa0a30eca040dab5"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesovin-gr6-0003.rds",
+    "sha256": "ca76b3fffc495cb1c7980cb8f4ee97d6e5718ae403844f57004adc8c1b5bba5b"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0025.rds",
+    "sha256": "d727f9827f2bd89acb52d34b6b267c810a23014fda3886b95457af5c4137557d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0031.rds",
+    "sha256": "7297175c0e25aa24c681f63cf4cb806342ee783c5c6437f04039315dd8f5a740"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0025.rds",
+    "sha256": "63d88228df656d86313e11b933e0a0dfd579b62fc5a9c3451981b60c55202aae"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0031.rds",
+    "sha256": "270c86581985d6afedf3e93ab8dac678891dd6484e5fb98a64342b4ba025b960"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0019.rds",
+    "sha256": "f7404ab890409d30ad78f4dbd74d1aeedd3f57dbcb79dd782df8b33ce3608199"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0019.rds",
+    "sha256": "e7900e922e465e83373076968c43330bf0b0b1a0f66fbfc5412320900c1ddd9f"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0018.rds",
+    "sha256": "97fafdc4ef89985f6f74e88530114e94daa09cc415825a178f04913d0fdb5cbe"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0024.rds",
+    "sha256": "291d8058120c0f8e307c114896c5b2f62cd57f529214bf82a593e1a231442d14"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0030.rds",
+    "sha256": "1d51104d8105d5b6fa2c98437a22c78b284d92f04f6a1bd14711cf0bac57e249"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0032.rds",
+    "sha256": "cb2b7abf6cffe7491cd10e0190dce0b4bd8e3341acfafe2eeef35e1757601402"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0026.rds",
+    "sha256": "7218a6a3cd397193bcb08d8d001c4964b96b0611d40b0ef50bee7cabc9165486"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0033.rds",
+    "sha256": "c18d8a2eab61c93544d7f28d7d30b7fe8c7929d451fe5c28ed534a46f658df26"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0027.rds",
+    "sha256": "d8c576efb4968dc6b4a6e54abbe8b07b3bf50580e8e488602d1079cc57987774"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0023.rds",
+    "sha256": "e84c8aebafb87a52dad0aa24ad959920f55a257ab464af956bb48c10f7c1df40"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0022.rds",
+    "sha256": "a97b94b684aebdcb4e2694d0e10593a15e30171b26427e4d6498ec86a9e0f8a6"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0022.rds",
+    "sha256": "66b99e5e363c41299252d0c9d665674f3009ef00bf8c9b0cb6cab28f87679c2d"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0008.rds",
+    "sha256": "4cd9a3fe1bcbe74bc5c3b0dfcf7bbf81612922e3b56269ca8c9ca88fa79e1c9f"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0008.rds",
+    "sha256": "a730f0a5a7d987d3ff77e99306ae03ac881dfed9815599d15f1cbec1eb91375a"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0020.rds",
+    "sha256": "e9e0f80f08b34180be586e8ff9ac7cd1fec751739175e0d5d372b50b3ceca343"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0034.rds",
+    "sha256": "06dc372928a93e7f02054c9b42b6b74f705dd70b1dc2df727c6bbd4c77ec52b2"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0021.rds",
+    "sha256": "3fe248c39579a91d76990ad0e7226b40468894a451842f0ca3c2a24f1d360f67"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr7-0009.rds",
+    "sha256": "d4e1080f7467d2a29f71a46060ab86c26df95c6b1f851d8f13808a3e9adcf732"
+  },
+  {
+    "file": "maps/posterior-aic-saved-asr/nesosisyphus-gr6-0009.rds",
+    "sha256": "5bc4d0cb04f038d36d20f080b1f54ab18a8264e4a46bc1b67c13c6a1eede5717"
+  },
+  {
+    "file": "runs/posterior-aic-saved-asr/preflight.log",
+    "sha256": "15925a40b007768f3800624d21f5d367ef278a9e62e2202d288137f1d2dca6dc"
+  },
+  {
+    "file": "runs/posterior-aic-saved-asr/run.log",
+    "sha256": "1ab6c0de849f6409ef8ba13aa7593366fcaa0ac4fc3112b7a5ac1b77c0b443f8"
+  },
+  {
+    "file": "runs/posterior-aic-saved-asr/posterior-rows.rds",
+    "sha256": "bbc889ae8467aa3f7b34fefdbf2617f9b50c3b4d40e676214602c0ac96eb081c"
+  },
+  {
+    "file": "runs/posterior-aic-saved-asr/run-provenance.rds",
+    "sha256": "c5bc46bb7647aaabcd80d2d28fb67caa507a6716cc78cc6cfe577db057b2b544"
+  },
+  {
+    "file": "runs/posterior-aic-saved-asr/model-weights.csv",
+    "sha256": "ba0705593c03c451c2750e6badca96bb1778544f3e72a489eb06953e86d74c3c"
+  },
+  {
+    "file": "runs/posterior-aic-saved-asr/launcher.pid",
+    "sha256": "d1100d672e3fc1d0d0351cbaa3a91988000acfaacca76a3c7a9e3c18f1cc43a1"
+  },
+  {
+    "file": "runs/posterior-aic-saved-asr/fixed-root-priors.rds",
+    "sha256": "aa60d673fde6519c5ecf32184dd724c5593403e884a742b129a54a5827b71d52"
+  }
+]

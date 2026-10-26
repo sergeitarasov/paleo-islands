@@ -1,0 +1,20 @@
+Loading required package: ape
+Loading required package: diversitree
+Loading required package: yaml
+Loading required package: knitr
+Loading required package: kableExtra
+Loading required package: maps
+  model    logLik npar      AIC delta.AIC    weight
+1   gr6 -1036.231    9 2090.462 0.4457143 0.4445152
+2   gr7 -1035.008   10 2090.016 0.0000000 0.5554848
+Warning message:
+package ‘kableExtra’ was built under R version 4.6.1 
+          clade            root       prior.sum          n.tips 
+"sisyphini.gr6"            "23"             "1"            "22" 
+          clade            root       prior.sum          n.tips 
+"sisyphini.gr7"            "23"             "1"            "22" 
+        clade          root     prior.sum        n.tips 
+"nesovin.gr6"           "3"           "1"           "2" 
+        clade          root     prior.sum        n.tips 
+"nesovin.gr7"           "3"           "1"           "2" 
+PASS: saved priors, clade trees, tip states, all posterior vectors and 9 Ma epoch boundary.

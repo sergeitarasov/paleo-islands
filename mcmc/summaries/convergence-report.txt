@@ -1,0 +1,23 @@
+FINAL EMPIRICAL MCMC: GROUPS 6 AND 7
+
+Four chains per model; 5,000 sweeps each, first 1,000 discarded.
+16,000 retained joint draws per model, without thinning.
+Independent exponential mean-1 priors on free rates; fixed log-rate transformation.
+
+Group 6
+Diagnostic screen: 9/9 parameters pass.
+Maximum R-hat 1.00143; minimum bulk ESS 2684; minimum tail ESS 1271.
+Largest mean MCSE/posterior SD: 0.025; largest half-to-half median shift/SD: 0.046.
+
+Group 7
+Diagnostic screen: 10/10 parameters pass.
+Maximum R-hat 1.00104; minimum bulk ESS 3980; minimum tail ESS 3501.
+Largest mean MCSE/posterior SD: 0.017; largest half-to-half median shift/SD: 0.032.
+
+Pass: rank-normalized split R-hat <1.01, bulk/tail ESS >=400, mean MCSE/SD <0.05.
+Prefer ESS >=1,000 for final tail summaries. Inspect traces; thresholds do not prove convergence.
+Intervals are pointwise equal-tailed 95% posterior credible intervals, not ML confidence intervals.
+Density curves are zero-reflected KDEs; plots display approximately the first 99.5% of draws.
+The displayed curves are not renormalized after cropping. All draws enter summaries.
+Inference is conditional on each model, its priors, sampling assumptions and fixed tree.
+Near-zero ML outside a credible interval is not evidence against an exact-zero boundary model.

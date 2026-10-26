@@ -1,0 +1,9 @@
+"clade","route","n.maps","n.arrivals","n.without","p.arrival","mean","median","lower","upper","n.anagenetic","n.cladogenetic","n.root.in.destination","n.root.unknown","label"
+"Nesovinsonia","Sunken islands: A -> A.S",2000,2000,0,1,59.8823839213856,60.586558437339,54.4594939976009,61.7173232764765,4444,0,0,0,"Mean: 59.88 Ma
+95% CI: 54.46-61.72 Ma"
+"Nesovinsonia","Mauritius: S -> S.R",2000,2000,0,1,7.48952208476872,7.91868441248862,3.67669248130625,8.96583085060279,2091,0,0,0,"Mean: 7.49 Ma
+95% CI: 3.68-8.97 Ma"
+"Nesosisyphus","Sunken islands: A -> A.S",2000,1997,3,0.9985,20.823914052344,21.3527732701705,16.4315246267545,22.6548108827387,2400,0,3,0,"Mean: 20.82 Ma
+95% CI: 16.43-22.65 Ma"
+"Nesosisyphus","Mauritius: S -> S.R",2000,2000,0,1,7.8888537782509,8.15497615236825,5.5175223048186,8.96913845711578,2092,0,0,0,"Mean: 7.89 Ma
+95% CI: 5.52-8.97 Ma"
