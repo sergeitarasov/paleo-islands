@@ -1,0 +1,11 @@
+"model","type","prior","median_change_percent","upper_change_percent"
+"simple_prior1","Higher-richness component","log_uniform_10_1million",-0.455695139961509,-0.297648061005273
+"simple_prior1","Higher-richness component","log_uniform_100_100k",-0.451961117543787,-0.300297612640354
+"simple_prior1","Higher-richness component","log_uniform_1_10million",-0.455718127738236,-0.297625286507963
+"simple_prior1","Higher-richness component","lognormal_10k",-0.484521411044325,-0.274981414106223
+"simple_prior1","Higher-richness component","uniform_area_10_1million",-0.530166254427411,0.092053005108883
+"simple_prior2","Higher-richness component","log_uniform_10_1million",0.113887554667169,0.0546725625178102
+"simple_prior2","Higher-richness component","log_uniform_100_100k",0.116521344800091,0.050858153910438
+"simple_prior2","Higher-richness component","log_uniform_1_10million",0.113846451462529,0.0546807170256125
+"simple_prior2","Higher-richness component","lognormal_10k",0.0962232842721233,0.0576843676474592
+"simple_prior2","Higher-richness component","uniform_area_10_1million",0.105187391980999,0.316425734410974

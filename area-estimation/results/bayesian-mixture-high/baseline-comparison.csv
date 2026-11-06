@@ -1,0 +1,3 @@
+"model","type","prior","mean","median","lower","upper","p_below_100","p_above_100k","analysis"
+"simple_prior1","Non-Caribbean","log_uniform_10_1million",6094.45819974863,1765.93142620471,135.105648128698,35554.6049957138,0.014215629609599,0.00638283628180981,"Filtered non-Caribbean relationship"
+"simple_prior1","Higher-richness component","log_uniform_10_1million",2665.96280966065,696.667704260955,93.3965171361495,15055.352930604,0.0282700142434092,0.00252637035369406,"Selected higher-richness islands"

@@ -1,0 +1,23 @@
+Warning message:
+package ‘flexmix’ was built under R version 4.6.1 
+                     model k     AICc      BIC  log_RMSE count_RMSE
+1                   Pooled 3 171.8103 177.7219 0.9688119   28.51182
+2    Regions: shared slope 4 171.7695 179.4987 0.9617136   28.82029
+3 Regions: separate slopes 5 172.4704 181.9338 0.9549154   24.95510
+4           Latent mixture 6 178.9246 190.0343 0.9657342   28.33784
+  mean_negative_log_density delta_AICc
+1                  1.416390 0.04076719
+2                  1.410545 0.00000000
+3                  1.410413 0.70083824
+4                  1.420037 7.15507136
+               
+                Higher-richness component Lower-richness component
+  Caribbean                             1                       15
+  Other islands                         5                       40
+  best_matching_accuracy adjusted_Rand_index uncertain_below_0.8
+1              0.6721311         -0.03754408                  61
+  uncertain_below_0.6 best_start_repeats
+1                  34                  1
+                       component intercept area_exponent     sigma   weight
+Comp.2  Lower-richness component  2.259155     0.5153780 0.9360946 0.574268
+Comp.1 Higher-richness component  2.490748     0.4781001 0.9360946 0.425732

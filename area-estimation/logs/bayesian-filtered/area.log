@@ -1,0 +1,14 @@
+simple_prior1 Non-Caribbean done
+simple_prior2 Non-Caribbean done
+             model          type                   prior      mean    median
+11   simple_prior1       Oceanic log_uniform_10_1million 22379.055 1660.2442
+41 flexible_prior1       Oceanic log_uniform_10_1million 17687.417  815.4754
+1    simple_prior1 Non-Caribbean log_uniform_10_1million  6094.458 1765.9314
+       lower    upper p_below_100 p_above_100k                      analysis
+11  26.21502 215859.7  0.10335180  0.050540457   Previous simple: 61 islands
+41  15.42568 173460.8  0.19131907  0.039512374 Previous flexible: 61 islands
+1  135.10565  35554.6  0.01421563  0.006382836  Filtered grouped: 39 islands
+   interval_width interval_fold
+11       215833.5     8234.2001
+41       173445.4    11244.9412
+1         35419.5      263.1615

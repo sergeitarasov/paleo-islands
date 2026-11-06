@@ -1,0 +1,262 @@
+outfile: output/timetree_316-tips-final.tre
+setting the maximum number of threads to 8
+set thorough: true (MAY TAKE A WHILE)
+setting opt: 2
+setting optad: 2
+setting optcvad: 5
+finished reading config file
+using system clock for random number seed = 1749722689
+tiny branch length at internal node. setting to 4.9070362e-06
+setting node_100 min: 0.4494
+setting node_101 min: 0.2649
+setting node_102 min: 0.2363
+setting node_103 min: 0.2047
+setting node_104 min: 0.1442
+setting node_105 min: 0.0968
+setting node_54 min: 2.0483
+setting node_55 min: 1.6159
+setting node_56 min: 1.4693
+setting node_57 min: 1.5729
+setting node_58 min: 1.4964
+setting node_59 min: 1.379
+setting node_60 min: 1.3528
+setting node_61 min: 1.1733
+setting node_62 min: 0.9692
+setting node_63 min: 0.7859
+setting node_64 min: 0.8487
+setting node_65 min: 0.8266
+setting node_66 min: 0.3339
+setting node_67 min: 0.1768
+setting node_68 min: 0.7743
+setting node_69 min: 0.5839
+setting node_70 min: 0.2283
+setting node_71 min: 0.0399
+setting node_72 min: 0.0267
+setting node_73 min: 0.0254
+setting node_74 min: 0.176
+setting node_75 min: 0.8085
+setting node_76 min: 0.4983
+setting node_77 min: 0.7812
+setting node_78 min: 0.718
+setting node_79 min: 0.6176
+setting node_80 min: 0.6949
+setting node_81 min: 0.4096
+setting node_82 min: 0.6698
+setting node_83 min: 0.588
+setting node_84 min: 0.5744
+setting node_85 min: 0.4953
+setting node_86 min: 0.0748
+setting node_87 min: 0.5824
+setting node_88 min: 0.2419
+setting node_89 min: 0.1082
+setting node_90 min: 0.5792
+setting node_91 min: 0.5559
+setting node_92 min: 0.3345
+setting node_93 min: 0.446
+setting node_94 min: 0.5706
+setting node_95 min: 0.0884
+setting node_96 min: 0.0795
+setting node_97 min: 0.5526
+setting node_98 min: 0.4714
+setting node_99 min: 0.4507
+setting node_100 max: 0.4494
+setting node_101 max: 0.2649
+setting node_102 max: 0.2363
+setting node_103 max: 0.2047
+setting node_104 max: 0.1442
+setting node_105 max: 0.0968
+setting node_54 max: 2.0483
+setting node_55 max: 1.6159
+setting node_56 max: 1.4693
+setting node_57 max: 1.5729
+setting node_58 max: 1.4964
+setting node_59 max: 1.379
+setting node_60 max: 1.3528
+setting node_61 max: 1.1733
+setting node_62 max: 0.9692
+setting node_63 max: 0.7859
+setting node_64 max: 0.8487
+setting node_65 max: 0.8266
+setting node_66 max: 0.3339
+setting node_67 max: 0.1768
+setting node_68 max: 0.7743
+setting node_69 max: 0.5839
+setting node_70 max: 0.2283
+setting node_71 max: 0.0399
+setting node_72 max: 0.0267
+setting node_73 max: 0.0254
+setting node_74 max: 0.176
+setting node_75 max: 0.8085
+setting node_76 max: 0.4983
+setting node_77 max: 0.7812
+setting node_78 max: 0.718
+setting node_79 max: 0.6176
+setting node_80 max: 0.6949
+setting node_81 max: 0.4096
+setting node_82 max: 0.6698
+setting node_83 max: 0.588
+setting node_84 max: 0.5744
+setting node_85 max: 0.4953
+setting node_86 max: 0.0748
+setting node_87 max: 0.5824
+setting node_88 max: 0.2419
+setting node_89 max: 0.1082
+setting node_90 max: 0.5792
+setting node_91 max: 0.5559
+setting node_92 max: 0.3345
+setting node_93 max: 0.446
+setting node_94 max: 0.5706
+setting node_95 max: 0.0884
+setting node_96 max: 0.0795
+setting node_97 max: 0.5526
+setting node_98 max: 0.4714
+setting node_99 max: 0.4507
+preorder prep
+calculating character durations
+setting min and max
+setting up all constraints
+getting feasible start dates
+start rate 0.10826789
+numparams:264
+initial calc: 19009625
+LF SIM
+exit siman: 1562840.7
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 206910.5
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc2: 206835.84
+LF SIM
+exit siman: 206835.84
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: -1
+calculating without gradient (might want to try a different opt=VALUE)
+setting NLOPT : LN_SBPLX 
+result: 3
+after opt calc1: 206835.84
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc2: 206835.84
+LF SIM
+exit siman: 206835.84
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: -1
+calculating without gradient (might want to try a different opt=VALUE)
+setting NLOPT : LN_SBPLX 
+result: 3
+after opt calc1: 206835.84
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc2: 206835.84
+exited lf converged :1
+lf calc: 206835.84
+numparams:893
+smoothing:0.0001
+206835.84
+exit siman: 186834.57
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc1: 149674.17
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 143031.84
+exit siman: 143009.66
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc1: 141789.21
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141660.11
+exit siman: 141659.96
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141534.99
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141514.06
+exit siman: 141513.25
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc1: 141487.1
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141442.67
+exit siman: 141442.65
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc1: 141439.33
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141437.37
+exit siman: 141437.37
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141437.37
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141437.02
+exit siman: 141437.02
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141437.02
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.81
+exit siman: 141435.81
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.81
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.72
+exit siman: 141435.72
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.72
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.66
+exit siman: 141435.66
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.66
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.65
+exit siman: 141435.65
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.65
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.65
+exit siman: 141435.65
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.65
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.64
+exit siman: 141435.64
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.64
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.64
+exit siman: 141435.64
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.64
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.64
+exit siman: 141435.64
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 141435.64
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc2: 141435.64
+after opt calc: 141435.64

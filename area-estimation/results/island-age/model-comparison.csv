@@ -1,0 +1,9 @@
+"sample","model","n","AICc","adjusted_R2","LOO_log_RMSE"
+"All point-age proxies","Area",7,29.9869151137591,0.526729354779392,0.918298802269211
+"All point-age proxies","Area + age",7,43.2430967285352,0.468049098069685,1.81056969805105
+"All point-age proxies","Area + mainland",7,42.933455810573,0.491066795720271,1.13228088760205
+"All point-age proxies","Area + mainland + age",7,84.3400292609455,0.376578017051287,3.0311094530099
+"Without conflicting Sumbawa","Area",6,32.6279332109029,0.411088346161216,1.04860362668892
+"Without conflicting Sumbawa","Area + age",6,61.985682567517,0.294493152256669,2.13393163077196
+"Without conflicting Sumbawa","Area + mainland",6,61.6626489170745,0.33147249788538,1.37410479160548
+"Without conflicting Sumbawa","Area + mainland + age",6,NA,0.082159679453663,3.77288848870291

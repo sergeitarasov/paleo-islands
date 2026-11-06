@@ -1,0 +1,22 @@
+simple_prior1 500 km from mainland done
+simple_prior1 1000 km from mainland done
+simple_prior1 1500 km from mainland done
+simple_prior1 2000 km from mainland done
+simple_prior1 2500 km from mainland done
+simple_prior2 500 km from mainland done
+simple_prior2 1000 km from mainland done
+simple_prior2 1500 km from mainland done
+simple_prior2 2000 km from mainland done
+simple_prior2 2500 km from mainland done
+           model                  type                   prior      mean
+1  simple_prior1  500 km from mainland log_uniform_10_1million  9427.614
+6  simple_prior1 1000 km from mainland log_uniform_10_1million 15203.530
+11 simple_prior1 1500 km from mainland log_uniform_10_1million 19988.175
+16 simple_prior1 2000 km from mainland log_uniform_10_1million 24170.579
+21 simple_prior1 2500 km from mainland log_uniform_10_1million 27926.993
+     median    lower     upper p_below_100 p_above_100k distance_km
+1   645.697 18.08207  73420.82  0.17858192   0.01884138         500
+6  1198.608 25.27112 132544.14  0.11386203   0.03240793        1000
+11 1735.715 32.39176 183640.81  0.08469582   0.04404240        1500
+16 2261.916 39.38323 228043.01  0.06780635   0.05439693        2000
+21 2779.420 46.23161 266896.34  0.05672016   0.06379952        2500

@@ -1,0 +1,404 @@
+"model","training_set","island","observed_log","predicted_log","log_density"
+"Area","Oceanic only","Adonara",1.09861228866811,0.841958103044104,-0.401841556720636
+"Area","Oceanic only","Basilan",0.693147180559945,1.29744589863495,-0.939484615889144
+"Area","Oceanic only","Bohol",2.07944154167984,1.80143912826372,-0.421652006538447
+"Area","Oceanic only","Cebu",1.38629436111989,1.91034052533785,-0.772763034333098
+"Area","Oceanic only","Flores",3.09104245335832,2.39185407020396,-1.17218100377749
+"Area","Oceanic only","Halmahera",2.19722457733622,2.59415567743672,-0.562689511365033
+"Area","Oceanic only","Komodo",1.38629436111989,0.592494230640596,-1.44785270363955
+"Area","Oceanic only","Leyte",1.79175946922805,2.12717785732683,-0.483184423047726
+"Area","Oceanic only","Lombok",3.04452243772342,1.85110715009965,-3.19409673846625
+"Area","Oceanic only","Luzon",3.68887945411394,3.34253998174845,-0.496760561639419
+"Area","Oceanic only","Marinduque",0.693147180559945,1.14104132422462,-0.639148515864234
+"Area","Oceanic only","Mindanao",3.61091791264422,3.30087219317405,-0.454974967865206
+"Area","Oceanic only","Negros",2.30258509299405,2.40430138128252,-0.306188460392989
+"Area","Oceanic only","Rinca",0.693147180559945,0.402234495051981,-0.43451814316642
+"Area","Oceanic only","Samar",1.94591014905531,2.41702496837298,-0.677521788599937
+"Area","Oceanic only","Sumbawa",2.94443897916644,2.41661840575154,-0.7799871072759
+"Area","Oceanic only","Ternate",0,0.0907531470267251,-0.302583386624305
+"Area","Oceanic only","Wetar",1.6094379124341,1.6381834511078,-0.289891396215194
+"Area","Oceanic only","Dominica",1.09861228866811,1.03643462776094,-0.295085062080935
+"Area","Oceanic only","Eleuthera",0,0.808295320542823,-1.49439403560544
+"Area","Oceanic only","Grenada",1.38629436111989,0.578486180359101,-1.49238577675095
+"Area","Oceanic only","Guadeloupe",1.09861228866811,1.42324210836614,-0.470636690178993
+"Area","Oceanic only","Martinique",1.38629436111989,1.21928849244718,-0.336256946725543
+"Area","Oceanic only","New Providence",0,0.469580981968253,-0.674912693049265
+"Area","Oceanic only","Saint John",0,-0.297341862227757,-0.441330068647924
+"Area","Oceanic only","Saint Lucia",0.693147180559945,0.943837483800063,-0.396588822525284
+"Area","Oceanic only","Saint Thomas",0,-0.0924149900547467,-0.303112809905055
+"Area","Oceanic only","Saint Vincent",0.693147180559945,0.663465644746508,-0.289985558729043
+"Area","Oceanic only","Tortola",0,-0.218839305300527,-0.370905365367244
+"Area","Oceanic only","Mauritius",1.79175946922805,1.46379429249191,-0.474447687256959
+"Area","Oceanic only","Réunion",0,1.67452964804391,-7.35575334562775
+"Area","All island types","Adonara",1.09861228866811,0.868957668581599,-0.892903818235628
+"Area","All island types","Basilan",0.693147180559945,1.32979967109209,-1.08813008838853
+"Area","All island types","Bohol",2.07944154167984,1.86814044530961,-0.888446982352882
+"Area","All island types","Cebu",1.38629436111989,1.96005154629337,-1.04575337921305
+"Area","All island types","Flores",3.09104245335832,2.51398364642582,-1.04787318535381
+"Area","All island types","Halmahera",2.19722457733622,2.65961801955879,-0.981772098317774
+"Area","All island types","Komodo",1.38629436111989,0.621315804395155,-1.18873478812768
+"Area","All island types","Leyte",1.79175946922805,2.1872553790205,-0.95003915988623
+"Area","All island types","Lombok",3.04452243772342,1.94611659127649,-1.5413801880255
+"Area","All island types","Luzon",3.68887945411394,3.51571454499373,-0.880393956805756
+"Area","All island types","Marinduque",0.693147180559945,1.16980123220874,-0.989185455395383
+"Area","All island types","Mindanao",3.61091791264422,3.46501801458833,-0.875610815276647
+"Area","All island types","Negros",2.30258509299405,2.48229260349867,-0.881656162154157
+"Area","All island types","Rinca",0.693147180559945,0.415823954924003,-0.906214303840114
+"Area","All island types","Samar",1.94591014905531,2.47625985072735,-1.01914808095409
+"Area","All island types","Sumbawa",2.94443897916644,2.53057159259307,-0.958256834175778
+"Area","All island types","Ternate",0,0.0806571517276187,-0.867488586865182
+"Area","All island types","Wetar",1.6094379124341,1.69121203908741,-0.867585976515535
+"Area","All island types","Dominica",1.09861228866811,1.06787072992841,-0.864433137700414
+"Area","All island types","Eleuthera",0,0.817002824849607,-1.23497054347034
+"Area","All island types","Grenada",1.38629436111989,0.607297262193968,-1.20088298376783
+"Area","All island types","Guadeloupe",1.09861228866811,1.46372956452566,-0.937286865184877
+"Area","All island types","Martinique",1.38629436111989,1.25910247068229,-0.872799434109418
+"Area","All island types","New Providence",0,0.466484987185701,-0.983903413035448
+"Area","All island types","Saint John",0,-0.300659148650689,-0.91366683040859
+"Area","All island types","Saint Lucia",0.693147180559945,0.967389904701981,-0.905269155749209
+"Area","All island types","Saint Thomas",0,-0.101468453044872,-0.869572164315615
+"Area","All island types","Saint Vincent",0.693147180559945,0.680279721657148,-0.86400514199668
+"Area","All island types","Tortola",0,-0.224973597785131,-0.891750114711
+"Area","All island types","Mauritius",1.79175946922805,1.51597068485357,-0.905731894300842
+"Area","All island types","Réunion",0,1.6977585873252,-2.53521237377617
+"Area + isolation","Oceanic only","Adonara",1.09861228866811,0.849858509738665,-0.380858879481076
+"Area + isolation","Oceanic only","Basilan",0.693147180559945,1.20835414496407,-0.755752254682657
+"Area + isolation","Oceanic only","Bohol",2.07944154167984,1.69055085166424,-0.54326854283954
+"Area + isolation","Oceanic only","Cebu",1.38629436111989,1.83339211518615,-0.633094073649459
+"Area + isolation","Oceanic only","Flores",3.09104245335832,2.45615126896036,-1.01937513985047
+"Area + isolation","Oceanic only","Halmahera",2.19722457733622,2.57489255217229,-0.527550734309204
+"Area + isolation","Oceanic only","Komodo",1.38629436111989,0.535458281769878,-1.67112564789901
+"Area + isolation","Oceanic only","Leyte",1.79175946922805,2.0538089557059,-0.393161036268276
+"Area + isolation","Oceanic only","Lombok",3.04452243772342,1.81982996742853,-3.49844675656438
+"Area + isolation","Oceanic only","Luzon",3.68887945411394,3.47333969747121,-0.353628746998815
+"Area + isolation","Oceanic only","Marinduque",0.693147180559945,1.072285792375,-0.529461098104678
+"Area + isolation","Oceanic only","Mindanao",3.61091791264422,3.27503886049877,-0.473471722817375
+"Area + isolation","Oceanic only","Negros",2.30258509299405,2.3454955396358,-0.273754190139014
+"Area + isolation","Oceanic only","Rinca",0.693147180559945,0.343505135826848,-0.490253607703938
+"Area + isolation","Oceanic only","Samar",1.94591014905531,2.36481231493397,-0.587929559697176
+"Area + isolation","Oceanic only","Sumbawa",2.94443897916644,2.43796063904686,-0.738955441947202
+"Area + isolation","Oceanic only","Ternate",0,-0.0734021651644513,-0.280072633686208
+"Area + isolation","Oceanic only","Wetar",1.6094379124341,1.68955616927548,-0.281863241067192
+"Area + isolation","Oceanic only","Dominica",1.09861228866811,1.10640011339934,-0.270596573248221
+"Area + isolation","Oceanic only","Eleuthera",0,0.987180875546449,-2.21090622213748
+"Area + isolation","Oceanic only","Grenada",1.38629436111989,0.685610182721126,-1.18677098422525
+"Area + isolation","Oceanic only","Guadeloupe",1.09861228866811,1.49156238522559,-0.548997670554905
+"Area + isolation","Oceanic only","Martinique",1.38629436111989,1.32401601692947,-0.277365815579241
+"Area + isolation","Oceanic only","New Providence",0,0.673831371900288,-1.118227824663
+"Area + isolation","Oceanic only","Saint John",0,-0.388450204501449,-0.542941641326887
+"Area + isolation","Oceanic only","Saint Lucia",0.693147180559945,1.09572919693109,-0.563272444211456
+"Area + isolation","Oceanic only","Saint Thomas",0,-0.169277945445325,-0.321520895767539
+"Area + isolation","Oceanic only","Saint Vincent",0.693147180559945,0.834888928222898,-0.30624213550088
+"Area + isolation","Oceanic only","Tortola",0,-0.306309625728908,-0.438834509784685
+"Area + isolation","Oceanic only","Mauritius",1.79175946922805,1.29550583668226,-0.719707565047046
+"Area + isolation","Oceanic only","Réunion",0,1.62851632145258,-7.01439304520531
+"Area + isolation","All island types","Adonara",1.09861228866811,0.83695149075778,-0.828168598775825
+"Area + isolation","All island types","Basilan",0.693147180559945,0.992535163745806,-0.841857908875748
+"Area + isolation","All island types","Bohol",2.07944154167984,1.48681357149339,-1.01199903123963
+"Area + isolation","All island types","Cebu",1.38629436111989,1.60929168157861,-0.816066086640956
+"Area + isolation","All island types","Flores",3.09104245335832,2.46444836758989,-1.0390851413598
+"Area + isolation","All island types","Halmahera",2.19722457733622,2.39156298646322,-0.808344864456303
+"Area + isolation","All island types","Komodo",1.38629436111989,0.477737087618705,-1.32540121239709
+"Area + isolation","All island types","Leyte",1.79175946922805,1.83380812486711,-0.785129535654841
+"Area + isolation","All island types","Lombok",3.04452243772342,1.7171057393076,-1.96389908066656
+"Area + isolation","All island types","Luzon",3.68887945411394,3.47796805289979,-0.812686513833788
+"Area + isolation","All island types","Marinduque",0.693147180559945,0.920566860176696,-0.817351662039198
+"Area + isolation","All island types","Mindanao",3.61091791264422,3.08999108464766,-0.959911981710126
+"Area + isolation","All island types","Negros",2.30258509299405,2.14052726137191,-0.800922567751577
+"Area + isolation","All island types","Rinca",0.693147180559945,0.285007781842142,-0.891722596486935
+"Area + isolation","All island types","Samar",1.94591014905531,2.14720462314149,-0.810121890448283
+"Area + isolation","All island types","Sumbawa",2.94443897916644,2.36116143598321,-1.00478998209827
+"Area + isolation","All island types","Ternate",0,-0.243553014258422,-0.822280391823975
+"Area + isolation","All island types","Wetar",1.6094379124341,1.67575598553128,-0.786823669257795
+"Area + isolation","All island types","Dominica",1.09861228866811,1.1580800957158,-0.786268825059666
+"Area + isolation","All island types","Eleuthera",0,1.07394884303642,-1.54583745390512
+"Area + isolation","All island types","Grenada",1.38629436111989,1.20377977458983,-0.805485629942652
+"Area + isolation","All island types","Guadeloupe",1.09861228866811,1.50037154243819,-0.888335520948192
+"Area + isolation","All island types","Martinique",1.38629436111989,1.41508607644911,-0.78452429806693
+"Area + isolation","All island types","New Providence",0,0.818932033880713,-1.2224036709614
+"Area + isolation","All island types","Saint John",0,-0.413201767826014,-0.894462836124113
+"Area + isolation","All island types","Saint Lucia",0.693147180559945,1.20916109052001,-0.95654266224441
+"Area + isolation","All island types","Saint Thomas",0,-0.215632165142126,-0.81399521541973
+"Area + isolation","All island types","Saint Vincent",0.693147180559945,1.01723622145272,-0.851834706130966
+"Area + isolation","All island types","Tortola",0,-0.34201546141644,-0.859590491711835
+"Area + isolation","All island types","Mauritius",1.79175946922805,1.07215785715325,-1.12138786613469
+"Area + isolation","All island types","Réunion",0,1.33579651939938,-1.97906632961167
+"Area + group","Oceanic only","Adonara",1.09861228866811,0.852479103552384,-0.392359532843646
+"Area + group","Oceanic only","Basilan",0.693147180559945,1.33716161337403,-1.03221825634604
+"Area + group","Oceanic only","Bohol",2.07944154167984,1.80932733731678,-0.413726650502374
+"Area + group","Oceanic only","Cebu",1.38629436111989,1.92513365911615,-0.801471390243437
+"Area + group","Oceanic only","Flores",3.09104245335832,2.39348253814483,-1.16834331645338
+"Area + group","Oceanic only","Halmahera",2.19722457733622,2.59421053480534,-0.562502263628636
+"Area + group","Oceanic only","Komodo",1.38629436111989,0.558542607805313,-1.55369601434804
+"Area + group","Oceanic only","Leyte",1.79175946922805,2.13531835060094,-0.49254517595971
+"Area + group","Oceanic only","Lombok",3.04452243772342,1.8502612602927,-3.19836816758426
+"Area + group","Oceanic only","Luzon",3.68887945411394,3.3223012995808,-0.521889618046229
+"Area + group","Oceanic only","Marinduque",0.693147180559945,1.18194787269623,-0.708020899864141
+"Area + group","Oceanic only","Mindanao",3.61091791264422,3.28289814628433,-0.474726550745174
+"Area + group","Oceanic only","Negros",2.30258509299405,2.40688122482378,-0.306522989698336
+"Area + group","Oceanic only","Rinca",0.693147180559945,0.407321728193413,-0.429283079463257
+"Area + group","Oceanic only","Samar",1.94591014905531,2.42004586992429,-0.682542685890115
+"Area + group","Oceanic only","Sumbawa",2.94443897916644,2.41814083449883,-0.777071501114597
+"Area + group","Oceanic only","Ternate",0,0.148057764453096,-0.325659862420208
+"Area + group","Oceanic only","Wetar",1.6094379124341,1.65234142853995,-0.291030727296847
+"Area + group","Oceanic only","Dominica",1.09861228866811,1.00319763662573,-0.303496591928925
+"Area + group","Oceanic only","Eleuthera",0,0.826626156842416,-1.55207856734882
+"Area + group","Oceanic only","Grenada",1.38629436111989,0.521755491433415,-1.68130022444636
+"Area + group","Oceanic only","Guadeloupe",1.09861228866811,1.42286918496601,-0.470204520017681
+"Area + group","Oceanic only","Martinique",1.38629436111989,1.17239591042476,-0.366691612211833
+"Area + group","Oceanic only","New Providence",0,0.465830700185154,-0.668563866704827
+"Area + group","Oceanic only","Saint John",0,-0.3081305115149,-0.452357779201555
+"Area + group","Oceanic only","Saint Lucia",0.693147180559945,0.933042357518346,-0.387096324808376
+"Area + group","Oceanic only","Saint Thomas",0,-0.104943644838654,-0.306784221490884
+"Area + group","Oceanic only","Saint Vincent",0.693147180559945,0.639461936552619,-0.292819768845295
+"Area + group","Oceanic only","Tortola",0,-0.230480569406223,-0.379488453179
+"Area + group","Oceanic only","Mauritius",1.79175946922805,1.47200495775253,-0.464846206089188
+"Area + group","Oceanic only","Réunion",0,1.71890968090995,-7.87725113655482
+"Area + group","All island types","Adonara",1.09861228866811,1.04323409554604,-0.846533311101521
+"Area + group","All island types","Basilan",0.693147180559945,1.48826951002243,-1.20986799587413
+"Area + group","All island types","Bohol",2.07944154167984,1.9868445663521,-0.849675408035934
+"Area + group","All island types","Cebu",1.38629436111989,2.07962297320292,-1.12155481900845
+"Area + group","All island types","Flores",3.09104245335832,2.59677488826744,-0.984807838298795
+"Area + group","All island types","Halmahera",2.19722457733622,2.73919886434782,-1.01330444880675
+"Area + group","All island types","Komodo",1.38629436111989,0.79997987913397,-1.04224661146778
+"Area + group","All island types","Leyte",1.79175946922805,2.29264393492378,-0.988597196643759
+"Area + group","All island types","Lombok",3.04452243772342,2.05417032426158,-1.4149703942582
+"Area + group","All island types","Luzon",3.68887945411394,3.54704394818831,-0.856268572070431
+"Area + group","All island types","Marinduque",0.693147180559945,1.33637321110281,-1.08271769070539
+"Area + group","All island types","Mindanao",3.61091791264422,3.49917852454526,-0.851910255925877
+"Area + group","All island types","Negros",2.30258509299405,2.57027238725193,-0.885718811923251
+"Area + group","All island types","Rinca",0.693147180559945,0.61648849296432,-0.848138054716228
+"Area + group","All island types","Samar",1.94591014905531,2.56625637563933,-1.0659472874011
+"Area + group","All island types","Sumbawa",2.94443897916644,2.61324388518727,-0.907492566227786
+"Area + group","All island types","Ternate",0,0.312638143556377,-0.900693600068823
+"Area + group","All island types","Wetar",1.6094379124341,1.8221418034319,-0.870616940075424
+"Area + group","All island types","Dominica",1.09861228866811,0.76946981209572,-0.906751682400449
+"Area + group","All island types","Eleuthera",0,0.564969542341163,-1.02807468794228
+"Area + group","All island types","Grenada",1.38629436111989,0.306410627210532,-1.52497628340958
+"Area + group","All island types","Guadeloupe",1.09861228866811,1.16186784843903,-0.847067476902529
+"Area + group","All island types","Martinique",1.38629436111989,0.945575017512186,-0.956060998654893
+"Area + group","All island types","New Providence",0,0.217279101409255,-0.871760901679199
+"Area + group","All island types","Saint John",0,-0.535716893970794,-1.00953754468206
+"Area + group","All island types","Saint Lucia",0.693147180559945,0.686978626596799,-0.844804787027353
+"Area + group","All island types","Saint Thomas",0,-0.341078762647393,-0.911359061782974
+"Area + group","All island types","Saint Vincent",0.693147180559945,0.40352871155932,-0.892743823103551
+"Area + group","All island types","Tortola",0,-0.461823920131756,-0.967057615368358
+"Area + group","All island types","Mauritius",1.79175946922805,1.65313229751963,-0.85575131445368
+"Area + group","All island types","Réunion",0,1.84336552909522,-2.91713241079047
+"Area + group + isolation","Oceanic only","Adonara",1.09861228866811,1.10027163497053,-0.240747644924613
+"Area + group + isolation","Oceanic only","Basilan",0.693147180559945,1.25525778392256,-0.858905117594296
+"Area + group + isolation","Oceanic only","Bohol",2.07944154167984,1.67153683492336,-0.560196442592169
+"Area + group + isolation","Oceanic only","Cebu",1.38629436111989,1.81813516556883,-0.599675662008289
+"Area + group + isolation","Oceanic only","Flores",3.09104245335832,2.55688378941253,-0.796688999149247
+"Area + group + isolation","Oceanic only","Halmahera",2.19722457733622,2.55114406548514,-0.48006614595867
+"Area + group + isolation","Oceanic only","Komodo",1.38629436111989,0.685081690668477,-1.22217152021693
+"Area + group + isolation","Oceanic only","Leyte",1.79175946922805,2.0200942011894,-0.339441599444722
+"Area + group + isolation","Oceanic only","Lombok",3.04452243772342,1.86991277815842,-3.37230213040408
+"Area + group + isolation","Oceanic only","Luzon",3.68887945411394,3.51680756071337,-0.296900776374395
+"Area + group + isolation","Oceanic only","Marinduque",0.693147180559945,1.19152129662226,-0.722543892326762
+"Area + group + isolation","Oceanic only","Mindanao",3.61091791264422,3.09237131645876,-0.763498926226011
+"Area + group + isolation","Oceanic only","Negros",2.30258509299405,2.29505353173722,-0.240849194822888
+"Area + group + isolation","Oceanic only","Rinca",0.693147180559945,0.570499346039051,-0.269187236860667
+"Area + group + isolation","Oceanic only","Samar",1.94591014905531,2.32143474247729,-0.510684537642827
+"Area + group + isolation","Oceanic only","Sumbawa",2.94443897916644,2.47985847819767,-0.657726039005116
+"Area + group + isolation","Oceanic only","Ternate",0,0.115836834231539,-0.266136782946411
+"Area + group + isolation","Oceanic only","Wetar",1.6094379124341,1.90647523656894,-0.40867942077546
+"Area + group + isolation","Oceanic only","Dominica",1.09861228866811,0.92278874066302,-0.299176487321821
+"Area + group + isolation","Oceanic only","Eleuthera",0,0.928709192222476,-2.0486432421026
+"Area + group + isolation","Oceanic only","Grenada",1.38629436111989,0.847281521053389,-0.806532438515951
+"Area + group + isolation","Oceanic only","Guadeloupe",1.09861228866811,1.27862960551162,-0.302083275783483
+"Area + group + isolation","Oceanic only","Martinique",1.38629436111989,1.15869536677208,-0.338910983251676
+"Area + group + isolation","Oceanic only","New Providence",0,0.688936594376979,-1.18652544572013
+"Area + group + isolation","Oceanic only","Saint John",0,-0.622422267951556,-1.00368883053329
+"Area + group + isolation","Oceanic only","Saint Lucia",0.693147180559945,1.01448503967401,-0.43757985856155
+"Area + group + isolation","Oceanic only","Saint Thomas",0,-0.406250645688697,-0.558008851173597
+"Area + group + isolation","Oceanic only","Saint Vincent",0.693147180559945,0.825683290854695,-0.273913297428063
+"Area + group + isolation","Oceanic only","Tortola",0,-0.545628100107198,-0.821354776745228
+"Area + group + isolation","Oceanic only","Mauritius",1.79175946922805,1.27280042472885,-0.76451573832459
+"Area + group + isolation","Oceanic only","Réunion",0,1.61808061545526,-7.45498477774397
+"Area + group + isolation","All island types","Adonara",1.09861228866811,1.10755092327626,-0.729483913215569
+"Area + group + isolation","All island types","Basilan",0.693147180559945,1.16803086708505,-0.892379921732469
+"Area + group + isolation","All island types","Bohol",2.07944154167984,1.60369514775189,-0.892967513598116
+"Area + group + isolation","All island types","Cebu",1.38629436111989,1.72479348743238,-0.811997476543167
+"Area + group + isolation","All island types","Flores",3.09104245335832,2.5867899193117,-0.913251757567288
+"Area + group + isolation","All island types","Halmahera",2.19722457733622,2.46310950519575,-0.780316543071316
+"Area + group + isolation","All island types","Komodo",1.38629436111989,0.739244567650747,-1.03336492415044
+"Area + group + isolation","All island types","Leyte",1.79175946922805,1.92895919594621,-0.742960629768166
+"Area + group + isolation","All island types","Lombok",3.04452243772342,1.85085635020611,-1.78937447141124
+"Area + group + isolation","All island types","Luzon",3.68887945411394,3.52017163204903,-0.749899211124499
+"Area + group + isolation","All island types","Marinduque",0.693147180559945,1.12769902798896,-0.865754710699391
+"Area + group + isolation","All island types","Mindanao",3.61091791264422,3.07228847205346,-0.939423157879555
+"Area + group + isolation","All island types","Negros",2.30258509299405,2.21275199412207,-0.73522733001722
+"Area + group + isolation","All island types","Rinca",0.693147180559945,0.577665943133556,-0.739017764563517
+"Area + group + isolation","All island types","Samar",1.94591014905531,2.22240637552806,-0.784468798932228
+"Area + group + isolation","All island types","Sumbawa",2.94443897916644,2.46029127417553,-0.898808508422526
+"Area + group + isolation","All island types","Ternate",0,0.0532618400315025,-0.731467011524866
+"Area + group + isolation","All island types","Wetar",1.6094379124341,1.8791611394782,-0.781793530404389
+"Area + group + isolation","All island types","Dominica",1.09861228866811,0.709117709879735,-0.838888597916652
+"Area + group + isolation","All island types","Eleuthera",0,0.710885782336245,-1.09706838307397
+"Area + group + isolation","All island types","Grenada",1.38629436111989,0.879671921685474,-0.915134414714883
+"Area + group + isolation","All island types","Guadeloupe",1.09861228866811,1.02238648644117,-0.733604946167126
+"Area + group + isolation","All island types","Martinique",1.38629436111989,0.961434986946854,-0.85975411355072
+"Area + group + isolation","All island types","New Providence",0,0.487556064528207,-0.901310384408345
+"Area + group + isolation","All island types","Saint John",0,-0.809875692083855,-1.20826103082044
+"Area + group + isolation","All island types","Saint Lucia",0.693147180559945,0.814036899197587,-0.739938358860092
+"Area + group + isolation","All island types","Saint Thomas",0,-0.622160016473655,-1.01030455811147
+"Area + group + isolation","All island types","Saint Vincent",0.693147180559945,0.65449879541267,-0.730500678527503
+"Area + group + isolation","All island types","Tortola",0,-0.743502127524319,-1.13205558555337
+"Area + group + isolation","All island types","Mauritius",1.79175946922805,1.2084522713708,-0.975961525511693
+"Area + group + isolation","All island types","Réunion",0,1.47416350952789,-2.37572364388116
+"Area x group","Oceanic only","Adonara",1.09861228866811,0.805253542334089,-0.430366073658451
+"Area x group","Oceanic only","Basilan",0.693147180559945,1.31602040199412,-0.986201824627975
+"Area x group","Oceanic only","Bohol",2.07944154167984,1.81024538866716,-0.406037731238543
+"Area x group","Oceanic only","Cebu",1.38629436111989,1.92949933664477,-0.810953278446736
+"Area x group","Oceanic only","Flores",3.09104245335832,2.4195676942954,-1.10689335737571
+"Area x group","Oceanic only","Halmahera",2.19722457733622,2.63285467998055,-0.616896436479165
+"Area x group","Oceanic only","Komodo",1.38629436111989,0.486927407791753,-1.82305560418312
+"Area x group","Oceanic only","Leyte",1.79175946922805,2.14998081174313,-0.505676451105194
+"Area x group","Oceanic only","Lombok",3.04452243772342,1.85496950744689,-3.22555211943675
+"Area x group","Oceanic only","Luzon",3.68887945411394,3.39547632835593,-0.430816347535741
+"Area x group","Oceanic only","Marinduque",0.693147180559945,1.15415265688193,-0.658392044358711
+"Area x group","Oceanic only","Mindanao",3.61091791264422,3.3546468475736,-0.394498398035315
+"Area x group","Oceanic only","Negros",2.30258509299405,2.43495809970607,-0.309336116993889
+"Area x group","Oceanic only","Rinca",0.693147180559945,0.329830987202583,-0.512764196808186
+"Area x group","Oceanic only","Samar",1.94591014905531,2.44912830391733,-0.733224407830469
+"Area x group","Oceanic only","Sumbawa",2.94443897916644,2.44564409248207,-0.725046693113849
+"Area x group","Oceanic only","Ternate",0,0.0595298276280642,-0.284940299301759
+"Area x group","Oceanic only","Wetar",1.6094379124341,1.64548271953614,-0.280987644499018
+"Area x group","Oceanic only","Dominica",1.09861228866811,0.894936945816518,-0.351556302914683
+"Area x group","Oceanic only","Eleuthera",0,0.795346964872233,-1.46481327931386
+"Area x group","Oceanic only","Grenada",1.38629436111989,0.516656109170992,-1.71855839492298
+"Area x group","Oceanic only","Guadeloupe",1.09861228866811,1.27168521272645,-0.331483741999909
+"Area x group","Oceanic only","Martinique",1.38629436111989,0.987920305234337,-0.561034529892651
+"Area x group","Oceanic only","New Providence",0,0.503532298190489,-0.733833245308447
+"Area x group","Oceanic only","Saint John",0,-0.143978558133989,-0.315232581714358
+"Area x group","Oceanic only","Saint Lucia",0.693147180559945,0.864803597467192,-0.33035279511527
+"Area x group","Oceanic only","Saint Thomas",0,0.0543509348788908,-0.283903925084557
+"Area x group","Oceanic only","Saint Vincent",0.693147180559945,0.624699010882207,-0.28690199618746
+"Area x group","Oceanic only","Tortola",0,-0.0633915046807878,-0.285783132551307
+"Area x group","Oceanic only","Mauritius",1.79175946922805,1.45742705988347,-0.476034847013438
+"Area x group","Oceanic only","Réunion",0,1.71177138210545,-7.98156901046864
+"Area x group","All island types","Adonara",1.09861228866811,0.938516293507024,-0.846090733272326
+"Area x group","All island types","Basilan",0.693147180559945,1.42347691030584,-1.14713391961303
+"Area x group","All island types","Bohol",2.07944154167984,1.96421062715883,-0.838835314247347
+"Area x group","All island types","Cebu",1.38629436111989,2.06342160669149,-1.10233903534341
+"Area x group","All island types","Flores",3.09104245335832,2.62572770903592,-0.958552299445337
+"Area x group","All island types","Halmahera",2.19722457733622,2.77887926234256,-1.03076265515094
+"Area x group","All island types","Komodo",1.38629436111989,0.669655195392125,-1.1353287135836
+"Area x group","All island types","Leyte",1.79175946922805,2.29450563781259,-0.979993163358938
+"Area x group","All island types","Lombok",3.04452243772342,2.03875028659534,-1.43620030896504
+"Area x group","All island types","Luzon",3.68887945411394,3.65753913200775,-0.831623385498635
+"Area x group","All island types","Marinduque",0.693147180559945,1.25889822674549,-1.01994804498163
+"Area x group","All island types","Mindanao",3.61091791264422,3.60546666345873,-0.831064553868194
+"Area x group","All island types","Negros",2.30258509299405,2.59589017155707,-0.881578247866853
+"Area x group","All island types","Rinca",0.693147180559945,0.471183605083521,-0.859987718520393
+"Area x group","All island types","Samar",1.94591014905531,2.59098339804674,-1.07705795890974
+"Area x group","All island types","Sumbawa",2.94443897916644,2.64333991647355,-0.884304861478192
+"Area x group","All island types","Ternate",0,0.141179586933412,-0.842753236012891
+"Area x group","All island types","Wetar",1.6094379124341,1.78525761507306,-0.849185564072494
+"Area x group","All island types","Dominica",1.09861228866811,0.811577673681662,-0.879466920269799
+"Area x group","All island types","Eleuthera",0,0.680467080673835,-1.10514852184446
+"Area x group","All island types","Grenada",1.38629436111989,0.441268405836938,-1.36400360822261
+"Area x group","All island types","Guadeloupe",1.09861228866811,1.10986624928097,-0.831121439587584
+"Area x group","All island types","Martinique",1.38629436111989,0.941023300293954,-0.947819682265318
+"Area x group","All island types","New Providence",0,0.423103122676777,-0.93648782607547
+"Area x group","All island types","Saint John",0,-0.169571045118869,-0.847960361346017
+"Area x group","All island types","Saint Lucia",0.693147180559945,0.756086487230046,-0.83337187667907
+"Area x group","All island types","Saint Thomas",0,-0.0081691237790404,-0.831086337713691
+"Area x group","All island types","Saint Vincent",0.693147180559945,0.538953318339684,-0.845007987738497
+"Area x group","All island types","Tortola",0,-0.107369687076536,-0.837824927927017
+"Area x group","All island types","Mauritius",1.79175946922805,1.60222937502989,-0.852127861374997
+"Area x group","All island types","Réunion",0,1.80651673924515,-2.87488873648707
+"Area x group + isolation","Oceanic only","Adonara",1.09861228866811,1.07977673329522,-0.209788893948077
+"Area x group + isolation","Oceanic only","Basilan",0.693147180559945,1.19440859908424,-0.729595598568441
+"Area x group + isolation","Oceanic only","Bohol",2.07944154167984,1.63946754988668,-0.607017737440153
+"Area x group + isolation","Oceanic only","Cebu",1.38629436111989,1.79762816788581,-0.555751977856026
+"Area x group + isolation","Oceanic only","Flores",3.09104245335832,2.65308517003165,-0.603433790994407
+"Area x group + isolation","Oceanic only","Halmahera",2.19722457733622,2.6077842002297,-0.554496681459164
+"Area x group + isolation","Oceanic only","Komodo",1.38629436111989,0.610062726940758,-1.5131297323402
+"Area x group + isolation","Oceanic only","Leyte",1.79175946922805,2.01644293196945,-0.310912544279718
+"Area x group + isolation","Oceanic only","Lombok",3.04452243772342,1.88350045574211,-3.49622327752259
+"Area x group + isolation","Oceanic only","Luzon",3.68887945411394,3.73457608882085,-0.213291764131768
+"Area x group + isolation","Oceanic only","Marinduque",0.693147180559945,1.14054791671385,-0.620943954763483
+"Area x group + isolation","Oceanic only","Mindanao",3.61091791264422,3.19258234584169,-0.568439226244659
+"Area x group + isolation","Oceanic only","Negros",2.30258509299405,2.31809534262415,-0.209557970583446
+"Area x group + isolation","Oceanic only","Rinca",0.693147180559945,0.481264349818137,-0.299868152228376
+"Area x group + isolation","Oceanic only","Samar",1.94591014905531,2.34583101782673,-0.536432957169356
+"Area x group + isolation","Oceanic only","Sumbawa",2.94443897916644,2.54785566849024,-0.530900116326765
+"Area x group + isolation","Oceanic only","Ternate",0,-0.0632582576803606,-0.217147366656247
+"Area x group + isolation","Oceanic only","Wetar",1.6094379124341,1.95711546193676,-0.455386489138561
+"Area x group + isolation","Oceanic only","Dominica",1.09861228866811,0.692445950099862,-0.547287727664012
+"Area x group + isolation","Oceanic only","Eleuthera",0,0.885064757312104,-1.95142410336946
+"Area x group + isolation","Oceanic only","Grenada",1.38629436111989,0.978238530872603,-0.551089186910318
+"Area x group + isolation","Oceanic only","Guadeloupe",1.09861228866811,0.816327209930358,-0.371565948855028
+"Area x group + isolation","Oceanic only","Martinique",1.38629436111989,0.827159261971605,-0.860950787833773
+"Area x group + isolation","Oceanic only","New Providence",0,0.825532300202414,-1.69873402588278
+"Area x group + isolation","Oceanic only","Saint John",0,-0.366867633519293,-0.484686806706556
+"Area x group + isolation","Oceanic only","Saint Lucia",0.693147180559945,0.90314382690362,-0.298096483118464
+"Area x group + isolation","Oceanic only","Saint Thomas",0,-0.191614869437453,-0.283422339316155
+"Area x group + isolation","Oceanic only","Saint Vincent",0.693147180559945,0.844698601629998,-0.255320781437672
+"Area x group + isolation","Oceanic only","Tortola",0,-0.302118847570793,-0.395118232297463
+"Area x group + isolation","Oceanic only","Mauritius",1.79175946922805,1.19302759707891,-0.962138763014536
+"Area x group + isolation","Oceanic only","Réunion",0,1.57535141740959,-7.51165045984728
+"Area x group + isolation","All island types","Adonara",1.09861228866811,1.00393699340185,-0.718978798498619
+"Area x group + isolation","All island types","Basilan",0.693147180559945,1.10236366213441,-0.837376407502692
+"Area x group + isolation","All island types","Bohol",2.07944154167984,1.58113838571794,-0.8981107137413
+"Area x group + isolation","All island types","Cebu",1.38629436111989,1.70877620225811,-0.789848376114586
+"Area x group + isolation","All island types","Flores",3.09104245335832,2.61554179970364,-0.881380528891129
+"Area x group + isolation","All island types","Halmahera",2.19722457733622,2.5027623497923,-0.781894746075275
+"Area x group + isolation","All island types","Komodo",1.38629436111989,0.609179138064841,-1.16820508455847
+"Area x group + isolation","All island types","Leyte",1.79175946922805,1.93116766939237,-0.726769904770086
+"Area x group + isolation","All island types","Lombok",3.04452243772342,1.83564090586075,-1.83974847816621
+"Area x group + isolation","All island types","Luzon",3.68887945411394,3.6296923624743,-0.714915797820412
+"Area x group + isolation","All island types","Marinduque",0.693147180559945,1.04973317554009,-0.807180775479946
+"Area x group + isolation","All island types","Mindanao",3.61091791264422,3.17652123356957,-0.85335365008997
+"Area x group + isolation","All island types","Negros",2.30258509299405,2.23865640884738,-0.715349225323071
+"Area x group + isolation","All island types","Rinca",0.693147180559945,0.432851907598201,-0.762811334289798
+"Area x group + isolation","All island types","Samar",1.94591014905531,2.24741511594702,-0.780067254150542
+"Area x group + isolation","All island types","Sumbawa",2.94443897916644,2.49027743923228,-0.866473960948817
+"Area x group + isolation","All island types","Ternate",0,-0.123052785846596,-0.723587102310201
+"Area x group + isolation","All island types","Wetar",1.6094379124341,1.84252812462141,-0.752764376055552
+"Area x group + isolation","All island types","Dominica",1.09861228866811,0.75092329676501,-0.80251865017764
+"Area x group + isolation","All island types","Eleuthera",0,0.826861565311649,-1.22943315408013
+"Area x group + isolation","All island types","Grenada",1.38629436111989,1.02604492530557,-0.8092335885446
+"Area x group + isolation","All island types","Guadeloupe",1.09861228866811,0.970535869484644,-0.724520189430951
+"Area x group + isolation","All island types","Martinique",1.38629436111989,0.956900602701723,-0.850102900284835
+"Area x group + isolation","All island types","New Providence",0,0.700046101967943,-1.08130806185
+"Area x group + isolation","All island types","Saint John",0,-0.472835259521889,-0.87977677339081
+"Area x group + isolation","All island types","Saint Lucia",0.693147180559945,0.883046200216734,-0.739166702160555
+"Area x group + isolation","All island types","Saint Thomas",0,-0.311321832559585,-0.784690484235928
+"Area x group + isolation","All island types","Saint Vincent",0.693147180559945,0.79268282531554,-0.719685380470326
+"Area x group + isolation","All island types","Tortola",0,-0.415743680776441,-0.841624658601668
+"Area x group + isolation","All island types","Mauritius",1.79175946922805,1.15663282537657,-1.01532897627554
+"Area x group + isolation","All island types","Réunion",0,1.43701174765237,-2.32963498862478
+"Area + island type","All island types","Adonara",1.09861228866811,0.867784934956716,-0.785175404258037
+"Area + island type","All island types","Basilan",0.693147180559945,1.30159897361064,-1.00666334256939
+"Area + island type","All island types","Bohol",2.07944154167984,1.781527665842,-0.809805271366848
+"Area + island type","All island types","Cebu",1.38629436111989,1.88273704279276,-0.919797297744411
+"Area + island type","All island types","Flores",3.09104245335832,2.35707834391942,-1.12576289229111
+"Area + island type","All island types","Halmahera",2.19722457733622,2.52465757380928,-0.82265884923075
+"Area + island type","All island types","Komodo",1.38629436111989,0.636345299918356,-1.14258582237501
+"Area + island type","All island types","Leyte",1.79175946922805,2.08802747520793,-0.809130493036867
+"Area + island type","All island types","Lombok",3.04452243772342,1.83281575497751,-1.79963033495733
+"Area + island type","All island types","Luzon",3.68887945411394,3.27130405564703,-0.869512317004354
+"Area + island type","All island types","Marinduque",0.693147180559945,1.15194458151406,-0.894641031523519
+"Area + island type","All island types","Mindanao",3.61091791264422,3.22774238601993,-0.85029195362487
+"Area + island type","All island types","Negros",2.30258509299405,2.35264879692891,-0.7499877262719
+"Area + island type","All island types","Rinca",0.693147180559945,0.453008388997623,-0.788224313440517
+"Area + island type","All island types","Samar",1.94591014905531,2.35807469383255,-0.866307365814897
+"Area + island type","All island types","Sumbawa",2.94443897916644,2.37737662498733,-0.972487758189834
+"Area + island type","All island types","Ternate",0,0.149866281370006,-0.763811202343095
+"Area + island type","All island types","Wetar",1.6094379124341,1.625415660746,-0.748429202719039
+"Area + island type","All island types","Dominica",1.09861228866811,1.05213858887699,-0.749747415066004
+"Area + island type","All island types","Eleuthera",0,0.830647936584097,-1.23343830598791
+"Area + island type","All island types","Grenada",1.38629436111989,0.623430765983048,-1.15646758801639
+"Area + island type","All island types","Guadeloupe",1.09861228866811,1.42111148414115,-0.820405812083488
+"Area + island type","All island types","Martinique",1.38629436111989,1.22611507869308,-0.766020329953611
+"Area + island type","All island types","New Providence",0,0.505551853273311,-0.926204696742306
+"Area + island type","All island types","Saint John",0,-0.200301773840176,-0.776063114442871
+"Area + island type","All island types","Saint Lucia",0.693147180559945,0.963401517647129,-0.798887946551058
+"Area + island type","All island types","Saint Thomas",0,-0.0174980286853284,-0.748464536290091
+"Area + island type","All island types","Saint Vincent",0.693147180559945,0.697206588324617,-0.748263921489308
+"Area + island type","All island types","Tortola",0,-0.130865477640493,-0.760116994722903
+"Area + island type","All island types","Mauritius",1.79175946922805,1.45883786112927,-0.825157021272688
+"Area + island type","All island types","Réunion",0,1.66063268278702,-2.78520719489534

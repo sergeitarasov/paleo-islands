@@ -1,0 +1,17 @@
+"model","chain","acceptance"
+"simple_prior1",1,0.24976
+"simple_prior1",2,0.26744
+"simple_prior1",3,0.2612
+"simple_prior1",4,0.23276
+"simple_prior2",1,0.22488
+"simple_prior2",2,0.2438
+"simple_prior2",3,0.23116
+"simple_prior2",4,0.24456
+"flexible_prior1",1,0.23676
+"flexible_prior1",2,0.23508
+"flexible_prior1",3,0.25424
+"flexible_prior1",4,0.23392
+"flexible_prior2",1,0.23724
+"flexible_prior2",2,0.2702
+"flexible_prior2",3,0.23312
+"flexible_prior2",4,0.2558

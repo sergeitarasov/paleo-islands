@@ -1,0 +1,6 @@
+outfile: /output/timetree_prime.tre
+setting the maximum number of threads to 8
+set thorough: true (MAY TAKE A WHILE)
+PRIMING the optimization parameters and then exiting
+finished reading config file
+using system clock for random number seed = 1749721842

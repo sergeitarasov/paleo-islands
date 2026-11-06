@@ -1,0 +1,61 @@
+"model","type","prior","median_change_percent","upper_change_percent"
+"simple_prior1","Continental fragment","log_uniform_10_1million",-0.00155909752925787,-0.560972067472998
+"simple_prior1","Continental fragment","log_uniform_100_100k",-0.0342962916537015,-0.102218017836064
+"simple_prior1","Continental fragment","log_uniform_1_10million",0.0216695076113771,-0.918351168573428
+"simple_prior1","Continental fragment","lognormal_10k",-0.214529792435025,-0.458800604224141
+"simple_prior1","Continental fragment","uniform_area_10_1million",-0.926340627306388,-0.0591077140178031
+"simple_prior1","Continental shelf","log_uniform_10_1million",-0.0951696310915184,-1.38734745522463
+"simple_prior1","Continental shelf","log_uniform_100_100k",-0.470000130702142,-1.02162940328248
+"simple_prior1","Continental shelf","log_uniform_1_10million",0.111808411005443,-1.43009159177906
+"simple_prior1","Continental shelf","lognormal_10k",-0.806741784215059,-1.18627139433763
+"simple_prior1","Continental shelf","uniform_area_10_1million",-4.62433526557064,-1.49802170249242
+"simple_prior1","Oceanic","log_uniform_10_1million",-0.177470202995123,-0.854567272128304
+"simple_prior1","Oceanic","log_uniform_100_100k",-0.206972209936052,-0.187838550910346
+"simple_prior1","Oceanic","log_uniform_1_10million",-0.185795970019664,-1.45582020420963
+"simple_prior1","Oceanic","lognormal_10k",-0.339573078276434,-0.624506630065946
+"simple_prior1","Oceanic","uniform_area_10_1million",-2.29803258403447,-0.249082165327286
+"simple_prior2","Continental fragment","log_uniform_10_1million",-0.12862401759639,0.0102865963758081
+"simple_prior2","Continental fragment","log_uniform_100_100k",-0.112278396830812,-0.0271779267543182
+"simple_prior2","Continental fragment","log_uniform_1_10million",-0.144967915835603,0.248646421036169
+"simple_prior2","Continental fragment","lognormal_10k",-0.129221597758167,-0.0332714268204581
+"simple_prior2","Continental fragment","uniform_area_10_1million",0.294743351108218,0.0517019147045827
+"simple_prior2","Continental shelf","log_uniform_10_1million",-0.176958682025141,-0.329701225642232
+"simple_prior2","Continental shelf","log_uniform_100_100k",-0.136482448999475,-0.230946572069091
+"simple_prior2","Continental shelf","log_uniform_1_10million",-0.405562814457161,-0.364762828334864
+"simple_prior2","Continental shelf","lognormal_10k",-0.196844693873677,-0.201696102354665
+"simple_prior2","Continental shelf","uniform_area_10_1million",-0.256149188049304,0.398417517259775
+"simple_prior2","Oceanic","log_uniform_10_1million",0.409246511195493,0.676832866625543
+"simple_prior2","Oceanic","log_uniform_100_100k",0.246981517386269,0.105308514018843
+"simple_prior2","Oceanic","log_uniform_1_10million",0.439754189649055,1.40324004083445
+"simple_prior2","Oceanic","lognormal_10k",0.173972732900207,0.410343687709336
+"simple_prior2","Oceanic","uniform_area_10_1million",1.97399015611011,0.227247792555429
+"flexible_prior1","Continental fragment","log_uniform_10_1million",-1.6578319403545,0.458759931710362
+"flexible_prior1","Continental fragment","log_uniform_100_100k",-1.14271349344762,-0.0664794013432113
+"flexible_prior1","Continental fragment","log_uniform_1_10million",-1.7729175816034,0.620373619309955
+"flexible_prior1","Continental fragment","lognormal_10k",-0.635770233879951,0.332367969888159
+"flexible_prior1","Continental fragment","uniform_area_10_1million",2.50344066849029,0.302467142615925
+"flexible_prior1","Continental shelf","log_uniform_10_1million",0.272865782399512,0.405622882903622
+"flexible_prior1","Continental shelf","log_uniform_100_100k",-0.156934104164907,0.00093449870663953
+"flexible_prior1","Continental shelf","log_uniform_1_10million",0.997870211211116,0.800450709344758
+"flexible_prior1","Continental shelf","lognormal_10k",-0.215596262690476,0.37425144183274
+"flexible_prior1","Continental shelf","uniform_area_10_1million",1.41323914730567,0.0640382905976011
+"flexible_prior1","Oceanic","log_uniform_10_1million",-0.74810913024681,-0.272396278381426
+"flexible_prior1","Oceanic","log_uniform_100_100k",-0.711833478117407,-0.313407470121718
+"flexible_prior1","Oceanic","log_uniform_1_10million",-0.722174035965939,0.160782252203751
+"flexible_prior1","Oceanic","lognormal_10k",-0.62346112267263,-0.200581350631057
+"flexible_prior1","Oceanic","uniform_area_10_1million",1.51463237763148,0.0765525684320423
+"flexible_prior2","Continental fragment","log_uniform_10_1million",0.472208947815811,0.8535837546646
+"flexible_prior2","Continental fragment","log_uniform_100_100k",0.417652633366927,0.370741866175028
+"flexible_prior2","Continental fragment","log_uniform_1_10million",0.437267631306693,0.924181200410445
+"flexible_prior2","Continental fragment","lognormal_10k",0.455759485146534,0.60279126831102
+"flexible_prior2","Continental fragment","uniform_area_10_1million",1.49115503980579,0.151263708909788
+"flexible_prior2","Continental shelf","log_uniform_10_1million",0.854113893725983,0.681408838823572
+"flexible_prior2","Continental shelf","log_uniform_100_100k",0.284964419619071,0.0578695017207753
+"flexible_prior2","Continental shelf","log_uniform_1_10million",1.11760702920851,1.05905574703156
+"flexible_prior2","Continental shelf","lognormal_10k",0.411499281905936,0.0643108612682131
+"flexible_prior2","Continental shelf","uniform_area_10_1million",0.0913843166476358,0.00506185543636128
+"flexible_prior2","Oceanic","log_uniform_10_1million",1.14276911236044,-0.482195459352486
+"flexible_prior2","Oceanic","log_uniform_100_100k",0.930434658555157,0.148598887809226
+"flexible_prior2","Oceanic","log_uniform_1_10million",1.08776700656035,-1.92999401105993
+"flexible_prior2","Oceanic","lognormal_10k",0.664972965286004,-0.259696526831699
+"flexible_prior2","Oceanic","uniform_area_10_1million",-2.18440754726553,-0.12654796673528

@@ -1,0 +1,11 @@
+"model","type","prior","median_change_percent","upper_change_percent"
+"simple_prior1","Oceanic islands","log_uniform_10_1million",0.0893359609384525,0.138616690591786
+"simple_prior1","Oceanic islands","log_uniform_100_100k",0.0881186118369293,0.0006408916600531
+"simple_prior1","Oceanic islands","log_uniform_1_10million",0.0885916446415891,0.237326155109097
+"simple_prior1","Oceanic islands","lognormal_10k",0.0907611734601854,0.0488443253781723
+"simple_prior1","Oceanic islands","uniform_area_10_1million",1.20287731770772,2.31512212222891
+"simple_prior2","Oceanic islands","log_uniform_10_1million",-0.0980220135487375,-0.205973573770002
+"simple_prior2","Oceanic islands","log_uniform_100_100k",-0.0989873634323346,-0.120654319705571
+"simple_prior2","Oceanic islands","log_uniform_1_10million",-0.0967152152052453,-0.195423975590558
+"simple_prior2","Oceanic islands","lognormal_10k",-0.0716720713441199,-0.179871365443962
+"simple_prior2","Oceanic islands","uniform_area_10_1million",0.220308423565574,0.573478467131894

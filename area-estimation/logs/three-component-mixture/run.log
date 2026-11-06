@@ -1,0 +1,93 @@
+Warning message:
+package ‘flexmix’ was built under R version 4.6.1 
+Full-data starts: 20 /200
+Full-data starts: 40 /200
+Full-data starts: 60 /200
+Full-data starts: 80 /200
+Full-data starts: 100 /200
+Full-data starts: 120 /200
+Full-data starts: 140 /200
+Full-data starts: 160 /200
+Full-data starts: 180 /200
+Full-data starts: 200 /200
+Holdout: 1 /61
+Holdout: 2 /61
+Holdout: 3 /61
+Holdout: 4 /61
+Holdout: 5 /61
+Holdout: 6 /61
+Holdout: 7 /61
+Holdout: 8 /61
+Holdout: 9 /61
+Holdout: 10 /61
+Holdout: 11 /61
+Holdout: 12 /61
+Holdout: 13 /61
+Holdout: 14 /61
+Holdout: 15 /61
+Holdout: 16 /61
+Holdout: 17 /61
+Holdout: 18 /61
+Holdout: 19 /61
+Holdout: 20 /61
+Holdout: 21 /61
+Holdout: 22 /61
+Holdout: 23 /61
+Holdout: 24 /61
+Holdout: 25 /61
+Holdout: 26 /61
+Holdout: 27 /61
+Holdout: 28 /61
+Holdout: 29 /61
+Holdout: 30 /61
+Holdout: 31 /61
+Holdout: 32 /61
+Holdout: 33 /61
+Holdout: 34 /61
+Holdout: 35 /61
+Holdout: 36 /61
+Holdout: 37 /61
+Holdout: 38 /61
+Holdout: 39 /61
+Holdout: 40 /61
+Holdout: 41 /61
+Holdout: 42 /61
+Holdout: 43 /61
+Holdout: 44 /61
+Holdout: 45 /61
+Holdout: 46 /61
+Holdout: 47 /61
+Holdout: 48 /61
+Holdout: 49 /61
+Holdout: 50 /61
+Holdout: 51 /61
+Holdout: 52 /61
+Holdout: 53 /61
+Holdout: 54 /61
+Holdout: 55 /61
+Holdout: 56 /61
+Holdout: 57 /61
+Holdout: 58 /61
+Holdout: 59 /61
+Holdout: 60 /61
+Holdout: 61 /61
+                     model k     AICc      BIC  log_RMSE count_RMSE
+1                   Pooled 3 171.8103 177.7219 0.9688119   28.51182
+2    Regions: shared slope 4 171.7695 179.4987 0.9617136   28.82029
+3 Regions: separate slopes 5 172.4704 181.9338 0.9549154   24.95510
+4    Mixture: 2 components 6 178.9246 190.0343 0.9657342   28.33784
+5    Mixture: 3 components 9 173.0505 188.5190 1.0663202   29.55387
+  mean_negative_log_density delta_AICc
+1                  1.416390 0.04076719
+2                  1.410545 0.00000000
+3                  1.410413 0.70083824
+4                  1.420037 7.15507136
+5                  1.532431 1.28096717
+       component intercept area_exponent     sigma    weight hard_count
+Comp.1       Low -0.216374    -0.7353854 0.4963755 0.1064322          5
+Comp.3    Middle  1.777524     0.4208538 0.4963755 0.4218989         25
+Comp.2      High  2.853570     0.5701170 0.4963755 0.4716688         31
+  classification     ARI_two   ARI_three
+1         region -0.05453613 -0.01006458
+2           type  0.06162676  0.07896348
+3          group -0.03754408 -0.01499089

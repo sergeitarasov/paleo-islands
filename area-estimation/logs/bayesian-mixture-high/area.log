@@ -1,0 +1,11 @@
+simple_prior1 Higher-richness component done
+simple_prior2 Higher-richness component done
+          model                      type                   prior     mean
+1 simple_prior1             Non-Caribbean log_uniform_10_1million 6094.458
+6 simple_prior1 Higher-richness component log_uniform_10_1million 2665.963
+     median     lower    upper p_below_100 p_above_100k
+1 1765.9314 135.10565 35554.60  0.01421563  0.006382836
+6  696.6677  93.39652 15055.35  0.02827001  0.002526370
+                             analysis
+1 Filtered non-Caribbean relationship
+6    Selected higher-richness islands

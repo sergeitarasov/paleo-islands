@@ -1,0 +1,9 @@
+Tips: 271 ; node pies: 270
+Tip identifiers checked: 271
+Approved names changed: 6
+Root age (Ma): 96.9800005769265
+Maximum probability-sum error: 3.33066907387547e-16
+Pie radius range (points): 2.311 to 2.7
+PDF dimensions (inches): 17 x 40
+All 16 states retained; no categories pooled or probabilities recalculated.
+Original saved RDS tree, probabilities, and spreadsheet unchanged.

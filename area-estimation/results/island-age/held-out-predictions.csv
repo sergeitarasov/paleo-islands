@@ -1,0 +1,53 @@
+"sample","model","island","observed_log","predicted_log"
+"All point-age proxies","Area","Flores",3.09104245335832,2.83588316358672
+"All point-age proxies","Area","Lombok",3.04452243772342,1.951667196416
+"All point-age proxies","Area","Sumbawa",2.94443897916644,2.95106778254839
+"All point-age proxies","Area","Saint Lucia",0.693147180559945,0.71887086647655
+"All point-age proxies","Area","Saint Vincent",0.693147180559945,-0.0302156648019798
+"All point-age proxies","Area","Mauritius",1.79175946922805,1.45406339298724
+"All point-age proxies","Area","Réunion",0,2.00136750626257
+"All point-age proxies","Area + age","Flores",3.09104245335832,2.73566992966255
+"All point-age proxies","Area + age","Lombok",3.04452243772342,2.04246532003934
+"All point-age proxies","Area + age","Sumbawa",2.94443897916644,3.01218325509193
+"All point-age proxies","Area + age","Saint Lucia",0.693147180559945,3.8341242601789
+"All point-age proxies","Area + age","Saint Vincent",0.693147180559945,-2.03403530188763
+"All point-age proxies","Area + age","Mauritius",1.79175946922805,1.50441359516711
+"All point-age proxies","Area + age","Réunion",0,2.10388024309476
+"All point-age proxies","Area + mainland","Flores",3.09104245335832,3.34146605856136
+"All point-age proxies","Area + mainland","Lombok",3.04452243772342,1.83841196416055
+"All point-age proxies","Area + mainland","Sumbawa",2.94443897916644,3.1907836092322
+"All point-age proxies","Area + mainland","Saint Lucia",0.693147180559945,1.08948641573777
+"All point-age proxies","Area + mainland","Saint Vincent",0.693147180559945,0.39468804423708
+"All point-age proxies","Area + mainland","Mauritius",1.79175946922805,0.242355999158508
+"All point-age proxies","Area + mainland","Réunion",0,2.17933617583419
+"All point-age proxies","Area + mainland + age","Flores",3.09104245335832,3.17974392869779
+"All point-age proxies","Area + mainland + age","Lombok",3.04452243772342,1.90924505761108
+"All point-age proxies","Area + mainland + age","Sumbawa",2.94443897916644,3.21980227100115
+"All point-age proxies","Area + mainland + age","Saint Lucia",0.693147180559945,5.77027275738681
+"All point-age proxies","Area + mainland + age","Saint Vincent",0.693147180559945,-4.75743293329627
+"All point-age proxies","Area + mainland + age","Mauritius",1.79175946922805,0.34242007862007
+"All point-age proxies","Area + mainland + age","Réunion",0,2.31391694303564
+"Without conflicting Sumbawa","Area","Flores",3.09104245335832,2.70509940329283
+"Without conflicting Sumbawa","Area","Lombok",3.04452243772342,1.84493669126079
+"Without conflicting Sumbawa","Area","Saint Lucia",0.693147180559945,0.718504819841324
+"Without conflicting Sumbawa","Area","Saint Vincent",0.693147180559945,-0.0751514138148411
+"Without conflicting Sumbawa","Area","Mauritius",1.79175946922805,1.44893535112453
+"Without conflicting Sumbawa","Area","Réunion",0,2.07388651533279
+"Without conflicting Sumbawa","Area + age","Flores",3.09104245335832,2.60897759836154
+"Without conflicting Sumbawa","Area + age","Lombok",3.04452243772342,1.94969027398039
+"Without conflicting Sumbawa","Area + age","Saint Lucia",0.693147180559945,3.83520407199948
+"Without conflicting Sumbawa","Area + age","Saint Vincent",0.693147180559945,-2.65258992636119
+"Without conflicting Sumbawa","Area + age","Mauritius",1.79175946922805,1.50703347647315
+"Without conflicting Sumbawa","Area + age","Réunion",0,2.17793343540229
+"Without conflicting Sumbawa","Area + mainland","Flores",3.09104245335832,4.56800144895124
+"Without conflicting Sumbawa","Area + mainland","Lombok",3.04452243772342,1.79774221895829
+"Without conflicting Sumbawa","Area + mainland","Saint Lucia",0.693147180559945,1.08789617937987
+"Without conflicting Sumbawa","Area + mainland","Saint Vincent",0.693147180559945,0.34417671712382
+"Without conflicting Sumbawa","Area + mainland","Mauritius",1.79175946922805,0.230539346162824
+"Without conflicting Sumbawa","Area + mainland","Réunion",0,2.20864203804692
+"Without conflicting Sumbawa","Area + mainland + age","Flores",3.09104245335832,4.24692424077468
+"Without conflicting Sumbawa","Area + mainland + age","Lombok",3.04452243772342,1.87695671655742
+"Without conflicting Sumbawa","Area + mainland + age","Saint Lucia",0.693147180559945,5.83606294806295
+"Without conflicting Sumbawa","Area + mainland + age","Saint Vincent",0.693147180559945,-6.2818983336587
+"Without conflicting Sumbawa","Area + mainland + age","Mauritius",1.79175946922805,0.332891662563337
+"Without conflicting Sumbawa","Area + mainland + age","Réunion",0,2.34087912439392

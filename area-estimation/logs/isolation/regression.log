@@ -1,0 +1,46 @@
+                            model       baseline      isolation k     AICc
+6        Caribbean/rest: Mainland Caribbean/rest       Mainland 6 160.4490
+9               Island type: None    Island type           None 5 162.3694
+8            Caribbean/rest: Both Caribbean/rest           Both 7 162.4021
+10          Island type: Mainland    Island type       Mainland 6 162.6766
+4                 Area only: Both      Area only           Both 5 164.2684
+2             Area only: Mainland      Area only       Mainland 4 164.3528
+12              Island type: Both    Island type           Both 7 164.5530
+11    Island type: Large landmass    Island type Large landmass 6 164.6318
+1                 Area only: None      Area only           None 3 171.8103
+5            Caribbean/rest: None Caribbean/rest           None 5 172.4704
+3       Area only: Large landmass      Area only Large landmass 4 172.4758
+7  Caribbean/rest: Large landmass Caribbean/rest Large landmass 6 174.0371
+        BIC adjusted_R2  log_RMSE count_RMSE negative_log_density delta_AICc
+6  171.5587   0.7028275 0.8651750   39.04451             1.309001   0.000000
+9  171.8329   0.6862804 0.9165011   38.79722             1.413137   1.920408
+8  175.0650   0.7004084 0.8805867   47.56350             1.331504   1.953075
+10 173.7863   0.6917747 0.9262611   43.54211             1.421641   2.227608
+4  173.7319   0.6763604 0.9089801   42.04784             1.352197   3.819410
+2  172.0820   0.6688461 0.9149697   32.07635             1.355292   3.903784
+12 177.2159   0.6896563 0.9388847   49.64131             1.441740   4.103933
+11 175.7415   0.6817353 0.9303177   40.63854             1.434174   4.182802
+1  177.7219   0.6180321 0.9688119   28.51182             1.416390  11.361278
+5  181.9338   0.6297832 0.9549154   24.95510             1.410413  12.021349
+3  180.2050   0.6216774 0.9705070   31.89830             1.419965  12.026804
+7  185.1468   0.6286785 0.9650567   28.27181             1.424934  13.588078
+        baseline      isolation change_total_log_predictive_density approx_SE
+1      Area only       Mainland                           3.7269803 4.2351418
+2      Area only Large landmass                          -0.2180923 1.3612137
+3      Area only           Both                           3.9157716 4.7779815
+4 Caribbean/rest       Mainland                           6.1861163 5.6999001
+5 Caribbean/rest Large landmass                          -0.8858065 1.1139111
+6 Caribbean/rest           Both                           4.8134601 5.6527881
+7    Island type       Mainland                          -0.5187914 2.0858365
+8    Island type Large landmass                          -1.2833028 0.7181017
+9    Island type           Both                          -1.7448149 2.2472808
+  change_log_RMSE
+1    -0.053842151
+2     0.001695162
+3    -0.059831804
+4    -0.089740467
+5     0.010141295
+6    -0.074328715
+7     0.009759998
+8     0.013816530
+9     0.022383546

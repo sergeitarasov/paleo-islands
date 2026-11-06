@@ -1,0 +1,10 @@
+"class","component","Freq","classification","fraction"
+"Australasian","Low",4,"region",0.0975609756097561
+"Caribbean","Low",0,"region",0
+"Indian Ocean","Low",1,"region",0.25
+"Australasian","Middle",16,"region",0.390243902439024
+"Caribbean","Middle",9,"region",0.5625
+"Indian Ocean","Middle",0,"region",0
+"Australasian","High",21,"region",0.51219512195122
+"Caribbean","High",7,"region",0.4375
+"Indian Ocean","High",3,"region",0.75

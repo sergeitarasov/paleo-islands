@@ -1,0 +1,62 @@
+"island","region","type","X1","X2"
+"Adonara","Australasian","Oceanic",0.527354799841295,0.472645200158705
+"Ambon","Australasian","Continental fragment",0.520937949863363,0.479062050136637
+"Aru Islands","Australasian","Continental shelf",0.695446918583778,0.304553081416222
+"Bacan","Australasian","Continental fragment",0.500585564604453,0.499414435395547
+"Bali","Australasian","Continental shelf",0.424173775892476,0.575826224107524
+"Basilan","Australasian","Oceanic",0.601304540623063,0.398695459376937
+"Bohol","Australasian","Oceanic",0.532317806164665,0.467682193835335
+"Borneo","Australasian","Continental shelf",0.521814322467397,0.478185677532603
+"Buru","Australasian","Continental fragment",0.627641621915217,0.372358378084783
+"Cebu","Australasian","Oceanic",0.590034565826329,0.409965434173671
+"Flores","Australasian","Oceanic",0.51134309420808,0.48865690579192
+"Halmahera","Australasian","Oceanic",0.576133354034127,0.423866645965873
+"Java","Australasian","Continental shelf",0.499147196223258,0.500852803776742
+"Kei Islands","Australasian","Continental fragment",0.60208433967953,0.39791566032047
+"Komodo","Australasian","Oceanic",0.475492032905135,0.524507967094864
+"Langkawi","Australasian","Continental shelf",0.319950500847836,0.680049499152165
+"Larat","Australasian","Continental fragment",0.593812181180341,0.406187818819659
+"Leyte","Australasian","Oceanic",0.575516821599725,0.424483178400275
+"Lombok","Australasian","Oceanic",0.46697727955425,0.53302272044575
+"Luzon","Australasian","Oceanic",0.540122148776423,0.459877851223577
+"Mangoli (Mangole)","Australasian","Continental fragment",0.656902995667034,0.343097004332965
+"Marinduque","Australasian","Oceanic",0.589371247069335,0.410628752930665
+"Mindanao","Australasian","Oceanic",0.541215490180637,0.458784509819363
+"Mindoro","Australasian","Continental fragment",0.575179410697798,0.424820589302203
+"Negros","Australasian","Oceanic",0.55961654504214,0.44038345495786
+"New Caledonia","Australasian","Continental fragment",0.471440527443959,0.528559472556041
+"New Guinea","Australasian","Continental shelf",0.52902865288685,0.47097134711315
+"Palawan","Australasian","Continental fragment",0.50984511083679,0.49015488916321
+"Panay","Australasian","Continental fragment",0.699244502894932,0.300755497105068
+"Rinca","Australasian","Oceanic",0.521248443055828,0.478751556944172
+"Samar","Australasian","Oceanic",0.582009254007486,0.417990745992514
+"Seram","Australasian","Continental fragment",0.590718940580546,0.409281059419454
+"Sibuyan","Australasian","Continental fragment",0.440500853124079,0.559499146875922
+"Sulawesi","Australasian","Continental fragment",0.525276686395779,0.474723313604221
+"Sumatra","Australasian","Continental shelf",0.524645495731097,0.475354504268903
+"Sumba","Australasian","Continental fragment",0.600310490245607,0.399689509754393
+"Sumbawa","Australasian","Oceanic",0.521865406680041,0.478134593319959
+"Ternate","Australasian","Oceanic",0.556783695642857,0.443216304357143
+"Timor","Australasian","Continental fragment",0.58750389458468,0.41249610541532
+"Tioman","Australasian","Continental shelf",0.289351789355974,0.710648210644026
+"Wetar","Australasian","Oceanic",0.554641776983669,0.445358223016331
+"Cuba","Caribbean","Continental fragment",0.596132679442536,0.403867320557464
+"Dominica","Caribbean","Oceanic",0.54565172274281,0.45434827725719
+"Eleuthera","Caribbean","Oceanic",0.622392965403069,0.377607034596931
+"Grenada","Caribbean","Oceanic",0.474008589212047,0.525991410787953
+"Guadeloupe","Caribbean","Oceanic",0.578070221247488,0.421929778752512
+"Hispaniola","Caribbean","Continental fragment",0.563288156385974,0.436711843614026
+"Isla de la Juventud","Caribbean","Continental fragment",0.672161913831544,0.327838086168456
+"Jamaica","Caribbean","Continental fragment",0.600466652172274,0.399533347827726
+"Martinique","Caribbean","Oceanic",0.537463428100005,0.462536571899995
+"New Providence","Caribbean","Oceanic",0.593436903159585,0.406563096840415
+"Puerto Rico","Caribbean","Continental fragment",0.582086061904488,0.417913938095512
+"Saint John","Caribbean","Oceanic",0.516429077247632,0.483570922752368
+"Saint Lucia","Caribbean","Oceanic",0.572946325428942,0.427053674571058
+"Saint Thomas","Caribbean","Oceanic",0.537957197260111,0.462042802739889
+"Saint Vincent","Caribbean","Oceanic",0.547226170277111,0.452773829722889
+"Tortola","Caribbean","Oceanic",0.524714086808453,0.475285913191547
+"Sri Lanka","Indian Ocean","Continental shelf",0.502635707221054,0.497364292778946
+"Madagascar","Indian Ocean","Continental fragment",0.508008151929479,0.491991848070521
+"Mauritius","Indian Ocean","Oceanic",0.525852736463779,0.474147263536221
+"Réunion","Indian Ocean","Oceanic",0.675269555296547,0.324730444703453

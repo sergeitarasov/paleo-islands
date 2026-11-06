@@ -1,0 +1,23 @@
+Loading required package: Matrix
+lognormal:area inverse complete
+lognormal:isolation inverse complete
+lognormal:previous_best inverse complete
+lognormal:curve inverse complete
+NB:previous_best inverse complete
+mixed:block inverse complete
+                       id  n  coverage median_absolute_log10_error
+1          lognormal:area 61 0.9344262                   0.4053925
+2     lognormal:isolation 61 0.9344262                   0.4450157
+3 lognormal:previous_best 61 0.9508197                   0.4516868
+4         lognormal:curve 61 0.9344262                   0.4801537
+5        NB:previous_best 61 0.9508197                   0.5452145
+6             mixed:block 61 0.9508197                   0.4311366
+7              prior_only 61 0.9836066                   0.7142042
+  median_error_factor median_interval_factor
+1            2.543270              1134.5398
+2            2.786222               769.8128
+3            2.829351               975.8991
+4            3.021020              1527.6594
+5            3.509252               870.1543
+6            2.698588               919.6085
+7            5.178503             56234.1325

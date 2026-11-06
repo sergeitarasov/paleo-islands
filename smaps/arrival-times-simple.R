@@ -154,8 +154,8 @@ plot.arrivals.kde <- ggplot(arrival.density, aes(x = age, y = density)) +
   geom_vline(data = arrival.summary, aes(xintercept = mean, colour = "Mean"), linetype = "dotted", linewidth = .65) +
   geom_label(data = arrival.summary, aes(x = -Inf, y = Inf, label = label),
             inherit.aes = FALSE, hjust = 1.05, vjust = 1.1, size = 3, linewidth = 0, fill = "white") +
-  # Keep the Sunken-island boundary outline; Mauritius ends at 9 Ma without an extra line.
-  geom_segment(data = arrival.boundaries[arrival.boundaries$route == "Sunken islands: A -> A.S", ],
+  # Close each KDE at its temporal limits; the mean remains a dotted line.
+  geom_segment(data = arrival.boundaries,
                aes(x = age, xend = age, y = 0, yend = density),
                inherit.aes = FALSE, colour = "#174A6E", linewidth = .65) +
   facet_wrap(vars(clade, route), ncol = 2, scales = "free") +
@@ -177,17 +177,10 @@ ggsave(file.path(plots.dir, "first-arrivals-extant-kde.png"), plot.arrivals.kde,
 # Empty space before a clade's root is outside its reconstructed history.
 oldest.age <- max(nesovin[[1]]$lineages$start.age,
                   nesosisyphus[[1]]$lineages$start.age)
-plot.arrivals.full <- plot.arrivals +
-  facet_wrap(vars(clade, route), ncol = 2, scales = "free_y") +
-  scale_x_reverse(limits = c(ceiling(oldest.age), 0), breaks = seq(0, 60, by = 10),
-                  expand = expansion(mult = c(.01, .01)))
 plot.arrivals.kde.full <- plot.arrivals.kde +
   facet_wrap(vars(clade, route), ncol = 2, scales = "free_y") +
   scale_x_reverse(limits = c(ceiling(oldest.age), 0), breaks = seq(0, 60, by = 10),
                   expand = expansion(mult = c(.01, .01)))
-print(plot.arrivals.full)
 print(plot.arrivals.kde.full)
-ggsave(file.path(plots.dir, "first-arrivals-extant-full-span.pdf"), plot.arrivals.full, width = 11, height = 7)
-ggsave(file.path(plots.dir, "first-arrivals-extant-full-span.png"), plot.arrivals.full, width = 11, height = 7, dpi = 250)
 ggsave(file.path(plots.dir, "first-arrivals-extant-kde-full-span.pdf"), plot.arrivals.kde.full, width = 11, height = 7)
 ggsave(file.path(plots.dir, "first-arrivals-extant-kde-full-span.png"), plot.arrivals.kde.full, width = 11, height = 7, dpi = 250)

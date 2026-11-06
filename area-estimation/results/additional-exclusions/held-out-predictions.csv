@@ -1,0 +1,118 @@
+"dataset","model","island","group","observed","log_prediction","mean_prediction"
+"Filtered","Pooled","Bacan","Other islands",8,1.43638743011435,5.14497797343146
+"Filtered","Pooled","Bohol","Other islands",8,1.86732358673381,7.95576758888234
+"Filtered","Pooled","Borneo","Other islands",210,4.78822131951004,147.157584253917
+"Filtered","Pooled","Flores","Other islands",22,2.60437441284277,16.5826014170848
+"Filtered","Pooled","Halmahera","Other islands",9,2.77397121506125,19.6222051701164
+"Filtered","Pooled","Java","Other islands",109,3.81508058872723,55.2668957029575
+"Filtered","Pooled","Leyte","Other islands",6,2.2359763981179,11.4786327746371
+"Filtered","Pooled","Luzon","Other islands",40,3.75564792654791,52.6028442583638
+"Filtered","Pooled","Mindanao","Other islands",37,3.69707400217725,49.6082401821915
+"Filtered","Pooled","Mindoro","Other islands",7,2.42638549789101,13.8799156305667
+"Filtered","Pooled","Negros","Other islands",10,2.57089092277294,16.0723206047689
+"Filtered","Pooled","New Caledonia","Other islands",49,2.74630396756262,18.8360945411493
+"Filtered","Pooled","New Guinea","Other islands",173,4.85198434816938,157.281195922462
+"Filtered","Pooled","Palawan","Other islands",20,2.48761241341535,14.7508558710959
+"Filtered","Pooled","Samar","Other islands",7,2.56540386007019,15.9171175996707
+"Filtered","Pooled","Seram","Other islands",7,2.76147017736042,19.2916113683168
+"Filtered","Pooled","Sulawesi","Other islands",73,4.00826701875443,67.6541604119491
+"Filtered","Pooled","Sumatra","Other islands",133,4.51651270630086,112.383507218293
+"Filtered","Pooled","Sumbawa","Other islands",19,2.62392929128446,16.9407501527809
+"Filtered","Pooled","Timor","Other islands",9,3.04729297031999,25.6554272606926
+"Filtered","Pooled","Cuba","Caribbean",12,3.823545124008,54.9866747911265
+"Filtered","Pooled","Dominica","Caribbean",3,0.953004702380657,3.18963070421934
+"Filtered","Pooled","Eleuthera","Caribbean",1,0.685036337562655,2.42559889517988
+"Filtered","Pooled","Grenada","Caribbean",4,0.401435952360145,1.81489549935362
+"Filtered","Pooled","Guadeloupe","Caribbean",3,1.41255690298223,5.04509945575122
+"Filtered","Pooled","Hispaniola","Caribbean",21,3.58181078799315,44.0426755076733
+"Filtered","Pooled","Isla de la Juventud","Caribbean",1,1.61672986368298,5.98211324095599
+"Filtered","Pooled","Jamaica","Caribbean",5,2.5014160122479,14.8475355781036
+"Filtered","Pooled","Martinique","Caribbean",4,1.17083655246351,3.9645765110209
+"Filtered","Pooled","New Providence","Caribbean",1,0.27401023366234,1.61644122446002
+"Filtered","Pooled","Puerto Rico","Caribbean",6,2.36203905560707,12.9983068529725
+"Filtered","Pooled","Saint John","Caribbean",1,-0.654228506224411,0.636188994388064
+"Filtered","Pooled","Saint Lucia","Caribbean",2,0.844090975765216,2.86042943385164
+"Filtered","Pooled","Saint Thomas","Caribbean",1,-0.408766126169955,0.815746566327057
+"Filtered","Pooled","Saint Vincent","Caribbean",2,0.506816005259822,2.04121529946038
+"Filtered","Pooled","Tortola","Caribbean",1,-0.560552368876179,0.699618009747109
+"Filtered","Pooled","Sri Lanka","Other islands",65,3.45910798676142,38.8412250198895
+"Filtered","Pooled","Madagascar","Other islands",280,4.63843410599909,125.604142151801
+"Filtered","Pooled","Mauritius","Other islands",6,1.4632923884786,5.3069942291451
+"Filtered","Two intercepts","Bacan","Other islands",8,1.78164547635287,7.14241527406937
+"Filtered","Two intercepts","Bohol","Other islands",8,2.1801311607624,10.6498369673246
+"Filtered","Two intercepts","Borneo","Other islands",210,4.69428142830292,130.892871469511
+"Filtered","Two intercepts","Flores","Other islands",22,2.80757317380035,19.9260557812035
+"Filtered","Two intercepts","Halmahera","Other islands",9,2.97958435243501,23.4950424352766
+"Filtered","Two intercepts","Java","Other islands",109,3.86071977058315,56.6535158068562
+"Filtered","Two intercepts","Leyte","Other islands",6,2.5221341254655,14.8873592931817
+"Filtered","Two intercepts","Luzon","Other islands",40,3.81711082815327,54.7312925527079
+"Filtered","Two intercepts","Mindanao","Other islands",37,3.76654988497682,52.0273126128292
+"Filtered","Two intercepts","Mindoro","Other islands",7,2.68320727656809,17.4860267372177
+"Filtered","Two intercepts","Negros","Other islands",10,2.79910241259489,19.7134707121223
+"Filtered","Two intercepts","New Caledonia","Other islands",49,2.91734792584077,21.9759584999941
+"Filtered","Two intercepts","New Guinea","Other islands",173,4.75310341343557,139.297130173509
+"Filtered","Two intercepts","Palawan","Other islands",20,2.70488822427432,17.9805174269211
+"Filtered","Two intercepts","Samar","Other islands",7,2.80446316133467,19.6879070413797
+"Filtered","Two intercepts","Seram","Other islands",7,2.97459412765141,23.2364750227641
+"Filtered","Two intercepts","Sulawesi","Other islands",73,4.03277438839331,67.8589178727053
+"Filtered","Two intercepts","Sumatra","Other islands",133,4.46793659927503,104.70570087083
+"Filtered","Two intercepts","Sumbawa","Other islands",19,2.82892151880995,20.3745695621699
+"Filtered","Two intercepts","Timor","Other islands",9,3.21702006309652,29.6173048291445
+"Filtered","Two intercepts","Cuba","Caribbean",12,3.40288825076316,35.8305031073035
+"Filtered","Two intercepts","Dominica","Caribbean",3,0.76106117162382,2.57302943371059
+"Filtered","Two intercepts","Eleuthera","Caribbean",1,0.545195347015106,2.06841926217
+"Filtered","Two intercepts","Grenada","Caribbean",4,0.271404506128301,1.55344930740667
+"Filtered","Two intercepts","Guadeloupe","Caribbean",3,1.17203663818688,3.88651169638327
+"Filtered","Two intercepts","Hispaniola","Caribbean",21,3.04768253894915,25.3614400713585
+"Filtered","Two intercepts","Isla de la Juventud","Caribbean",1,1.40204636196698,4.7653037628576
+"Filtered","Two intercepts","Jamaica","Caribbean",5,2.15972714218407,10.3954902369718
+"Filtered","Two intercepts","Martinique","Caribbean",4,0.946457014018887,3.09384170861401
+"Filtered","Two intercepts","New Providence","Caribbean",1,0.181006678086036,1.4421328404171
+"Filtered","Two intercepts","Puerto Rico","Caribbean",6,2.01191304585661,8.99646118391775
+"Filtered","Two intercepts","Saint John","Caribbean",1,-0.632161779954885,0.636596858948561
+"Filtered","Two intercepts","Saint Lucia","Caribbean",2,0.673551073331331,2.36101930133261
+"Filtered","Two intercepts","Saint Thomas","Caribbean",1,-0.417137679559982,0.791517243820035
+"Filtered","Two intercepts","Saint Vincent","Caribbean",2,0.375333154000607,1.74986716845153
+"Filtered","Two intercepts","Tortola","Caribbean",1,-0.550028908670416,0.69191411911638
+"Filtered","Two intercepts","Sri Lanka","Other islands",65,3.55223174844867,41.7837071336908
+"Filtered","Two intercepts","Madagascar","Other islands",280,4.56074935520839,113.456536502714
+"Filtered","Two intercepts","Mauritius","Other islands",6,1.82860983165778,7.49427814702354
+"Filtered","Two slopes","Bacan","Other islands",8,1.23181246767719,3.92478240787699
+"Filtered","Two slopes","Bohol","Other islands",8,1.81195443211395,7.06664004774897
+"Filtered","Two slopes","Borneo","Other islands",210,5.20593880525561,210.621967193253
+"Filtered","Two slopes","Flores","Other islands",22,2.6670945579015,16.5926821229106
+"Filtered","Two slopes","Halmahera","Other islands",9,2.88344382553828,20.516395389231
+"Filtered","Two slopes","Java","Other islands",109,4.06746308383418,67.1210324195326
+"Filtered","Two slopes","Leyte","Other islands",6,2.2793417041842,11.2512910947034
+"Filtered","Two slopes","Luzon","Other islands",40,4.00366614804481,63.2229110219722
+"Filtered","Two slopes","Mindanao","Other islands",37,3.93552121731471,59.0527020500224
+"Filtered","Two slopes","Mindoro","Other islands",7,2.49296976953056,13.9185026356463
+"Filtered","Two slopes","Negros","Other islands",10,2.64815563818034,16.2951299960356
+"Filtered","Two slopes","New Caledonia","Other islands",49,2.8223941806309,19.1203377265137
+"Filtered","Two slopes","New Guinea","Other islands",173,5.30070330578812,231.553135147471
+"Filtered","Two slopes","Palawan","Other islands",20,2.52932847855654,14.4498965741385
+"Filtered","Two slopes","Samar","Other islands",7,2.65211835087467,16.2740076934155
+"Filtered","Two slopes","Seram","Other islands",7,2.87406138214503,20.2142018526522
+"Filtered","Two slopes","Sulawesi","Other islands",73,4.29614563395776,84.818476621321
+"Filtered","Two slopes","Sumatra","Other islands",133,4.89233636068326,153.961799679278
+"Filtered","Two slopes","Sumbawa","Other islands",19,2.69384335556438,17.0702491804933
+"Filtered","Two slopes","Timor","Other islands",9,3.19315482002721,27.7594240477301
+"Filtered","Two slopes","Cuba","Caribbean",12,2.65112837907424,16.3662440152718
+"Filtered","Two slopes","Dominica","Caribbean",3,0.811577673681663,2.59818165545835
+"Filtered","Two slopes","Eleuthera","Caribbean",1,0.680467080673835,2.267142754027
+"Filtered","Two slopes","Grenada","Caribbean",4,0.441268405836939,1.77458339817381
+"Filtered","Two slopes","Guadeloupe","Caribbean",3,1.10986624928098,3.50514789370493
+"Filtered","Two slopes","Hispaniola","Caribbean",21,2.24609087441261,10.8454172285867
+"Filtered","Two slopes","Isla de la Juventud","Caribbean",1,1.3020196161694,4.15027193741704
+"Filtered","Two slopes","Jamaica","Caribbean",5,1.81662954018139,7.10250914384163
+"Filtered","Two slopes","Martinique","Caribbean",4,0.941023300293956,2.95251723671481
+"Filtered","Two slopes","New Providence","Caribbean",1,0.423103122676778,1.75959914959129
+"Filtered","Two slopes","Puerto Rico","Caribbean",6,1.69592644325952,6.2976425410484
+"Filtered","Two slopes","Saint John","Caribbean",1,-0.169571045118866,0.974773075335033
+"Filtered","Two slopes","Saint Lucia","Caribbean",2,0.756086487230045,2.46058791685123
+"Filtered","Two slopes","Saint Thomas","Caribbean",1,-0.00816912377903887,1.14590904839228
+"Filtered","Two slopes","Saint Vincent","Caribbean",2,0.538953318339686,1.97980672746645
+"Filtered","Two slopes","Tortola","Caribbean",1,-0.107369687076536,1.03754501440104
+"Filtered","Two slopes","Sri Lanka","Other islands",65,3.65854193993875,44.6650758793617
+"Filtered","Two slopes","Madagascar","Other islands",280,5.00326071992131,171.175321957163
+"Filtered","Two slopes","Mauritius","Other islands",6,1.30996035621007,4.26932227395302

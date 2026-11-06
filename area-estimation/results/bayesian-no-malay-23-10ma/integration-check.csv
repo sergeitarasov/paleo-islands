@@ -1,0 +1,11 @@
+"model","type","prior","median_change_percent","upper_change_percent"
+"simple_prior1","Selected 23 islands","log_uniform_10_1million",-0.189249688091386,-0.1110773523748
+"simple_prior1","Selected 23 islands","log_uniform_100_100k",-0.169597979738212,-0.0407455018511138
+"simple_prior1","Selected 23 islands","log_uniform_1_10million",-0.164174776312187,-0.137296384008778
+"simple_prior1","Selected 23 islands","lognormal_10k",-0.107774270938399,-0.0750268813145216
+"simple_prior1","Selected 23 islands","uniform_area_10_1million",-0.160163199576557,-0.0076614848278922
+"separate_prior1","Selected 23 islands","log_uniform_10_1million",-0.828522312432445,-0.261618766117444
+"separate_prior1","Selected 23 islands","log_uniform_100_100k",-0.735799840350337,-0.238795054618257
+"separate_prior1","Selected 23 islands","log_uniform_1_10million",-0.829613264014417,-0.200286244704373
+"separate_prior1","Selected 23 islands","lognormal_10k",-0.452555306677105,-0.231827950781105
+"separate_prior1","Selected 23 islands","uniform_area_10_1million",0.197677897964432,1.09391546914208

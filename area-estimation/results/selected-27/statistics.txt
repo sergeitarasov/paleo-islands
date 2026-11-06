@@ -1,0 +1,32 @@
+
+Call:
+lm(formula = forms[[name]], data = d)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.6028 -0.4969  0.2471  0.5372  1.1511 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -2.83426    0.46434  -6.104 2.22e-06 ***
+x            0.56688    0.04982  11.379 2.23e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8008 on 25 degrees of freedom
+Multiple R-squared:  0.8382,	Adjusted R-squared:  0.8317 
+F-statistic: 129.5 on 1 and 25 DF,  p-value: 2.226e-11
+
+                 2.5 %     97.5 %
+(Intercept) -3.7905843 -1.8779412
+x            0.4642761  0.6694908
+
+	Spearman's rank correlation rho
+
+data:  d$area_km2 and d$n_sp
+S = 359.17, p-value = 5.025e-10
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+0.8903646 
+

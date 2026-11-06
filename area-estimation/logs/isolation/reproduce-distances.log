@@ -1,0 +1,127 @@
+Linking to GEOS 3.13.0, GDAL 3.8.5, PROJ 9.5.1; sf_use_s2() is TRUE
+Warning message:
+package ‘sf’ was built under R version 4.6.1 
+                island distance_mainland_km nearest_mainland
+1              Adonara            683.28996        Australia
+2                Ambon            918.60403        Australia
+3          Aru Islands            501.77497        Australia
+4                Bacan           1230.91461        Australia
+5                 Bali           1182.38994        Australia
+6              Basilan           1490.29949          Eurasia
+7                Bohol           1592.34594          Eurasia
+8               Borneo            509.85244          Eurasia
+9                 Buru            980.11609        Australia
+10                Cebu           1521.74298          Eurasia
+11                Cuba            193.95540    North America
+12            Dominica            498.81743    South America
+13           Eleuthera            336.69310    North America
+14              Flores            687.18040        Australia
+15             Grenada            138.13952    South America
+16          Guadeloupe            566.02849    South America
+17           Halmahera           1200.64318        Australia
+18          Hispaniola            572.76980    South America
+19 Isla de la Juventud            371.19061    North America
+20             Jamaica            622.75315    North America
+21                Java            827.70622          Eurasia
+22         Kei Islands            564.86339        Australia
+23              Komodo            904.11693        Australia
+24            Langkawi             17.13565          Eurasia
+25               Larat            430.45006        Australia
+26               Leyte           1511.88816          Eurasia
+27              Lombok           1081.51790        Australia
+28               Luzon            649.82781          Eurasia
+29          Madagascar            414.62235           Africa
+30   Mangoli (Mangole)           1205.14009        Australia
+31          Marinduque           1185.55334          Eurasia
+32          Martinique            419.52201    South America
+33           Mauritius           1851.20539           Africa
+34            Mindanao           1476.29620          Eurasia
+35             Mindoro           1124.41314          Eurasia
+36              Negros           1442.49906          Eurasia
+37       New Caledonia            743.53553        Australia
+38          New Guinea            151.14132        Australia
+39      New Providence            271.30543    North America
+40             Palawan            943.72347          Eurasia
+41               Panay           1349.09942          Eurasia
+42         Puerto Rico            704.81665    South America
+43               Rinca            881.18943        Australia
+44             Réunion           1663.60579           Africa
+45          Saint John            849.41341    South America
+46         Saint Lucia            343.65896    South America
+47        Saint Thomas            851.77549    South America
+48       Saint Vincent            273.81839    South America
+49               Samar           1415.18332          Eurasia
+50               Seram            816.47082        Australia
+51             Sibuyan           1322.21984          Eurasia
+52           Sri Lanka             54.08942          Eurasia
+53            Sulawesi           1095.39788        Australia
+54             Sumatra             64.62346          Eurasia
+55               Sumba            690.70354        Australia
+56             Sumbawa            928.26915        Australia
+57             Ternate           1416.60436        Australia
+58               Timor            452.95922        Australia
+59              Tioman             37.78692          Eurasia
+60             Tortola            858.29597    South America
+61               Wetar            643.02911        Australia
+   distance_large_landmass_km nearest_large_landmass nearest_large_landmass_id
+1                   0.6639864                 Flores                    2:2849
+2                   9.2139899                  Seram                    2:2874
+3                 114.9184876             New Guinea                    2:3237
+4                  13.7072375              Halmahera                    2:2851
+5                   2.2560815                   Java                    2:2855
+6                  16.0453821               Mindanao                    2:2862
+7                  62.5410673                 Negros                    2:2863
+8                 115.4436558               Sulawesi                    2:2882
+9                  68.1383204                  Seram                    2:2874
+10                  5.3911795                 Negros                    2:2863
+11                 84.9228989             Hispaniola                    2:2852
+12                498.8174325          South America                       3:3
+13                336.6931042          North America                       3:4
+14                 45.5444504                  Sumba                    2:2898
+15                138.1395195          South America                       3:3
+16                566.0284928          South America                       3:3
+17                213.5750149                  Seram                    2:2874
+18                 84.9227389                   Cuba                    2:2847
+19                 49.6666364                   Cuba                    2:2847
+20                145.4651157                   Cuba                    2:2847
+21                 25.4795579                Sumatra                    2:2883
+22                129.2072286             New Guinea                    2:3237
+23                 20.1651514                Sumbawa                    2:2884
+24                 17.1356540                Eurasia                       3:5
+25                352.4730699             New Guinea                    2:3237
+26                  0.6113276                  Samar                    2:2872
+27                 13.6378880                Sumbawa                    2:2884
+28                 17.0879343                  Samar                    2:2872
+29                414.6223538                 Africa                       3:2
+30                222.4914873                  Seram                    2:2874
+31                 17.6349142                  Luzon                    2:2858
+32                419.5220073          South America                       3:3
+33                865.4699452             Madagascar                    2:2859
+34                 44.9399641                 Negros                    2:2863
+35                 13.2307317                  Luzon                    2:2858
+36                 14.1038884                  Panay                    2:2869
+37                724.0129055              Viti Levu                    2:2899
+38                  0.9221149       Frederik Hendrik                    2:2892
+39                271.3054307          North America                       3:4
+40                146.4654010                 Borneo                    2:2846
+41                 14.1035487                 Negros                    2:2863
+42                113.9269820             Hispaniola                    2:2852
+43                  0.2879180                 Flores                    2:2849
+44                677.3471666             Madagascar                    2:2859
+45                372.8267084             Hispaniola                    2:2852
+46                343.6589566          South America                       3:3
+47                347.2815360             Hispaniola                    2:2852
+48                273.8183942          South America                       3:3
+49                 17.0883009                  Luzon                    2:2858
+50                139.6617245             New Guinea                    2:3237
+51                 65.1306012                  Panay                    2:2869
+52                 54.0894173                Eurasia                       3:5
+53                115.4438312                 Borneo                    2:2846
+54                 12.6984075                 Bangka                    2:2893
+55                 45.5441295                 Flores                    2:2849
+56                 65.5699538                  Sumba                    2:2898
+57                 13.5061679              Halmahera                    2:2851
+58                145.7412239                 Flores                    2:2849
+59                 37.7869246                Eurasia                       3:5
+60                381.0088307             Hispaniola                    2:2852
+61                 49.2169949                  Timor                    2:2886

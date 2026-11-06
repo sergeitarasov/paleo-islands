@@ -1,0 +1,39 @@
+simple_prior1 Continental fragment done
+simple_prior1 Continental shelf done
+simple_prior1 Oceanic done
+simple_prior2 Continental fragment done
+simple_prior2 Continental shelf done
+simple_prior2 Oceanic done
+flexible_prior1 Continental fragment done
+flexible_prior1 Continental shelf done
+flexible_prior1 Oceanic done
+flexible_prior2 Continental fragment done
+flexible_prior2 Continental shelf done
+flexible_prior2 Oceanic done
+Elapsed seconds: 63.562 
+             model                 type                   prior      mean
+1    simple_prior1 Continental fragment log_uniform_10_1million 28797.946
+6    simple_prior1    Continental shelf log_uniform_10_1million  4392.906
+11   simple_prior1              Oceanic log_uniform_10_1million 22379.055
+16   simple_prior2 Continental fragment log_uniform_10_1million 30117.822
+21   simple_prior2    Continental shelf log_uniform_10_1million  4117.450
+26   simple_prior2              Oceanic log_uniform_10_1million 22436.663
+31 flexible_prior1 Continental fragment log_uniform_10_1million 11296.430
+36 flexible_prior1    Continental shelf log_uniform_10_1million  4695.581
+41 flexible_prior1              Oceanic log_uniform_10_1million 17687.417
+46 flexible_prior2 Continental fragment log_uniform_10_1million 11337.016
+51 flexible_prior2    Continental shelf log_uniform_10_1million  4945.826
+56 flexible_prior2              Oceanic log_uniform_10_1million 18831.497
+       median    lower     upper p_below_100 p_above_100k
+1  2497.21237 32.56184 281609.52  0.07859874  0.066582019
+6   211.78795 12.31393  28313.41  0.35537914  0.008053812
+11 1660.24415 26.21502 215859.74  0.10335180  0.050540457
+16 2642.12010 33.58069 295649.36  0.07581325  0.069929478
+21  196.72570 12.16607  26090.07  0.36801711  0.007477201
+26 1645.82032 25.86809 216966.74  0.10469157  0.050708687
+31 1317.69514 23.42558  85496.81  0.11147423  0.021309518
+36   71.26708 10.74915  25377.49  0.56050349  0.010063186
+41  815.47544 15.42568 173460.84  0.19131907  0.039512374
+46 1397.26215 24.54786  85118.41  0.10541164  0.021163405
+51   71.22589 10.74545  27155.38  0.56040092  0.010663373
+56  834.52942 15.30675 189237.13  0.19186052  0.042367773

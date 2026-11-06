@@ -1,0 +1,81 @@
+Warning message:
+package ‘flexmix’ was built under R version 4.6.1 
+                              model            family k     AICc      BIC
+12   negative_binomial: type_slopes negative_binomial 9 397.8686 413.3370
+18             poisson: type_slopes           poisson 8 531.7307 545.8485
+9           negative_binomial: type negative_binomial 5 402.1373 411.6007
+17           poisson: region_slopes           poisson 8 546.5525 560.6703
+3                   lognormal: type         lognormal 5 162.3694 171.8329
+10   negative_binomial: region_type negative_binomial 7 401.3198 413.9827
+11 negative_binomial: region_slopes negative_binomial 9 400.1421 415.6105
+5          lognormal: region_slopes         lognormal 9 165.5832 181.0516
+6            lognormal: type_slopes         lognormal 9 167.7757 183.2441
+15                    poisson: type           poisson 4 779.9483 787.6775
+4            lognormal: region_type         lognormal 7 166.1059 178.7688
+13                    poisson: area           poisson 2 818.7439 822.7588
+16             poisson: region_type           poisson 6 623.3797 634.4894
+14                  poisson: region           poisson 4 682.5996 690.3288
+19              mixture: two powers         lognormal 6 178.9297 190.0394
+1                   lognormal: area         lognormal 3 171.8103 177.7219
+8         negative_binomial: region negative_binomial 5 419.3813 428.8447
+7           negative_binomial: area negative_binomial 3 423.8669 429.7785
+2                 lognormal: region         lognormal 5 174.0816 183.5451
+    log_RMSE log_mean_RMSE count_RMSE count_MAE
+12 0.9291999     0.9291999   31.71881  11.13362
+18 0.9484380     0.9484380   27.27856  11.18737
+9  0.9539646     0.9539646   44.35219  17.72962
+17 0.9656736     0.9656736   28.77998  11.94974
+3  0.9165011     0.9813438   39.66997  15.89181
+10 0.9851112     0.9851112   40.35824  15.59398
+11 0.9909240     0.9909240   37.80823  14.02788
+5  0.9553597     1.0028501   35.91126  14.07239
+6  0.9544695     1.0053281   32.76105  11.35162
+15 1.0194890     1.0194890   32.32702  12.52983
+4  0.9590500     1.0221474   39.83334  15.46524
+13 1.0253641     1.0253641   22.31280  11.41036
+16 1.0376160     1.0376160   35.18846  13.31877
+14 1.0447515     1.0447515   17.66772   9.62672
+19 0.9679366     1.0644299   28.38069  13.83231
+1  0.9688119     1.0682413   28.20871  13.81605
+8  1.0683043     1.0683043   33.02946  14.57158
+7  1.0697444     1.0697444   31.32981  14.65278
+2  0.9986868     1.0926477   31.03373  14.28561
+                        Estimate Std. Error    t value     Pr(>|t|)      2.5 %
+(Intercept)           -2.0012920 0.53732046 -3.7245780 4.625351e-04 -3.0781062
+log_area               0.4419706 0.05366013  8.2364812 3.596659e-11  0.3344333
+regionCaribbean       -0.2872477 0.27424579 -1.0474097 2.994919e-01 -0.8368485
+regionIndian Ocean     0.0730163 0.46259321  0.1578413 8.751600e-01 -0.8540412
+typeContinental shelf  1.2796958 0.35543614  3.6003537 6.826739e-04  0.5673859
+typeOceanic            0.2365674 0.26344199  0.8979865 3.731071e-01 -0.2913822
+                          97.5 %
+(Intercept)           -0.9244777
+log_area               0.5495079
+regionCaribbean        0.2623532
+regionIndian Ocean     1.0000738
+typeContinental shelf  1.9920058
+typeOceanic            0.7645169
+                             subset  n area_slope     lower     upper
+log_area                        all 61  0.4419706 0.3344333 0.5495079
+log_area1        individual_islands 57  0.4214538 0.3302690 0.5126386
+log_area2 without_mauritius_reunion 59  0.4259416 0.3213170 0.5305662
+
+Call:
+stepFlexmix(log_richness ~ log_area, data = d, model = mix_driver, 
+    control = list(iter.max = 1000, minprior = 0.1), k = 2, nrep = 50, 
+    verbose = FALSE)
+
+       prior size post>0 ratio
+Comp.1 0.548   52     61 0.852
+Comp.2 0.452    9     61 0.148
+
+'log Lik.' -82.68709 (df=6)
+AIC: 177.3742   BIC: 190.0394 
+
+Poisson Pearson dispersion: 5.379742 
+Type-only power slope and confidence interval:
+                                      2.5 %     97.5 %
+(Intercept)           -2.2072115 -3.2056211 -1.2088019
+log_area               0.4575440  0.3554814  0.5596065
+typeContinental shelf  1.3358566  0.6369699  2.0347432
+typeOceanic            0.2314644 -0.2895139  0.7524426
+Mean paired log squared-error improvement and descriptive SE: 0.04663591 0.07708405 

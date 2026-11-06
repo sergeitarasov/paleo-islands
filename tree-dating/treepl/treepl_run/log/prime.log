@@ -1,0 +1,183 @@
+outfile: output/timetree_prime.tre
+setting the maximum number of threads to 8
+set thorough: true (MAY TAKE A WHILE)
+PRIMING the optimization parameters and then exiting
+finished reading config file
+using system clock for random number seed = 1749722615
+tiny branch length at internal node. setting to 4.9070362e-06
+setting node_100 min: 0.4494
+setting node_101 min: 0.2649
+setting node_102 min: 0.2363
+setting node_103 min: 0.2047
+setting node_104 min: 0.1442
+setting node_105 min: 0.0968
+setting node_54 min: 2.0483
+setting node_55 min: 1.6159
+setting node_56 min: 1.4693
+setting node_57 min: 1.5729
+setting node_58 min: 1.4964
+setting node_59 min: 1.379
+setting node_60 min: 1.3528
+setting node_61 min: 1.1733
+setting node_62 min: 0.9692
+setting node_63 min: 0.7859
+setting node_64 min: 0.8487
+setting node_65 min: 0.8266
+setting node_66 min: 0.3339
+setting node_67 min: 0.1768
+setting node_68 min: 0.7743
+setting node_69 min: 0.5839
+setting node_70 min: 0.2283
+setting node_71 min: 0.0399
+setting node_72 min: 0.0267
+setting node_73 min: 0.0254
+setting node_74 min: 0.176
+setting node_75 min: 0.8085
+setting node_76 min: 0.4983
+setting node_77 min: 0.7812
+setting node_78 min: 0.718
+setting node_79 min: 0.6176
+setting node_80 min: 0.6949
+setting node_81 min: 0.4096
+setting node_82 min: 0.6698
+setting node_83 min: 0.588
+setting node_84 min: 0.5744
+setting node_85 min: 0.4953
+setting node_86 min: 0.0748
+setting node_87 min: 0.5824
+setting node_88 min: 0.2419
+setting node_89 min: 0.1082
+setting node_90 min: 0.5792
+setting node_91 min: 0.5559
+setting node_92 min: 0.3345
+setting node_93 min: 0.446
+setting node_94 min: 0.5706
+setting node_95 min: 0.0884
+setting node_96 min: 0.0795
+setting node_97 min: 0.5526
+setting node_98 min: 0.4714
+setting node_99 min: 0.4507
+setting node_100 max: 0.4494
+setting node_101 max: 0.2649
+setting node_102 max: 0.2363
+setting node_103 max: 0.2047
+setting node_104 max: 0.1442
+setting node_105 max: 0.0968
+setting node_54 max: 2.0483
+setting node_55 max: 1.6159
+setting node_56 max: 1.4693
+setting node_57 max: 1.5729
+setting node_58 max: 1.4964
+setting node_59 max: 1.379
+setting node_60 max: 1.3528
+setting node_61 max: 1.1733
+setting node_62 max: 0.9692
+setting node_63 max: 0.7859
+setting node_64 max: 0.8487
+setting node_65 max: 0.8266
+setting node_66 max: 0.3339
+setting node_67 max: 0.1768
+setting node_68 max: 0.7743
+setting node_69 max: 0.5839
+setting node_70 max: 0.2283
+setting node_71 max: 0.0399
+setting node_72 max: 0.0267
+setting node_73 max: 0.0254
+setting node_74 max: 0.176
+setting node_75 max: 0.8085
+setting node_76 max: 0.4983
+setting node_77 max: 0.7812
+setting node_78 max: 0.718
+setting node_79 max: 0.6176
+setting node_80 max: 0.6949
+setting node_81 max: 0.4096
+setting node_82 max: 0.6698
+setting node_83 max: 0.588
+setting node_84 max: 0.5744
+setting node_85 max: 0.4953
+setting node_86 max: 0.0748
+setting node_87 max: 0.5824
+setting node_88 max: 0.2419
+setting node_89 max: 0.1082
+setting node_90 max: 0.5792
+setting node_91 max: 0.5559
+setting node_92 max: 0.3345
+setting node_93 max: 0.446
+setting node_94 max: 0.5706
+setting node_95 max: 0.0884
+setting node_96 max: 0.0795
+setting node_97 max: 0.5526
+setting node_98 max: 0.4714
+setting node_99 max: 0.4507
+preorder prep
+calculating character durations
+setting min and max
+setting up all constraints
+getting feasible start dates
+start rate 0.11114501
+numparams:264
+initial calc: 19043078
+LF SIM
+exit siman: 2494926.7
+now priming regular
+nfeval: 2182 rc: Linear search failed
+ final: 348821.5 diff: 2146105.2
+setting NLOPT: LD_LBFGS 
+result: 4
+ final: 2088519.1 diff: 406407.63
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 4
+ final: 206835.87 diff: 2288090.9
+setting NLOPT: LD_MMA
+result: 4
+ final: 348893.94 diff: 2146032.8
+setting NLOPT: LD_VAR2 
+result: 3
+ final: 2451973.7 diff: 42953.063
+setting NLOPT : LN_SBPLX 
+result: 5
+ final: 231000.41 diff: 2263926.3
+----
+now priming AD
+nfeval: 145 rc: Converged (|f_n-f_(n-1)| ~= 0)
+ final: 2493810.5 diff: 1116.2597
+setting NLOPT: LD_LBFGS 
+result: 4
+ final: 2216152.3 diff: 278774.45
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+ final: 206835.84 diff: 2288090.9
+setting NLOPT: LD_MMA
+result: 3
+ final: 348821.17 diff: 2146105.6
+setting NLOPT: LD_VAR2 
+result: 3
+ final: 2451998.3 diff: 42928.431
+setting NLOPT : LN_SBPLX 
+result: 5
+ final: 231000.41 diff: 2263926.3
+----
+now priming CV (AD)
+nfeval: 1346 rc: Linear search failed
+ final: 230680.1 diff: 2264246.6
+setting NLOPT parallel : LD_LBFGS 
+result: 4
+ final: 230467.73 diff: 2264459
+setting NLOPT parallel : LD_TNEWTON_PRECOND_RESTART
+result: 4
+ final: 230136.26 diff: 2264790.5
+setting NLOPT parallel : LD_MMA
+result: 4
+ final: 230696.19 diff: 2264230.6
+setting NLOPT parallel : LD_VAR2 
+result: 4
+ final: 230467.73 diff: 2264459
+setting NLOPT parallel : LN_SBPLX 
+result: 5
+ final: 221869.78 diff: 2273057
+best: 2(0) bestad: 2 (1) bestcv: 5 (0)
+PLACE THE LINES BELOW IN THE CONFIGURATION FILE
+opt = 2
+optad = 2
+moredetailad
+optcvad = 5

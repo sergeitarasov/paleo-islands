@@ -1,0 +1,19 @@
+"classification","class","component","expected_count"
+"region","Australasian","Low",5.06281655573787
+"region","Australasian","Middle",15.6088775292029
+"region","Australasian","High",20.3283059150592
+"region","Caribbean","Low",0.825822534009881
+"region","Caribbean","Middle",9.44786112207943
+"region","Caribbean","High",5.72631634391069
+"region","Indian Ocean","Low",0.603726587904035
+"region","Indian Ocean","Middle",0.679096693211144
+"region","Indian Ocean","High",2.71717671888482
+"type","Oceanic","Low",1.32070563829053
+"type","Oceanic","Middle",14.0154201595372
+"type","Oceanic","High",15.6638742021722
+"type","Continental fragment","Low",2.18555172386639
+"type","Continental fragment","Middle",11.6844316638553
+"type","Continental fragment","High",7.13001661227833
+"type","Continental shelf","Low",2.98610831549486
+"type","Continental shelf","Middle",0.0359835211009481
+"type","Continental shelf","High",5.9779081634042

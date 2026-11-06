@@ -1,0 +1,22 @@
+Linking to GEOS 3.13.0, GDAL 3.8.5, PROJ 9.5.1; sf_use_s2() is TRUE
+Warning message:
+package ‘sf’ was built under R version 4.6.1 
+  objectid_1 area_km2         X          Y
+1          1  7618696  14965424 -3001977.0
+2          2 29370907   1943798   825028.1
+3          3 17609549  -6789325 -1914227.3
+4          4 20090075 -12169677  7355475.8
+5          5 50439819   9502057  7521620.9
+6          6        0 -19582387 10024054.2
+Completed distances at tolerance 100 m
+  objectid_1 area_km2         X          Y
+1          1  7618696  14965420 -3001976.8
+2          2 29370907   1943800   825027.3
+3          3 17609549  -6789324 -1914226.3
+4          4 20090075 -12169676  7355487.1
+5          5 50439819   9502057  7521627.4
+6          6        0 -19582404 10024066.2
+Completed distances at tolerance 20 m
+Warning messages:
+1: st_centroid assumes attributes are constant over geometries 
+2: st_centroid assumes attributes are constant over geometries 

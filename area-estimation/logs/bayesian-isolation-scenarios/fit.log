@@ -1,0 +1,15 @@
+This is posterior version 1.7.0
+
+Attaching package: ‘posterior’
+
+The following objects are masked from ‘package:stats’:
+
+    mad, sd, var
+
+The following objects are masked from ‘package:base’:
+
+    %in%, match
+
+simple_prior1 max Rhat 1.001251 min ESS 4685.886 
+simple_prior2 max Rhat 1.001665 min ESS 4500.774 
+Elapsed seconds: 15.185 

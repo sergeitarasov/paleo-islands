@@ -1,0 +1,30 @@
+simple_prior1 Selected 21 islands done
+simple_prior2 Selected 21 islands done
+          model                type                   prior     mean   median
+1 simple_prior1 Selected 21 islands log_uniform_10_1million 22076.34 1665.773
+6 simple_prior2 Selected 21 islands log_uniform_10_1million 22385.85 1667.611
+     lower    upper p_below_100 p_above_100k
+1 29.11382 214256.8  0.09229766   0.04945969
+6 28.49114 218283.3  0.09403468   0.05028699
+           model                type                    prior       mean
+1  simple_prior1 Selected 21 islands  log_uniform_10_1million  22076.340
+2  simple_prior1 Selected 21 islands     log_uniform_100_100k   8560.718
+3  simple_prior1 Selected 21 islands  log_uniform_1_10million  49277.344
+4  simple_prior1 Selected 21 islands            lognormal_10k  15739.876
+5  simple_prior1 Selected 21 islands uniform_area_10_1million 214246.008
+6  simple_prior2 Selected 21 islands  log_uniform_10_1million  22385.852
+7  simple_prior2 Selected 21 islands     log_uniform_100_100k   8613.556
+8  simple_prior2 Selected 21 islands  log_uniform_1_10million  50327.128
+9  simple_prior2 Selected 21 islands            lognormal_10k  15935.274
+10 simple_prior2 Selected 21 islands uniform_area_10_1million 217486.121
+      median      lower     upper  p_below_100 p_above_100k
+1   1665.773   29.11382 214256.78 0.0922976635   0.04945969
+2   1892.929  125.99777  64366.50 0.0000000000   0.00000000
+3   1635.295   18.27724 309640.65 0.1039169806   0.05600817
+4   3363.264  151.46490 112559.32 0.0124911234   0.02890601
+5  90665.679 1007.20014 891213.57 0.0009530059   0.48232473
+6   1667.611   28.49114 218283.32 0.0940346795   0.05028699
+7   1901.592  125.75549  64619.22 0.0000000000   0.00000000
+8   1635.546   17.58074 319103.23 0.1060779250   0.05703671
+9   3398.387  150.58210 114174.46 0.0126629223   0.02941555
+10 94404.646 1043.74510 892821.17 0.0009330856   0.48951015

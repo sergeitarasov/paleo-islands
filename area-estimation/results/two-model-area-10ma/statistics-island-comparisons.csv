@@ -1,0 +1,13 @@
+"model","statistic","area_km2","comparison_island","island_area_km2","size_ratio"
+"simple_prior1","95% lower",41.3871228543134,"Saint John",50.0004,1.20811490511206
+"simple_prior1","50% lower",389.489092371447,"Langkawi",366.8861,0.941967585706121
+"simple_prior1","Median",1321.86183029546,"Kei Islands",1263.3533,0.955737786692591
+"simple_prior1","Mean",10752.3349518318,"Sumba",10910.2569,1.0146872236473
+"simple_prior1","50% upper",4869.71398494896,"Lombok",4540.2873,0.932351943878607
+"simple_prior1","95% upper",80841.7916215627,"Hispaniola",73972.1072,0.915023105206264
+"separate_prior1","95% lower",55.9590859740837,"Tortola",57.5063,1.02764902247747
+"separate_prior1","50% lower",579.54500117377,"Saint Lucia",603.6647,1.04161833641457
+"separate_prior1","Median",1701.79584979862,"Guadeloupe",1638.2039,0.962632445127807
+"separate_prior1","Mean",7374.97411931829,"Leyte",7012.4432,0.95084309267355
+"separate_prior1","50% upper",4964.42516869033,"Bali",5378.6992,1.08344853980727
+"separate_prior1","95% upper",46819.2493275564,"Sri Lanka",65490.4569,1.39879339888208

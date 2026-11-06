@@ -1,0 +1,5 @@
+"baseline","expanded","F","p"
+"Area only","Area + log age",1.77947354067892,0.198847571737436
+"Area only","Area + age",2.65780025783285,0.120416743883763
+"Regional slopes","Regional slopes + log age",1.09259368342013,0.311432925459458
+"Regional slopes","Regional slopes + age",0.171307559192574,0.684447346463079

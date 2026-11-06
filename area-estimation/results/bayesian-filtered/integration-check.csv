@@ -1,0 +1,11 @@
+"model","type","prior","median_change_percent","upper_change_percent"
+"simple_prior1","Non-Caribbean","log_uniform_10_1million",-0.149424029798917,-0.769640312466424
+"simple_prior1","Non-Caribbean","log_uniform_100_100k",-0.175173626249692,-0.552340045947008
+"simple_prior1","Non-Caribbean","log_uniform_1_10million",-0.136495685601701,-0.774359266339764
+"simple_prior1","Non-Caribbean","lognormal_10k",-0.227547193376831,-0.624181832514403
+"simple_prior1","Non-Caribbean","uniform_area_10_1million",-0.798444976868362,-2.53110520106835
+"simple_prior2","Non-Caribbean","log_uniform_10_1million",-1.00928016211892,-0.515475432359624
+"simple_prior2","Non-Caribbean","log_uniform_100_100k",-0.98897146757092,-0.495839993248937
+"simple_prior2","Non-Caribbean","log_uniform_1_10million",-1.00761788739578,-0.513346255070091
+"simple_prior2","Non-Caribbean","lognormal_10k",-0.65280622326096,-0.475938785646746
+"simple_prior2","Non-Caribbean","uniform_area_10_1million",-0.29794155345374,0.333426052536123

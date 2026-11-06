@@ -1,0 +1,17 @@
+"a_training","a_model","b_training","b_model","metric","change","lower","upper"
+"27 islands","Pooled slope","21 islands","Pooled slope","richness_squared_log_error",-0.00154726989866089,-0.374495608953452,0.327392808958721
+"27 islands","Pooled slope","21 islands","Pooled slope","area_absolute_log10_error",0.0200053371132744,-0.0363549546770538,0.0815291772265869
+"27 islands","Pooled slope","21 islands","Pooled slope","area_interval_score",-0.286108437589424,-0.473680053203354,-0.0317955352675278
+"27 islands","Pooled slope","21 islands","Pooled slope","area_negative_log_score",-0.0108999294738937,-0.138053534444373,0.130187729166547
+"27 islands","Separate slopes","21 islands","Separate slopes","richness_squared_log_error",-0.272942949782289,-0.496849392126286,-0.0717933448917202
+"27 islands","Separate slopes","21 islands","Separate slopes","area_absolute_log10_error",-0.0152604522632155,-0.0433188679143493,0.0147970068771611
+"27 islands","Separate slopes","21 islands","Separate slopes","area_interval_score",0.339886107037285,-0.333645399587449,1.43435154646177
+"27 islands","Separate slopes","21 islands","Separate slopes","area_negative_log_score",0.00187215430042689,-0.109857148407357,0.129686877983169
+"21 islands","Separate slopes","21 islands","Pooled slope","richness_squared_log_error",0.266680641453321,-0.164394950440069,0.727662110606212
+"21 islands","Separate slopes","21 islands","Pooled slope","area_absolute_log10_error",0.0281214638146761,-0.0440399207832824,0.09707827578838
+"21 islands","Separate slopes","21 islands","Pooled slope","area_interval_score",1.27025785244466,0.356390719935482,2.45279104059641
+"21 islands","Separate slopes","21 islands","Pooled slope","area_negative_log_score",0.250454176076595,0.0917704186993801,0.473251903922156
+"27 islands","Separate slopes","27 islands","Pooled slope","richness_squared_log_error",-0.00471503843030696,-0.294359198710555,0.268439771043828
+"27 islands","Separate slopes","27 islands","Pooled slope","area_absolute_log10_error",-0.00714432556181377,-0.116623345931627,0.0958201910982014
+"27 islands","Separate slopes","27 islands","Pooled slope","area_interval_score",1.89625239707137,0.421866404514272,3.40974375308532
+"27 islands","Separate slopes","27 islands","Pooled slope","area_negative_log_score",0.263226259850916,0.0521187588137329,0.478470891116367

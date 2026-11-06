@@ -1,0 +1,6 @@
+"model","type","prior","median_change_percent","upper_change_percent"
+"intercepts_prior1","Selected 27 islands","log_uniform_10_1million",-0.136319674412255,0.15077729761297
+"intercepts_prior1","Selected 27 islands","log_uniform_100_100k",-0.120861610558864,0.0643061741500084
+"intercepts_prior1","Selected 27 islands","log_uniform_1_10million",-0.100724809685371,0.171320522738538
+"intercepts_prior1","Selected 27 islands","lognormal_10k",-0.0670756667106254,0.100978452781697
+"intercepts_prior1","Selected 27 islands","uniform_area_10_1million",0.430861248680192,0.16244968881749

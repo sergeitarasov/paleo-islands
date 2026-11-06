@@ -1,0 +1,14 @@
+"model","training_set","log_RMSE","negative_log_density"
+"Area","Oceanic only",0.550695628269325,0.908810154318431
+"Area","All island types",0.539047600380825,1.02742122298097
+"Area + isolation","Oceanic only",0.562806910412097,0.933929052740567
+"Area + isolation","All island types",0.556902518636518,0.988267684573486
+"Area + group","Oceanic only",0.564985615217433,0.946288966299226
+"Area + group","All island types",0.577991196819176,1.04110130292926
+"Area + group + isolation","Oceanic only",0.557202907674973,0.932332905563855
+"Area + group + isolation","All island types",0.542756467089578,0.946143980507206
+"Area x group","Oceanic only",0.563154722675648,0.947183767984392
+"Area x group","All island types",0.555353981579093,1.0173888968297
+"Area x group + isolation","Oceanic only",0.544732576153792,0.916251737996933
+"Area x group + isolation","All island types",0.518174885304963,0.916962613642402
+"Area + island type","All island types",0.547355874637587,0.961914434073411

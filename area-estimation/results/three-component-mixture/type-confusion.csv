@@ -1,0 +1,10 @@
+"class","component","Freq","classification","fraction"
+"Continental fragment","Low",1,"type",0.0476190476190476
+"Continental shelf","Low",3,"type",0.333333333333333
+"Oceanic","Low",1,"type",0.032258064516129
+"Continental fragment","Middle",13,"type",0.619047619047619
+"Continental shelf","Middle",0,"type",0
+"Oceanic","Middle",12,"type",0.387096774193548
+"Continental fragment","High",7,"type",0.333333333333333
+"Continental shelf","High",6,"type",0.666666666666667
+"Oceanic","High",18,"type",0.580645161290323

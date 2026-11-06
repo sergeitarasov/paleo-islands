@@ -1,0 +1,62 @@
+island,type,island_age_ma,island_age_lower_bound_ma,island_age_upper_bound_ma,island_age_status,island_age_definition,island_age_source,island_age_notes
+Adonara,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Ambon,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Aru Islands,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Bacan,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Bali,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Basilan,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Bohol,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Borneo,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Buru,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Cebu,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Flores,Oceanic,9,,,reconstruction_estimate,Appearance as land in geological reconstruction,https://doi.org/10.1038/srep18793,"Discussion, Spakman and Hall (2010) reconstruction as reported by Tänzler et al. (2016). No uncertainty interval supplied."
+Halmahera,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Java,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Kei Islands,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Komodo,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Langkawi,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Larat,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Leyte,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Lombok,Oceanic,11,,,reconstruction_estimate,Appearance as land in geological reconstruction,https://doi.org/10.1038/srep18793,"Discussion, Spakman and Hall (2010) reconstruction as reported by Tänzler et al. (2016). Not a radiometric emergence date; no uncertainty interval supplied."
+Luzon,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Mangoli (Mangole),Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Marinduque,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Mindanao,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Mindoro,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Negros,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+New Caledonia,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+New Guinea,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Palawan,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Panay,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Rinca,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Samar,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Seram,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Sibuyan,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Sulawesi,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Sumatra,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Sumba,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Sumbawa,Oceanic,11,,,conflicting_proxy,Appearance as land in geological reconstruction,https://doi.org/10.1038/srep18793,Same reconstruction as Lombok. The same paper also describes Sumbawa as largely Pleistocene and dates Mt Sangenges at 1.71 Ma (Barberi et al. 1987); these are different geological targets. Do not treat 11 Ma as a settled emergence age.
+Ternate,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Timor,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Tioman,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Wetar,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Cuba,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Dominica,Oceanic,,,5,upper_bound_only,Published geological island-age bound,https://doi.org/10.1016/j.ympev.2018.06.014,"Table 1 continued: age <5 Ma, citing Maury et al. (1990) and Martin-Kaye (1969). Strict upper bound, not a point estimate or confidence limit."
+Eleuthera,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Grenada,Oceanic,,5,,lower_bound_only,Published volcanic/island-age bound,https://doi.org/10.1016/j.ympev.2018.06.014,"Table 1: age >5 Ma, citing Maury et al. (1990) and Martin-Kaye (1969). Footnote 6 warns about older versus younger arc. Strict lower bound, not a confidence limit."
+Guadeloupe,Oceanic,,,,composite_unresolved,Archipelago with differently aged constituent islands,https://doi.org/10.1016/j.ympev.2018.06.014,"Table 1 footnote 9: 4-6 Ma applies to Basse Terre, not the whole workbook archipelago; La Desirade may be Mesozoic. No aggregate age assigned."
+Hispaniola,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Isla de la Juventud,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Jamaica,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Martinique,Oceanic,,,34,composite_upper_bound,Bound for composite island and precursor islands,https://doi.org/10.1016/j.ympev.2018.06.014,"Table 1: All Martinique <34 Ma, citing Wadge (1994). Precursors have different ages (7.1, 8.3, 12.8-15.9 Ma); not a single emergence date."
+New Providence,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Puerto Rico,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Saint John,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Saint Lucia,Oceanic,18.3,,,reported_proxy,Older-arc volcanic age,https://doi.org/10.1016/j.ympev.2018.06.014,"Table 1, Briden et al. (1979); footnote 6 cautions that the younger arc overlies the older arc. Not a verified continuous-emergence date."
+Saint Thomas,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Saint Vincent,Oceanic,3.5,,,reported_proxy,Younger-arc volcanic age,https://doi.org/10.1016/j.ympev.2018.06.014,"Table 1, Maury et al. (1990); footnote 6 cautions that this may date young-arc volcanicity rather than initial emergence."
+Tortola,Oceanic,,,,not_verified,,,"No island-specific, definition-compatible numerical age verified in the sources screened. Blank does not mean zero or that no geological literature exists."
+Sri Lanka,Continental shelf,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Madagascar,Continental fragment,,,,not_applicable,,,Age compilation restricted to records currently classified as Oceanic; classification unchanged.
+Mauritius,Oceanic,8.9,,,reported_proxy,Geological age adopted by Valente et al. (2020),https://doi.org/10.1038/s41586-020-2022-5,"Extended Data Table 1 and Supplementary Data 2, Archipelagos E28. Oldest dated exposed rocks; not an independently established time of continuous emergence."
+Réunion,Oceanic,5,,,reported_proxy,Geological age adopted by Valente et al. (2020),https://doi.org/10.1038/s41586-020-2022-5,"Extended Data Table 1 (reference 89: Gillot et al. 1994) and Supplementary Data 2, Archipelagos E36. Volcanic construction age, not necessarily subaerial emergence; do not equate with the age of exposed rocks."

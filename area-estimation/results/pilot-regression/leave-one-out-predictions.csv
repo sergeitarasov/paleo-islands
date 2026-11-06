@@ -1,0 +1,1160 @@
+"model","island","observed","predicted","predicted_log"
+"lognormal: area","Adonara",3,3.78806723854489,0.868957668581599
+"lognormal: area","Ambon",4,4.65967837442613,1.07641428301096
+"lognormal: area","Aru Islands",1,15.067406679517,2.29374901951289
+"lognormal: area","Bacan",8,7.07557317737898,1.49618753487156
+"lognormal: area","Bali",42,11.6850811935685,2.01998590791161
+"lognormal: area","Basilan",2,5.98775653507441,1.32979967109209
+"lognormal: area","Bohol",8,10.2892721466561,1.86814044530961
+"lognormal: area","Borneo",210,128.364934700587,4.3985940918763
+"lognormal: area","Buru",3,15.6486520829346,2.29925002491236
+"lognormal: area","Cebu",4,11.252610476006,1.96005154629337
+"lognormal: area","Flores",22,19.5800637030569,2.51398364642582
+"lognormal: area","Halmahera",9,22.6725755057315,2.65961801955879
+"lognormal: area","Java",109,55.6097586786384,3.56541347788094
+"lognormal: area","Kei Islands",2,6.05275876387714,1.34071592933412
+"lognormal: area","Komodo",4,2.94404562926184,0.621315804395155
+"lognormal: area","Langkawi",23,2.83352453466184,0.630509934535796
+"lognormal: area","Larat",1,2.54015166643035,0.47071673499791
+"lognormal: area","Leyte",6,14.1437107375087,2.1872553790205
+"lognormal: area","Lombok",21,11.0146529999982,1.94611659127649
+"lognormal: area","Luzon",40,53.4532635705059,3.51571454499373
+"lognormal: area","Mangoli (Mangole)",1,5.94428136627093,1.33411785097757
+"lognormal: area","Marinduque",2,5.11014245128097,1.16980123220874
+"lognormal: area","Mindanao",37,50.8145343898576,3.46501801458833
+"lognormal: area","Mindoro",7,16.71802523533,2.35456058311859
+"lognormal: area","Negros",10,19.0175016276299,2.48229260349867
+"lognormal: area","New Caledonia",49,21.9618021227389,2.63918443582822
+"lognormal: area","New Guinea",173,136.025947601175,4.45334034344453
+"lognormal: area","Palawan",20,17.6829844384638,2.41214236014021
+"lognormal: area","Panay",1,17.856975200262,2.47066310761942
+"lognormal: area","Rinca",2,2.40735405774439,0.415823954924003
+"lognormal: area","Samar",7,18.863389213067,2.47625985072735
+"lognormal: area","Seram",7,22.3593855596734,2.64806236260861
+"lognormal: area","Sibuyan",7,3.43489596683462,0.781975777788525
+"lognormal: area","Sulawesi",73,66.2856654423319,3.73316506755757
+"lognormal: area","Sumatra",133,102.271781666185,4.16844544999405
+"lognormal: area","Sumba",5,17.7004509771112,2.4157482720628
+"lognormal: area","Sumbawa",19,19.9347717819615,2.53057159259307
+"lognormal: area","Ternate",1,1.72278826564071,0.0806571517276187
+"lognormal: area","Timor",9,28.7351341861277,2.8989115110599
+"lognormal: area","Tioman",16,1.62555259830565,0.0818702965704298
+"lognormal: area","Wetar",5,8.62353693627733,1.69121203908741
+"lognormal: area","Cuba",12,56.2627514199197,3.57649865301842
+"lognormal: area","Dominica",3,4.6237345804936,1.06787072992841
+"lognormal: area","Eleuthera",1,3.57785832661584,0.817002824849607
+"lognormal: area","Grenada",4,2.90254509948968,0.607297262193968
+"lognormal: area","Guadeloupe",3,6.86160821511526,1.46372956452566
+"lognormal: area","Hispaniola",21,45.9714661910134,3.36553425218379
+"lognormal: area","Isla de la Juventud",1,7.92372129735807,1.62899641191495
+"lognormal: area","Jamaica",5,17.7555708302261,2.41890035339023
+"lognormal: area","Martinique",4,5.59742074863175,1.25910247068229
+"lognormal: area","New Providence",1,2.52950872504485,0.466484987185701
+"lognormal: area","Puerto Rico",6,15.7795752927585,2.29754221166997
+"lognormal: area","Saint John",1,1.17580895860982,-0.300659148650689
+"lognormal: area","Saint Lucia",2,4.17911196147879,0.967389904701981
+"lognormal: area","Saint Thomas",1,1.43589480865255,-0.101468453044872
+"lognormal: area","Saint Vincent",2,3.13810241004182,0.680279721657148
+"lognormal: area","Tortola",1,1.26865752915125,-0.224973597785131
+"lognormal: area","Sri Lanka",65,41.0263731205811,3.25784501005422
+"lognormal: area","Madagascar",280,112.044776315662,4.27025227779956
+"lognormal: area","Mauritius",6,7.23309374342242,1.51597068485357
+"lognormal: area","Réunion",1,8.47122320136307,1.6977585873252
+"lognormal: region","Adonara",3,4.47147891701912,1.03636771822311
+"lognormal: region","Ambon",4,5.42492383022357,1.22982963550113
+"lognormal: region","Aru Islands",1,16.6034513916992,2.39831481950095
+"lognormal: region","Bacan",8,8.01357170962781,1.62156968955328
+"lognormal: region","Bali",42,12.7334838967133,2.10603963548869
+"lognormal: region","Basilan",2,6.93747994779149,1.4809159954728
+"lognormal: region","Bohol",8,11.446842150548,1.97642170904564
+"lognormal: region","Borneo",210,121.566040951336,4.34713504635536
+"lognormal: region","Buru",3,17.1360799121913,2.39442220306832
+"lognormal: region","Cebu",4,12.5255885435994,2.07046527000271
+"lognormal: region","Flores",22,20.9451958248281,2.58276979317804
+"lognormal: region","Halmahera",9,24.2087944996002,2.72777371646027
+"lognormal: region","Java",109,55.6690806404561,3.56868711618204
+"lognormal: region","Kei Islands",2,7.00858319657055,1.49125588238809
+"lognormal: region","Komodo",4,3.49725067497652,0.79356791427831
+"lognormal: region","Langkawi",23,3.26293432267728,0.76879673461903
+"lognormal: region","Larat",1,3.11720585235437,0.679429833772893
+"lognormal: region","Leyte",6,15.5138830437956,2.28244790752886
+"lognormal: region","Lombok",21,12.1125927554298,2.04162030298105
+"lognormal: region","Luzon",40,54.1067251346205,3.52978854155767
+"lognormal: region","Mangoli (Mangole)",1,6.93505819218174,1.494499081045
+"lognormal: region","Marinduque",2,5.97254216890776,1.32927179025081
+"lognormal: region","Mindanao",37,51.6013341620364,3.4823035033697
+"lognormal: region","Mindoro",7,18.1612419347124,2.44003029943254
+"lognormal: region","Negros",10,20.47881791295,2.55857627786582
+"lognormal: region","New Caledonia",49,23.2206095313132,2.69605853382429
+"lognormal: region","New Guinea",173,128.804331434779,4.40145674016507
+"lognormal: region","Palawan",20,19.0239304848318,2.48656831639142
+"lognormal: region","Panay",1,19.4814615570968,2.56532625760317
+"lognormal: region","Rinca",2,2.92267418908401,0.611170825742478
+"lognormal: region","Samar",7,20.3629695121824,2.55556547422713
+"lognormal: region","Seram",7,23.9230450857349,2.71863978080629
+"lognormal: region","Sibuyan",7,4.01695489270253,0.937800264869985
+"lognormal: region","Sulawesi",73,65.9957690234256,3.73083531529269
+"lognormal: region","Sumatra",133,98.7815680111702,4.13618836742577
+"lognormal: region","Sumba",5,19.2059514972353,2.50074771249858
+"lognormal: region","Sumbawa",19,21.3274452285213,2.59964316282342
+"lognormal: region","Ternate",1,2.15819495432237,0.308672884178975
+"lognormal: region","Timor",9,30.3081768225309,2.95499514232207
+"lognormal: region","Tioman",16,1.90527288606666,0.236637577365194
+"lognormal: region","Wetar",5,9.71724015532634,1.8128767837082
+"lognormal: region","Cuba",12,38.8884903953795,3.20332631441067
+"lognormal: region","Dominica",3,3.42327457773471,0.770115887763953
+"lognormal: region","Eleuthera",1,2.78815806063085,0.566677115322952
+"lognormal: region","Grenada",4,2.13891774891228,0.308588182067902
+"lognormal: region","Guadeloupe",3,5.06536334254489,1.16107393585606
+"lognormal: region","Hispaniola",21,29.7889116609159,2.93284970293542
+"lognormal: region","Isla de la Juventud",1,6.21301643934197,1.38120274662044
+"lognormal: region","Jamaica",5,12.7822723859659,2.08856086978626
+"lognormal: region","Martinique",4,4.07660192666393,0.945505551750185
+"lognormal: region","New Providence",1,1.97639565737827,0.220292941621723
+"lognormal: region","Puerto Rico",6,11.1944927233021,1.95425508858915
+"lognormal: region","Saint John",1,0.931393900619786,-0.530179179130694
+"lognormal: region","Saint Lucia",2,3.15634714702735,0.688031039558493
+"lognormal: region","Saint Thomas",1,1.13239094812854,-0.336130686162381
+"lognormal: region","Saint Vincent",2,2.3780972104962,0.40560519454789
+"lognormal: region","Tortola",1,1.0031920126149,-0.456503549119929
+"lognormal: region","Sri Lanka",65,38.4294309614672,3.19384106811421
+"lognormal: region","Madagascar",280,86.1103359110202,4.01106079749261
+"lognormal: region","Mauritius",6,9.26071526411144,1.76440160549968
+"lognormal: region","Réunion",1,20.3690116370635,2.5969447796804
+"lognormal: type","Adonara",3,3.48374960708707,0.867784934956716
+"lognormal: type","Ambon",4,3.23579085178237,0.796387480685918
+"lognormal: type","Aru Islands",1,51.7309087586851,3.67173062074186
+"lognormal: type","Bacan",8,4.70392167847083,1.17451600707741
+"lognormal: type","Bali",42,28.307286891117,2.96700613340328
+"lognormal: type","Basilan",2,5.36117545743807,1.30159897361064
+"lognormal: type","Bohol",8,8.68455257783286,1.781527665842
+"lognormal: type","Borneo",210,290.225701313587,5.28990101296168
+"lognormal: type","Buru",3,10.4862812051968,1.97582856563981
+"lognormal: type","Cebu",4,9.59650782067851,1.88273704279276
+"lognormal: type","Flores",22,15.3834197925413,2.35707834391942
+"lognormal: type","Halmahera",9,18.256743626594,2.52465757380928
+"lognormal: type","Java",109,128.931791016708,4.47885550966172
+"lognormal: type","Kei Islands",2,4.32072643210546,1.08392201305679
+"lognormal: type","Komodo",4,2.75194883170186,0.636345299918356
+"lognormal: type","Langkawi",23,6.81603955884096,1.55688983151756
+"lognormal: type","Larat",1,1.93816402901703,0.281599568167768
+"lognormal: type","Leyte",6,11.7995134109777,2.08802747520793
+"lognormal: type","Lombok",21,9.0337585565085,1.83281575497751
+"lognormal: type","Luzon",40,38.5007459188103,3.27130405564703
+"lognormal: type","Mangoli (Mangole)",1,4.3890387280395,1.10863318698699
+"lognormal: type","Marinduque",2,4.62238209505122,1.15194458151406
+"lognormal: type","Mindanao",37,36.8676529061746,3.22774238601993
+"lognormal: type","Mindoro",7,10.8160279222041,2.00027150418874
+"lognormal: type","Negros",10,15.3852648352535,2.35264879692891
+"lognormal: type","New Caledonia",49,13.0071576611769,2.20875138452141
+"lognormal: type","New Guinea",173,311.504645974357,5.36095820219965
+"lognormal: type","Palawan",20,10.9563015185215,2.02120528711104
+"lognormal: type","Panay",1,12.3339349413581,2.17166253111594
+"lognormal: type","Rinca",2,2.30089877396321,0.453008388997623
+"lognormal: type","Samar",7,15.4469759843568,2.35807469383255
+"lognormal: type","Seram",7,14.2445490630939,2.27651932366185
+"lognormal: type","Sibuyan",7,2.31571365203457,0.476712122565638
+"lognormal: type","Sulawesi",73,36.127205378334,3.21576610896454
+"lognormal: type","Sumatra",133,236.573450576551,5.08576966194448
+"lognormal: type","Sumba",5,11.5621880869468,2.068750965057
+"lognormal: type","Sumbawa",19,15.7278368551638,2.37737662498733
+"lognormal: type","Ternate",1,1.69971390072809,0.149866281370006
+"lognormal: type","Timor",9,17.8856808393633,2.50401380039228
+"lognormal: type","Tioman",16,3.9215074399588,1.00776658652116
+"lognormal: type","Wetar",5,7.43498216616,1.625415660746
+"lognormal: type","Cuba",12,33.2658782916757,3.1271768425622
+"lognormal: type","Dominica",3,4.19084624954076,1.05213858887699
+"lognormal: type","Eleuthera",1,3.33843423999342,0.830647936584097
+"lognormal: type","Grenada",4,2.71618653363879,0.623430765983048
+"lognormal: type","Guadeloupe",3,6.05567330615316,1.42111148414115
+"lognormal: type","Hispaniola",21,26.9732690267562,2.91420557461886
+"lognormal: type","Isla de la Juventud",1,5.75907191704691,1.38622298583291
+"lognormal: type","Jamaica",5,11.5962521806566,2.07171600779501
+"lognormal: type","Martinique",4,4.98621038454952,1.22611507869308
+"lognormal: type","New Providence",1,2.42093991357046,0.505551853273311
+"lognormal: type","Puerto Rico",6,10.298716559422,1.95145341252412
+"lognormal: type","Saint John",1,1.19739531414782,-0.200301773840176
+"lognormal: type","Saint Lucia",2,3.83264441011151,0.963401517647129
+"lognormal: type","Saint Thomas",1,1.43804152599703,-0.0174980286853284
+"lognormal: type","Saint Vincent",2,2.93876425306363,0.697206588324617
+"lognormal: type","Tortola",1,1.28373641269361,-0.130865477640493
+"lognormal: type","Sri Lanka",65,98.2065310228806,4.2062980497429
+"lognormal: type","Madagascar",280,54.8333563055575,3.65467883205547
+"lognormal: type","Mauritius",6,6.28812581498863,1.45883786112927
+"lognormal: type","Réunion",1,7.52033287735866,1.66063268278702
+"lognormal: region_type","Adonara",3,3.9371922514037,0.983934193166365
+"lognormal: region_type","Ambon",4,3.61191987496776,0.899607937515161
+"lognormal: region_type","Aru Islands",1,52.9261916082624,3.69363628337889
+"lognormal: region_type","Bacan",8,5.16052086837092,1.26019295317094
+"lognormal: region_type","Bali",42,28.9329181517903,2.9829617349038
+"lognormal: region_type","Basilan",2,6.03945650624537,1.41627775005312
+"lognormal: region_type","Bohol",8,9.49545134321568,1.86457114667677
+"lognormal: region_type","Borneo",210,271.485224762042,5.217389615313
+"lognormal: region_type","Buru",3,11.3523125076009,2.05071035632443
+"lognormal: region_type","Cebu",4,10.559767536447,1.9734398084864
+"lognormal: region_type","Flores",22,16.410713209542,2.41525996073829
+"lognormal: region_type","Halmahera",9,19.6080389635647,2.59063224224959
+"lognormal: region_type","Java",109,124.649177314277,4.43936805935206
+"lognormal: region_type","Kei Islands",2,4.83103240475246,1.1905386253031
+"lognormal: region_type","Komodo",4,3.10483953787746,0.74984052599021
+"lognormal: region_type","Langkawi",23,7.29718286469471,1.61836002855707
+"lognormal: region_type","Larat",1,2.24708918304484,0.424468982457136
+"lognormal: region_type","Leyte",6,12.8594177381514,2.16867475411962
+"lognormal: region_type","Lombok",21,9.74333102350364,1.90144461183769
+"lognormal: region_type","Luzon",40,39.9251262692246,3.30160086776825
+"lognormal: region_type","Mangoli (Mangole)",1,4.94545029038199,1.22470682189413
+"lognormal: region_type","Marinduque",2,5.22681849554924,1.27008494165243
+"lognormal: region_type","Mindanao",37,38.3113500388026,3.26012139683211
+"lognormal: region_type","Mindoro",7,11.6296135221502,2.06703436373073
+"lognormal: region_type","Negros",10,16.5683581848927,2.4209680217165
+"lognormal: region_type","New Caledonia",49,13.7069173832542,2.25469599579292
+"lognormal: region_type","New Guinea",173,292.066007763808,5.29047690132456
+"lognormal: region_type","Palawan",20,11.6808939810093,2.07867125605939
+"lognormal: region_type","Panay",1,13.3580399368311,2.24979979168918
+"lognormal: region_type","Rinca",2,2.64143865175803,0.584776355849335
+"lognormal: region_type","Samar",7,16.7005867703356,2.43084526361995
+"lognormal: region_type","Seram",7,15.1926913469163,2.33549363325202
+"lognormal: region_type","Sibuyan",7,2.57610601865891,0.575422258878144
+"lognormal: region_type","Sulawesi",73,36.8805444657837,3.2305728827865
+"lognormal: region_type","Sumatra",133,224.358097010483,5.0267413343361
+"lognormal: region_type","Sumba",5,12.4365627551646,2.13642418668145
+"lognormal: region_type","Sumbawa",19,16.8005194470711,2.43700095343665
+"lognormal: region_type","Ternate",1,1.99522183237966,0.304897579569545
+"lognormal: region_type","Timor",9,18.9188763279634,2.55462568167873
+"lognormal: region_type","Tioman",16,4.2727778108249,1.08634066977919
+"lognormal: region_type","Wetar",5,8.2068018806576,1.71841930454575
+"lognormal: region_type","Cuba",12,26.1638307269804,2.87895609477646
+"lognormal: region_type","Dominica",3,3.467750152605,0.857358059090478
+"lognormal: region_type","Eleuthera",1,2.8849480085354,0.676797973795519
+"lognormal: region_type","Grenada",4,2.21955777461106,0.418700581525475
+"lognormal: region_type","Guadeloupe",3,5.0294998397326,1.22881707456258
+"lognormal: region_type","Hispaniola",21,19.9112902539007,2.60617201435325
+"lognormal: region_type","Isla de la Juventud",1,5.00082638130954,1.23565603681153
+"lognormal: region_type","Jamaica",5,9.34706990481373,1.8488884065728
+"lognormal: region_type","Martinique",4,4.07635174023665,1.01970878718068
+"lognormal: region_type","New Providence",1,2.08449424600846,0.348920188597981
+"lognormal: region_type","Puerto Rico",6,8.16283922599572,1.71299462746211
+"lognormal: region_type","Saint John",1,1.0290816586797,-0.35691471205061
+"lognormal: region_type","Saint Lucia",2,3.22515439267984,0.784403637405771
+"lognormal: region_type","Saint Thomas",1,1.2357011714976,-0.174752553161089
+"lognormal: region_type","Saint Vincent",2,2.46842014681681,0.517195513690545
+"lognormal: region_type","Tortola",1,1.10316981703302,-0.287765330890821
+"lognormal: region_type","Sri Lanka",65,107.521027786309,4.29112224718076
+"lognormal: region_type","Madagascar",280,32.9957014382837,3.14864657116304
+"lognormal: region_type","Mauritius",6,7.12270355482867,1.57694750744797
+"lognormal: region_type","Réunion",1,16.1416073930694,2.43459885708957
+"lognormal: region_slopes","Adonara",3,4.30215163113537,1.09484442505104
+"lognormal: region_slopes","Ambon",4,3.53983684892357,0.901884966778035
+"lognormal: region_slopes","Aru Islands",1,50.0380666979218,3.66207429975544
+"lognormal: region_slopes","Bacan",8,4.94489229947165,1.24039772112429
+"lognormal: region_slopes","Bali",42,27.5168124221086,2.95567719282883
+"lognormal: region_slopes","Basilan",2,6.51221617132239,1.51552572878835
+"lognormal: region_slopes","Bohol",8,9.87384326354729,1.92583317715572
+"lognormal: region_slopes","Borneo",210,224.330601040758,5.04954682923891
+"lognormal: region_slopes","Buru",3,10.5891634200905,2.00292914178743
+"lognormal: region_slopes","Cebu",4,10.966796265884,2.03442853842309
+"lognormal: region_slopes","Flores",22,16.5466473227814,2.4456747055408
+"lognormal: region_slopes","Halmahera",9,19.6528091993882,2.61552389200667
+"lognormal: region_slopes","Java",109,108.978339670545,4.32797900574752
+"lognormal: region_slopes","Kei Islands",2,4.67923846491462,1.1809882786556
+"lognormal: region_slopes","Komodo",4,3.38844163527789,0.858550289611565
+"lognormal: region_slopes","Langkawi",23,7.2301178894891,1.63145452566602
+"lognormal: region_slopes","Larat",1,2.27736331704946,0.460555835345526
+"lognormal: region_slopes","Leyte",6,13.1914195972549,2.21693989386
+"lognormal: region_slopes","Lombok",21,10.0547566128086,1.95459773755191
+"lognormal: region_slopes","Luzon",40,38.2464729293695,3.28120714667286
+"lognormal: region_slopes","Mangoli (Mangole)",1,4.7950669759273,1.21651503088565
+"lognormal: region_slopes","Marinduque",2,5.68248723649938,1.37733249232336
+"lognormal: region_slopes","Mindanao",37,36.8134585215636,3.24276062304249
+"lognormal: region_slopes","Mindoro",7,10.7246820277047,2.00831189621371
+"lognormal: region_slopes","Negros",10,16.7459454269774,2.45409279283143
+"lognormal: region_slopes","New Caledonia",49,12.0585495320479,2.15255396007671
+"lognormal: region_slopes","New Guinea",173,242.583809227835,5.1270816681521
+"lognormal: region_slopes","Palawan",20,10.5892676875713,2.00440702812434
+"lognormal: region_slopes","Panay",1,12.5783350423087,2.21169188336565
+"lognormal: region_slopes","Rinca",2,2.95819166491837,0.720313586456143
+"lognormal: region_slopes","Samar",7,16.889709321577,2.46487012286672
+"lognormal: region_slopes","Seram",7,13.8777274641246,2.26693670753556
+"lognormal: region_slopes","Sibuyan",7,2.55799239749561,0.590977215336178
+"lognormal: region_slopes","Sulawesi",73,29.7820130844757,3.04275046319712
+"lognormal: region_slopes","Sumatra",133,189.973043772505,4.88261169051466
+"lognormal: region_slopes","Sumba",5,11.4947092358628,2.07960446888145
+"lognormal: region_slopes","Sumbawa",19,16.9301329844284,2.46688333285062
+"lognormal: region_slopes","Ternate",1,2.32234965115824,0.480257809520395
+"lognormal: region_slopes","Timor",9,17.0823778596047,2.47445888967959
+"lognormal: region_slopes","Tioman",16,4.24298941185661,1.101328341576
+"lognormal: region_slopes","Wetar",5,8.62297892742653,1.79045792006313
+"lognormal: region_slopes","Cuba",12,21.4312389791236,2.70088243376564
+"lognormal: region_slopes","Dominica",3,3.53566944532347,0.898987675370109
+"lognormal: region_slopes","Eleuthera",1,2.99735908714612,0.738307414292029
+"lognormal: region_slopes","Grenada",4,2.30202746659517,0.476820102005987
+"lognormal: region_slopes","Guadeloupe",3,5.01690850474584,1.24874209748575
+"lognormal: region_slopes","Hispaniola",21,13.8053761812246,2.26497231314129
+"lognormal: region_slopes","Isla de la Juventud",1,4.47138362185933,1.14472373600614
+"lognormal: region_slopes","Jamaica",5,7.95072943540259,1.70907495436104
+"lognormal: region_slopes","Martinique",4,4.10635161594227,1.0492757476296
+"lognormal: region_slopes","New Providence",1,2.22439330834985,0.436875756929239
+"lognormal: region_slopes","Puerto Rico",6,6.92425021242929,1.57116663776507
+"lognormal: region_slopes","Saint John",1,1.11289334008642,-0.256789472359453
+"lognormal: region_slopes","Saint Lucia",2,3.30951203523318,0.832703660458274
+"lognormal: region_slopes","Saint Thomas",1,1.34662270212414,-0.0666350984966887
+"lognormal: region_slopes","Saint Vincent",2,2.57338012605774,0.581060451687005
+"lognormal: region_slopes","Tortola",1,1.19804219984927,-0.183314474040965
+"lognormal: region_slopes","Sri Lanka",65,215.964754470835,5.01504524946782
+"lognormal: region_slopes","Madagascar",280,79.9295287844028,4.02261352622784
+"lognormal: region_slopes","Mauritius",6,0.915507318407508,-0.429121861788665
+"lognormal: region_slopes","Réunion",1,7.88026891156257,1.71572243848668
+"lognormal: type_slopes","Adonara",3,4.12271262890176,1.0389407781249
+"lognormal: type_slopes","Ambon",4,2.46425371219368,0.530464875378171
+"lognormal: type_slopes","Aru Islands",1,63.9462288213589,3.90829862315443
+"lognormal: type_slopes","Bacan",8,4.10292494106037,1.04357798321926
+"lognormal: type_slopes","Bali",42,35.3148039959323,3.18918074046908
+"lognormal: type_slopes","Basilan",2,6.27447187369855,1.46429689306899
+"lognormal: type_slopes","Bohol",8,9.6565581065,1.89036234602297
+"lognormal: type_slopes","Borneo",210,162.05157056127,4.71320171301747
+"lognormal: type_slopes","Buru",3,11.5743559660268,2.07992812780736
+"lognormal: type_slopes","Cebu",4,10.7159073455294,1.99754228142536
+"lognormal: type_slopes","Flores",22,16.1862794610419,2.41067954331218
+"lognormal: type_slopes","Halmahera",9,19.644159631126,2.60161830356007
+"lognormal: type_slopes","Java",109,100.748231089318,4.23671713125723
+"lognormal: type_slopes","Kei Islands",2,3.74426483111397,0.943166245843832
+"lognormal: type_slopes","Komodo",4,3.20669677998241,0.790723173341165
+"lognormal: type_slopes","Langkawi",23,10.9310178283344,2.02202277279913
+"lognormal: type_slopes","Larat",1,1.28258210490849,-0.128603116314248
+"lognormal: type_slopes","Leyte",6,12.9776695184848,2.18704599905215
+"lognormal: type_slopes","Lombok",21,9.86911348169397,1.92329561836636
+"lognormal: type_slopes","Luzon",40,36.9835743186602,3.23448821747088
+"lognormal: type_slopes","Mangoli (Mangole)",1,3.90187445685015,0.992392833533197
+"lognormal: type_slopes","Marinduque",2,5.46962829064168,1.32521812036004
+"lognormal: type_slopes","Mindanao",37,35.7818169379912,3.2011649527831
+"lognormal: type_slopes","Mindoro",7,12.0882514969454,2.11489070342172
+"lognormal: type_slopes","Negros",10,16.5721202225229,2.43026512495619
+"lognormal: type_slopes","New Caledonia",49,15.3459438702302,2.37388106517473
+"lognormal: type_slopes","New Guinea",173,178.118285888952,4.80570789695174
+"lognormal: type_slopes","Palawan",20,12.3650137794027,2.14383552894736
+"lognormal: type_slopes","Panay",1,14.2904789094561,2.33116370672915
+"lognormal: type_slopes","Rinca",2,2.80479497502107,0.65374144765004
+"lognormal: type_slopes","Samar",7,16.7897697878231,2.44539649149359
+"lognormal: type_slopes","Seram",7,17.249662106583,2.47267992834701
+"lognormal: type_slopes","Sibuyan",7,1.44088091802848,0.017708606192659
+"lognormal: type_slopes","Sulawesi",73,54.5065555836491,3.62415954620293
+"lognormal: type_slopes","Sumatra",133,152.490105973901,4.64993499105782
+"lognormal: type_slopes","Sumba",5,13.1493547451001,2.20194909838704
+"lognormal: type_slopes","Sumbawa",19,16.6046918264512,2.43439499759348
+"lognormal: type_slopes","Ternate",1,2.22944184934639,0.425609267057713
+"lognormal: type_slopes","Timor",9,23.2840855102376,2.77309312949975
+"lognormal: type_slopes","Tioman",16,6.44161482826088,1.49396919032046
+"lognormal: type_slopes","Wetar",5,8.39208948886774,1.74986805735205
+"lognormal: type_slopes","Cuba",12,37.3588662161056,3.24755298666378
+"lognormal: type_slopes","Dominica",3,3.31462409813421,0.821427278890251
+"lognormal: type_slopes","Eleuthera",1,2.78448641986126,0.650236744846604
+"lognormal: type_slopes","Grenada",4,2.14763398654541,0.395508975602194
+"lognormal: type_slopes","Guadeloupe",3,4.75778143259964,1.18224083492268
+"lognormal: type_slopes","Hispaniola",21,26.0142591834189,2.88125761963246
+"lognormal: type_slopes","Isla de la Juventud",1,4.0565658724025,1.03134844569454
+"lognormal: type_slopes","Jamaica",5,9.07782048946857,1.82863984349079
+"lognormal: type_slopes","Martinique",4,3.86496377109312,0.975845083703065
+"lognormal: type_slopes","New Providence",1,2.03579684396482,0.334274678764043
+"lognormal: type_slopes","Puerto Rico",6,7.61458428633071,1.65262728294254
+"lognormal: type_slopes","Saint John",1,1.01306748439257,-0.363511803890902
+"lognormal: type_slopes","Saint Lucia",2,3.09581320086663,0.752479889699252
+"lognormal: type_slopes","Saint Thomas",1,1.2200746214926,-0.17841821031815
+"lognormal: type_slopes","Saint Vincent",2,2.38917222573063,0.493699474245488
+"lognormal: type_slopes","Tortola",1,1.08786250830096,-0.292664021952775
+"lognormal: type_slopes","Sri Lanka",65,74.1712637065896,3.92914908623553
+"lognormal: type_slopes","Madagascar",280,46.1773589841275,3.48035277737129
+"lognormal: type_slopes","Mauritius",6,6.0361757587391,1.4211141071042
+"lognormal: type_slopes","Réunion",1,14.1867270177143,2.31145242308923
+"negative_binomial: area","Adonara",3,3.9807854758817,1.38147915557343
+"negative_binomial: area","Ambon",4,4.83371980146892,1.57561631648648
+"negative_binomial: area","Aru Islands",1,14.7367287214927,2.6903429300745
+"negative_binomial: area","Bacan",8,7.15575821783001,1.96791737774057
+"negative_binomial: area","Bali",42,11.3844178618984,2.43224556618368
+"negative_binomial: area","Basilan",2,6.08119304130101,1.80520090062688
+"negative_binomial: area","Bohol",8,10.1564457309593,2.31810855131569
+"negative_binomial: area","Borneo",210,111.289543739001,4.71213530722853
+"negative_binomial: area","Buru",3,15.0538802086559,2.71163577913787
+"negative_binomial: area","Cebu",4,11.0224856198532,2.39993733363156
+"negative_binomial: area","Flores",22,18.6835042230365,2.92764100744712
+"negative_binomial: area","Halmahera",9,21.3239606360676,3.05983135296686
+"negative_binomial: area","Java",109,50.2110517323104,3.91623515649743
+"negative_binomial: area","Kei Islands",2,6.14333166465515,1.81536721138936
+"negative_binomial: area","Komodo",4,3.16453464625146,1.15200601358582
+"negative_binomial: area","Langkawi",23,2.75322831018426,1.0127741541364
+"negative_binomial: area","Larat",1,2.70506508709455,0.995125973781442
+"negative_binomial: area","Leyte",6,13.6740002518353,2.6154962379087
+"negative_binomial: area","Lombok",21,10.8543984186304,2.38457038204606
+"negative_binomial: area","Luzon",40,48.3579880562041,3.87863142141142
+"negative_binomial: area","Mangoli (Mangole)",1,6.04218908442028,1.79876637747981
+"negative_binomial: area","Marinduque",2,5.23988217284782,1.65629901198239
+"negative_binomial: area","Mindanao",37,46.065130745346,3.83005628083639
+"negative_binomial: area","Mindoro",7,16.0063617522062,2.77298625272695
+"negative_binomial: area","Negros",10,18.0920010468267,2.8954699094769
+"negative_binomial: area","New Caledonia",49,20.8289309957213,3.0363429335393
+"negative_binomial: area","New Guinea",173,118.401414274214,4.77408066726213
+"negative_binomial: area","Palawan",20,16.96492616543,2.83114804605637
+"negative_binomial: area","Panay",1,17.3186552690154,2.85178425976304
+"negative_binomial: area","Rinca",2,2.61081331606011,0.959661788141326
+"negative_binomial: area","Samar",7,17.927698842606,2.88634693819857
+"negative_binomial: area","Seram",7,21.0271296577843,3.04581349241945
+"negative_binomial: area","Sibuyan",7,3.64630983527765,1.29371565215158
+"negative_binomial: area","Sulawesi",73,59.6153226011389,4.08791263165231
+"negative_binomial: area","Sumatra",133,90.1726063478647,4.5017256819168
+"negative_binomial: area","Sumba",5,16.8802144217968,2.82614219180022
+"negative_binomial: area","Sumbawa",19,18.9862370299053,2.94371434983892
+"negative_binomial: area","Ternate",1,1.89277698674948,0.638045055857357
+"negative_binomial: area","Timor",9,26.6164269296336,3.28152857892543
+"negative_binomial: area","Tioman",16,1.59372316145843,0.466072889913584
+"negative_binomial: area","Wetar",5,8.59028371995348,2.15063176454891
+"negative_binomial: area","Cuba",12,49.6890359566755,3.90578430427238
+"negative_binomial: area","Dominica",3,4.78784058177497,1.56607949177279
+"negative_binomial: area","Eleuthera",1,3.72836430976261,1.31596961462461
+"negative_binomial: area","Grenada",4,3.12354249134982,1.1389677716207
+"negative_binomial: area","Guadeloupe",3,6.9206435965659,1.93450877058894
+"negative_binomial: area","Hispaniola",21,41.6016391020086,3.72813956798159
+"negative_binomial: area","Isla de la Juventud",1,7.95983551611794,2.07440833583851
+"negative_binomial: area","Jamaica",5,16.9296114488797,2.82906424543157
+"negative_binomial: area","Martinique",4,5.73109930727231,1.74590736350747
+"negative_binomial: area","New Providence",1,2.69453158555473,0.991224380554934
+"negative_binomial: area","Puerto Rico",6,15.155097515458,2.71833694502935
+"negative_binomial: area","Saint John",1,1.34344945190194,0.295240524176495
+"negative_binomial: area","Saint Lucia",2,4.3419410001734,1.46832148319552
+"negative_binomial: area","Saint Thomas",1,1.60546729103744,0.473414861270722
+"negative_binomial: area","Saint Vincent",2,3.32934831873363,1.2027765847606
+"negative_binomial: area","Tortola",1,1.43719121061,0.362690660603957
+"negative_binomial: area","Sri Lanka",65,37.7434682301393,3.63081243370795
+"negative_binomial: area","Madagascar",280,95.0238205432482,4.55412760273039
+"negative_binomial: area","Mauritius",6,7.29482914598997,1.987165761
+"negative_binomial: area","Réunion",1,8.48734563983913,2.13857630595527
+"negative_binomial: region","Adonara",3,5.07846302384646,1.62500866145065
+"negative_binomial: region","Ambon",4,6.05057788043386,1.80015378490833
+"negative_binomial: region","Aru Islands",1,16.7074643158551,2.81585558458486
+"negative_binomial: region","Bacan",8,8.61623640674933,2.15364837758692
+"negative_binomial: region","Bali",42,12.9037890161413,2.5575209904212
+"negative_binomial: region","Basilan",2,7.46985148019723,2.01087511677803
+"negative_binomial: region","Bohol",8,11.8640508231551,2.47351288863926
+"negative_binomial: region","Borneo",210,100.898672554916,4.6141167712266
+"negative_binomial: region","Buru",3,17.0255088608932,2.83471274062815
+"negative_binomial: region","Cebu",4,12.8112973771356,2.55032738924524
+"negative_binomial: region","Flores",22,20.5945643994549,3.02502717687315
+"negative_binomial: region","Halmahera",9,23.3514167930519,3.15065765863614
+"negative_binomial: region","Java",109,49.8160219651502,3.90833665849566
+"negative_binomial: region","Kei Islands",2,7.53909189402283,2.02010173630806
+"negative_binomial: region","Komodo",4,4.11412244133404,1.41442555290116
+"negative_binomial: region","Langkawi",23,3.45064009790282,1.23855974945767
+"negative_binomial: region","Larat",1,3.58970720831331,1.27807064160129
+"negative_binomial: region","Leyte",6,15.5787277869732,2.74590638030319
+"negative_binomial: region","Lombok",21,12.5082302060403,2.52638684413045
+"negative_binomial: region","Luzon",40,49.0511863540209,3.8928643723452
+"negative_binomial: region","Mangoli (Mangole)",1,7.43198469880207,2.005792942683
+"negative_binomial: region","Marinduque",2,6.52579065090826,1.87576211842095
+"negative_binomial: region","Mindanao",37,46.9460475859079,3.8489990186369
+"negative_binomial: region","Mindoro",7,17.979663847666,2.88924133296581
+"negative_binomial: region","Negros",10,20.0862320196355,3.00003460621557
+"negative_binomial: region","New Caledonia",49,22.5342871848171,3.11503802417204
+"negative_binomial: region","New Guinea",173,108.120866679571,4.6832497372804
+"negative_binomial: region","Palawan",20,18.8645492529817,2.93728445983539
+"negative_binomial: region","Panay",1,19.3566195561563,2.96303445689971
+"negative_binomial: region","Rinca",2,3.46883088722056,1.24381761707909
+"negative_binomial: region","Samar",7,19.9407958365845,2.99276767530117
+"negative_binomial: region","Seram",7,23.068823670159,3.13848208129566
+"negative_binomial: region","Sibuyan",7,4.65553856331084,1.53805759969971
+"negative_binomial: region","Sulawesi",73,58.9502777202091,4.07669433808694
+"negative_binomial: region","Sumatra",133,84.9591194892069,4.44217019361232
+"negative_binomial: region","Sumba",5,18.8872964295696,2.93848954949019
+"negative_binomial: region","Sumbawa",19,20.9238230119289,3.04088836685707
+"negative_binomial: region","Ternate",1,2.59802025644159,0.95474971515473
+"negative_binomial: region","Timor",9,28.6027659549646,3.35350342486158
+"negative_binomial: region","Tioman",16,2.08814573761317,0.736276465292103
+"negative_binomial: region","Wetar",5,10.2031937172262,2.32270078081365
+"negative_binomial: region","Cuba",12,20.8967962674024,3.03959585857983
+"negative_binomial: region","Dominica",3,2.3275612422061,0.844821042263777
+"negative_binomial: region","Eleuthera",1,1.92496919623384,0.654909965655269
+"negative_binomial: region","Grenada",4,1.48612487898378,0.396171979765857
+"negative_binomial: region","Guadeloupe",3,3.33423993222686,1.20424474701423
+"negative_binomial: region","Hispaniola",21,16.2099572446291,2.78562569815182
+"negative_binomial: region","Isla de la Juventud",1,3.96395696386893,1.37724275966535
+"negative_binomial: region","Jamaica",5,7.72836589542506,2.04489744250589
+"negative_binomial: region","Martinique",4,2.71143022268173,0.997476253123758
+"negative_binomial: region","New Providence",1,1.41317235167143,0.345837071969148
+"negative_binomial: region","Puerto Rico",6,6.84151184124684,1.92300873663311
+"negative_binomial: region","Saint John",1,0.731827550003727,-0.312210380202504
+"negative_binomial: region","Saint Lucia",2,2.17069212541129,0.775046068500492
+"negative_binomial: region","Saint Thomas",1,0.865375216919772,-0.144592089318346
+"negative_binomial: region","Saint Vincent",2,1.68003735785467,0.518816029986186
+"negative_binomial: region","Tortola",1,0.77970552903454,-0.248838957458508
+"negative_binomial: region","Sri Lanka",65,49.4224259237464,3.9004042872502
+"negative_binomial: region","Madagascar",280,83.1121690617826,4.42019112991024
+"negative_binomial: region","Mauritius",6,13.7574133408924,2.62157783088723
+"negative_binomial: region","Réunion",1,17.6388391243035,2.87010323913327
+"negative_binomial: type","Adonara",3,2.77845483801969,1.02189495951889
+"negative_binomial: type","Ambon",4,3.7023200279586,1.30895965772954
+"negative_binomial: type","Aru Islands",1,43.7569096311905,3.77864953476051
+"negative_binomial: type","Bacan",8,5.32121974380409,1.67170255222517
+"negative_binomial: type","Bali",42,31.1223095117256,3.43792490965826
+"negative_binomial: type","Basilan",2,4.24799997962579,1.44644827914345
+"negative_binomial: type","Bohol",8,6.88452115937411,1.92927558137772
+"negative_binomial: type","Borneo",210,323.828893976042,5.78021527128355
+"negative_binomial: type","Buru",3,11.5312718658932,2.44506263746823
+"negative_binomial: type","Cebu",4,7.58426660490873,2.02607591793568
+"negative_binomial: type","Flores",22,12.1057291911894,2.49367882741831
+"negative_binomial: type","Halmahera",9,14.3906288542576,2.66657722072675
+"negative_binomial: type","Java",109,141.55468359162,4.9526860989061
+"negative_binomial: type","Kei Islands",2,4.82204606353922,1.57319833250042
+"negative_binomial: type","Komodo",4,2.19982820186492,0.788379267253683
+"negative_binomial: type","Langkawi",23,7.4569216635023,2.0091426834109
+"negative_binomial: type","Larat",1,2.16788835613627,0.773753586004315
+"negative_binomial: type","Leyte",6,9.32671233377122,2.23288257695873
+"negative_binomial: type","Lombok",21,6.99976984149362,1.94587726872814
+"negative_binomial: type","Luzon",40,30.4937229028622,3.41752085596878
+"negative_binomial: type","Mangoli (Mangole)",1,4.79463471500671,1.56749752503868
+"negative_binomial: type","Marinduque",2,3.66709135301051,1.29939880097155
+"negative_binomial: type","Mindanao",37,29.2128410108352,3.3746083732529
+"negative_binomial: type","Mindoro",7,12.0699059423158,2.49071524239604
+"negative_binomial: type","Negros",10,12.1715216669051,2.4990989334401
+"negative_binomial: type","New Caledonia",49,14.0656259591773,2.64373394569217
+"negative_binomial: type","New Guinea",173,345.220825765924,5.84418428695477
+"negative_binomial: type","Palawan",20,12.271929811707,2.50731452522352
+"negative_binomial: type","Panay",1,13.3107864812949,2.58857472016505
+"negative_binomial: type","Rinca",2,1.84378355146919,0.611819738347438
+"negative_binomial: type","Samar",7,12.174976132387,2.49938270858784
+"negative_binomial: type","Seram",7,15.7852474416356,2.75907579763214
+"negative_binomial: type","Sibuyan",7,2.62659917875534,0.965689921504341
+"negative_binomial: type","Sulawesi",73,40.8646578801263,3.7102655789797
+"negative_binomial: type","Sumatra",133,260.473477195873,5.56250104102287
+"negative_binomial: type","Sumba",5,12.802895736753,2.54967137477338
+"negative_binomial: type","Sumbawa",19,12.4223023906323,2.51949343699267
+"negative_binomial: type","Ternate",1,1.35415447297472,0.303177254374692
+"negative_binomial: type","Timor",9,19.7994671927127,2.98565502787947
+"negative_binomial: type","Tioman",16,4.43060954748715,1.48853716996123
+"negative_binomial: type","Wetar",5,5.89804157199067,1.77462035885768
+"negative_binomial: type","Cuba",12,36.3032250291758,3.59190658110338
+"negative_binomial: type","Dominica",3,3.33548856172079,1.20461916390681
+"negative_binomial: type","Eleuthera",1,2.63783593014025,0.969958857569533
+"negative_binomial: type","Grenada",4,2.17159019732854,0.77545970900717
+"negative_binomial: type","Guadeloupe",3,4.80319747316643,1.56928183638392
+"negative_binomial: type","Hispaniola",21,30.1674052768066,3.40676204605207
+"negative_binomial: type","Isla de la Juventud",1,6.27330099131835,1.83630269000054
+"negative_binomial: type","Jamaica",5,12.8395669542508,2.55253157138862
+"negative_binomial: type","Martinique",4,3.96497526798171,1.37749961748393
+"negative_binomial: type","New Providence",1,1.9160654202287,0.650273823135235
+"negative_binomial: type","Puerto Rico",6,11.4768911604184,2.44033554937556
+"negative_binomial: type","Saint John",1,0.967954262998869,-0.032570441789938
+"negative_binomial: type","Saint Lucia",2,3.04581952787138,1.11377000382451
+"negative_binomial: type","Saint Thomas",1,1.15229603102753,0.141756500640271
+"negative_binomial: type","Saint Vincent",2,2.34341858179961,0.851610795639105
+"negative_binomial: type","Tortola",1,1.03393595607744,0.0333728361384452
+"negative_binomial: type","Sri Lanka",65,107.048726964442,4.6732841229934
+"negative_binomial: type","Madagascar",280,52.6381793053098,3.96344169875381
+"negative_binomial: type","Mauritius",6,4.9915675813561,1.6077500049907
+"negative_binomial: type","Réunion",1,5.93288666385313,1.78051088442308
+"negative_binomial: region_type","Adonara",3,3.3630447365165,1.2128467352318
+"negative_binomial: region_type","Ambon",4,4.2911485588121,1.45655442643366
+"negative_binomial: region_type","Aru Islands",1,42.0118160485755,3.73795091320614
+"negative_binomial: region_type","Bacan",8,5.92980673013571,1.77999162059583
+"negative_binomial: region_type","Bali",42,30.3006901781684,3.41117049041328
+"negative_binomial: region_type","Basilan",2,4.97108153800994,1.60363742971588
+"negative_binomial: region_type","Bohol",8,7.65923025453035,2.03591148973844
+"negative_binomial: region_type","Borneo",210,250.043078617816,5.52163321748908
+"negative_binomial: region_type","Buru",3,12.1449082375053,2.4969100068476
+"negative_binomial: region_type","Cebu",4,8.41718535810696,2.13027549186019
+"negative_binomial: region_type","Flores",22,12.67541241143,2.53966408633885
+"negative_binomial: region_type","Halmahera",9,15.0700425024907,2.71270883297223
+"negative_binomial: region_type","Java",109,119.146422593422,4.78035317869974
+"negative_binomial: region_type","Kei Islands",2,5.48420588721782,1.70187230425169
+"negative_binomial: region_type","Komodo",4,2.70346740635198,0.994535173674028
+"negative_binomial: region_type","Langkawi",23,8.26634477774516,2.11219242556873
+"negative_binomial: region_type","Larat",1,2.65815538916747,0.977632419518124
+"negative_binomial: region_type","Leyte",6,10.14928394708,2.31740315591352
+"negative_binomial: region_type","Lombok",21,7.62874165208345,2.03192291060541
+"negative_binomial: region_type","Luzon",40,29.274218741779,3.37670722225421
+"negative_binomial: region_type","Mangoli (Mangole)",1,5.46840420761093,1.69898683851636
+"negative_binomial: region_type","Marinduque",2,4.34674739645058,1.46942784046097
+"negative_binomial: region_type","Mindanao",37,28.2170499177867,3.3399264022566
+"negative_binomial: region_type","Mindoro",7,12.5910048082335,2.5329826548981
+"negative_binomial: region_type","Negros",10,12.9055636484965,2.5576585089697
+"negative_binomial: region_type","New Caledonia",49,13.7292839690534,2.61953106758628
+"negative_binomial: region_type","New Guinea",173,268.866447164745,5.5942147773739
+"negative_binomial: region_type","Palawan",20,12.573441298872,2.53158675592709
+"negative_binomial: region_type","Panay",1,13.9039871886544,2.63217564710823
+"negative_binomial: region_type","Rinca",2,2.31839142167503,0.840873592471772
+"negative_binomial: region_type","Samar",7,12.9484156506325,2.56097343708046
+"negative_binomial: region_type","Seram",7,16.1176335195043,2.77991392230075
+"negative_binomial: region_type","Sibuyan",7,3.11286736637469,1.13554428418324
+"negative_binomial: region_type","Sulawesi",73,36.4310949222205,3.59542266607857
+"negative_binomial: region_type","Sumatra",133,208.811586724828,5.34143234644601
+"negative_binomial: region_type","Sumba",5,13.3288816827037,2.58993323590034
+"negative_binomial: region_type","Sumbawa",19,13.0249207273535,2.56686450142924
+"negative_binomial: region_type","Ternate",1,1.75721140661773,0.563728124458381
+"negative_binomial: region_type","Timor",9,19.8155636196927,2.98646767033036
+"negative_binomial: region_type","Tioman",16,5.17135508176967,1.64313475896792
+"negative_binomial: region_type","Wetar",5,6.67555377700519,1.89845216369231
+"negative_binomial: region_type","Cuba",12,20.7933055049545,3.03463108417887
+"negative_binomial: region_type","Dominica",3,2.25339754412886,0.812439096895938
+"negative_binomial: region_type","Eleuthera",1,1.88727312234987,0.635132994836893
+"negative_binomial: region_type","Grenada",4,1.4517659962787,0.372780743827332
+"negative_binomial: region_type","Guadeloupe",3,3.20459722732619,1.16458641237445
+"negative_binomial: region_type","Hispaniola",21,15.6830733482698,2.75258200006986
+"negative_binomial: region_type","Isla de la Juventud",1,4.18270958217989,1.43095926193122
+"negative_binomial: region_type","Jamaica",5,7.89421935868872,2.06613076488203
+"negative_binomial: region_type","Martinique",4,2.60265827482542,0.956533336113233
+"negative_binomial: region_type","New Providence",1,1.39624290306804,0.333784988536457
+"negative_binomial: region_type","Puerto Rico",6,6.95748174541595,1.93981759068697
+"negative_binomial: region_type","Saint John",1,0.737604243873658,-0.304347853131498
+"negative_binomial: region_type","Saint Lucia",2,2.11427601592634,0.74871244464237
+"negative_binomial: region_type","Saint Thomas",1,0.86745434337675,-0.142192398659392
+"negative_binomial: region_type","Saint Vincent",2,1.64711276426064,0.499023915312399
+"negative_binomial: region_type","Tortola",1,0.784217611355276,-0.243068731641728
+"negative_binomial: region_type","Sri Lanka",65,191.014293249579,5.25234825901415
+"negative_binomial: region_type","Madagascar",280,34.0911214935153,3.52903698362908
+"negative_binomial: region_type","Mauritius",6,10.6271800509498,2.36341487502955
+"negative_binomial: region_type","Réunion",1,14.3716140811306,2.66525501675678
+"negative_binomial: region_slopes","Adonara",3,3.78355648583277,1.33066443655937
+"negative_binomial: region_slopes","Ambon",4,4.29725082124881,1.45797547433643
+"negative_binomial: region_slopes","Aru Islands",1,42.0647366502001,3.73920978043879
+"negative_binomial: region_slopes","Bacan",8,5.81918986362937,1.7611610533652
+"negative_binomial: region_slopes","Bali",42,30.6398754699456,3.42230228056732
+"negative_binomial: region_slopes","Basilan",2,5.49684209642241,1.70417376305616
+"negative_binomial: region_slopes","Bohol",8,8.19344573647238,2.1033345342291
+"negative_binomial: region_slopes","Borneo",210,220.751573747302,5.39703796855176
+"negative_binomial: region_slopes","Buru",3,11.5444244561723,2.44620258934832
+"negative_binomial: region_slopes","Cebu",4,8.99916091442,2.19713134125876
+"negative_binomial: region_slopes","Flores",22,13.1323436561819,2.57507816866808
+"negative_binomial: region_slopes","Halmahera",9,15.5483030487533,2.74395150397274
+"negative_binomial: region_slopes","Java",109,110.822285050312,4.70792788270246
+"negative_binomial: region_slopes","Kei Islands",2,5.422775258099,1.69060772464335
+"negative_binomial: region_slopes","Komodo",4,3.05451796913615,1.11662179593083
+"negative_binomial: region_slopes","Langkawi",23,8.87948191509927,2.18374321240784
+"negative_binomial: region_slopes","Larat",1,2.73847926087393,1.00740275204295
+"negative_binomial: region_slopes","Leyte",6,10.718173419295,2.37194075113349
+"negative_binomial: region_slopes","Lombok",21,8.06602729546743,2.08766108046075
+"negative_binomial: region_slopes","Luzon",40,28.8750360509178,3.36297741735781
+"negative_binomial: region_slopes","Mangoli (Mangole)",1,5.41090369015717,1.68841611960313
+"negative_binomial: region_slopes","Marinduque",2,4.8434252068691,1.57762215780556
+"negative_binomial: region_slopes","Mindanao",37,27.916326557119,3.32921169893428
+"negative_binomial: region_slopes","Mindoro",7,11.9039866373591,2.47687335555643
+"negative_binomial: region_slopes","Negros",10,13.4212061373126,2.59683600360869
+"negative_binomial: region_slopes","New Caledonia",49,12.2353232158295,2.5043271138591
+"negative_binomial: region_slopes","New Guinea",173,239.01180567925,5.47651294685905
+"negative_binomial: region_slopes","Palawan",20,11.7233767634035,2.46158486239467
+"negative_binomial: region_slopes","Panay",1,13.1650886971314,2.5775685302694
+"negative_binomial: region_slopes","Rinca",2,2.6690536369303,0.98172396648509
+"negative_binomial: region_slopes","Samar",7,13.4832511231965,2.60144825765067
+"negative_binomial: region_slopes","Seram",7,15.080921438665,2.71343046407282
+"negative_binomial: region_slopes","Sibuyan",7,3.17706888065451,1.15595903608934
+"negative_binomial: region_slopes","Sulawesi",73,29.8548958062843,3.39634884000071
+"negative_binomial: region_slopes","Sumatra",133,188.77795906813,5.24057150467261
+"negative_binomial: region_slopes","Sumba",5,12.5953858134648,2.53333054160733
+"negative_binomial: region_slopes","Sumbawa",19,13.4907398903747,2.60200351603767
+"negative_binomial: region_slopes","Ternate",1,2.06731849159997,0.726252352816354
+"negative_binomial: region_slopes","Timor",9,18.355024481326,2.90990335071669
+"negative_binomial: region_slopes","Tioman",16,5.67656828529598,1.73634687502178
+"negative_binomial: region_slopes","Wetar",5,7.21863417376331,1.97666576240038
+"negative_binomial: region_slopes","Cuba",12,17.5271883297256,2.86375329415373
+"negative_binomial: region_slopes","Dominica",3,2.46977596549164,0.904127444296083
+"negative_binomial: region_slopes","Eleuthera",1,2.13268332457588,0.757380963664541
+"negative_binomial: region_slopes","Grenada",4,1.60149938854881,0.470940308267943
+"negative_binomial: region_slopes","Guadeloupe",3,3.39580225429648,1.22254003774798
+"negative_binomial: region_slopes","Hispaniola",21,10.2110120833283,2.32346675393655
+"negative_binomial: region_slopes","Isla de la Juventud",1,3.94030015588494,1.37125690210485
+"negative_binomial: region_slopes","Jamaica",5,6.91888504955146,1.93425463664134
+"negative_binomial: region_slopes","Martinique",4,2.81104102448569,1.03355488608531
+"negative_binomial: region_slopes","New Providence",1,1.63224788380285,0.489958134592942
+"negative_binomial: region_slopes","Puerto Rico",6,6.12872493401676,1.81298672407354
+"negative_binomial: region_slopes","Saint John",1,0.898729992925778,-0.106772631195185
+"negative_binomial: region_slopes","Saint Lucia",2,2.34137231170583,0.85073721546427
+"negative_binomial: region_slopes","Saint Thomas",1,1.05160267893485,0.0503153613549899
+"negative_binomial: region_slopes","Saint Vincent",2,1.86379137609695,0.622612787304816
+"negative_binomial: region_slopes","Tortola",1,0.954180141191904,-0.0469027981142886
+"negative_binomial: region_slopes","Sri Lanka",65,193.382521939451,5.26467020633685
+"negative_binomial: region_slopes","Madagascar",280,42.6340776905823,3.75265387927754
+"negative_binomial: region_slopes","Mauritius",6,0.489457455463014,-0.714457735062557
+"negative_binomial: region_slopes","Réunion",1,5.3387519705165,1.67499191227045
+"negative_binomial: type_slopes","Adonara",3,3.42176738199747,1.2301571959524
+"negative_binomial: type_slopes","Ambon",4,2.42295839397516,0.884989270401428
+"negative_binomial: type_slopes","Aru Islands",1,48.8260965082164,3.88826493443615
+"negative_binomial: type_slopes","Bacan",8,3.93455017555254,1.36979656162541
+"negative_binomial: type_slopes","Bali",42,36.9275669571518,3.60895834413663
+"negative_binomial: type_slopes","Basilan",2,5.14187518447083,1.63741783481724
+"negative_binomial: type_slopes","Bohol",8,7.93866899064919,2.07174562778749
+"negative_binomial: type_slopes","Borneo",210,140.597806833746,4.9459033806329
+"negative_binomial: type_slopes","Buru",3,11.4000057183366,2.4336138570088
+"negative_binomial: type_slopes","Cebu",4,8.74285516378062,2.16823681409798
+"negative_binomial: type_slopes","Flores",22,13.2637741359301,2.58503656989528
+"negative_binomial: type_slopes","Halmahera",9,16.0477759460607,2.77557026963537
+"negative_binomial: type_slopes","Java",109,92.225147559904,4.52423284348042
+"negative_binomial: type_slopes","Kei Islands",2,3.61950999287199,1.28633865559046
+"negative_binomial: type_slopes","Komodo",4,2.65216727197731,0.975377144232472
+"negative_binomial: type_slopes","Langkawi",23,14.7539241320529,2.69150909025375
+"negative_binomial: type_slopes","Larat",1,1.23714297257513,0.212804666824558
+"negative_binomial: type_slopes","Leyte",6,10.6026012539494,2.36109937232802
+"negative_binomial: type_slopes","Lombok",21,7.91821237021933,2.06916546951892
+"negative_binomial: type_slopes","Luzon",40,30.5731905045895,3.4201234976335
+"negative_binomial: type_slopes","Mangoli (Mangole)",1,3.62683091139223,1.28835923980192
+"negative_binomial: type_slopes","Marinduque",2,4.49328427328378,1.50258389834779
+"negative_binomial: type_slopes","Mindanao",37,29.7040312006538,3.39128276725983
+"negative_binomial: type_slopes","Mindoro",7,12.1332691930674,2.49595119967496
+"negative_binomial: type_slopes","Negros",10,13.6081056331555,2.610665617641
+"negative_binomial: type_slopes","New Caledonia",49,14.6468610178206,2.68422604750987
+"negative_binomial: type_slopes","New Guinea",173,155.940477186698,5.04947437794281
+"negative_binomial: type_slopes","Palawan",20,12.4014357192666,2.51781224972038
+"negative_binomial: type_slopes","Panay",1,13.7712547567926,2.6225834310868
+"negative_binomial: type_slopes","Rinca",2,2.34395156920938,0.851838209901218
+"negative_binomial: type_slopes","Samar",7,13.6738497405424,2.61548523073314
+"negative_binomial: type_slopes","Seram",7,17.3839496652262,2.85554734748435
+"negative_binomial: type_slopes","Sibuyan",7,1.26033407978237,0.231376828503699
+"negative_binomial: type_slopes","Sulawesi",73,62.0571171195768,4.12805520482454
+"negative_binomial: type_slopes","Sumatra",133,135.061222519275,4.90572817578109
+"negative_binomial: type_slopes","Sumba",5,13.1152186733294,2.57377328670857
+"negative_binomial: type_slopes","Sumbawa",19,13.6656087103584,2.61488236360259
+"negative_binomial: type_slopes","Ternate",1,1.80781499229831,0.592118929465561
+"negative_binomial: type_slopes","Timor",9,23.689657140135,3.16503854529834
+"negative_binomial: type_slopes","Tioman",16,10.9478375487492,2.39314195262746
+"negative_binomial: type_slopes","Wetar",5,6.89867052495499,1.93132871549576
+"negative_binomial: type_slopes","Cuba",12,31.3791843050976,3.44614475286562
+"negative_binomial: type_slopes","Dominica",3,2.13419610280598,0.758090043130803
+"negative_binomial: type_slopes","Eleuthera",1,1.78292729067083,0.578256558840779
+"negative_binomial: type_slopes","Grenada",4,1.34440465874452,0.295951282159241
+"negative_binomial: type_slopes","Guadeloupe",3,3.06744948374078,1.12084642924916
+"negative_binomial: type_slopes","Hispaniola",21,21.8839760052992,3.08575467975148
+"negative_binomial: type_slopes","Isla de la Juventud",1,2.91609680015942,1.07024600980922
+"negative_binomial: type_slopes","Jamaica",5,7.28824883152966,1.9862633020106
+"negative_binomial: type_slopes","Martinique",4,2.47219744737564,0.90510740993956
+"negative_binomial: type_slopes","New Providence",1,1.30888110881742,0.269172656842115
+"negative_binomial: type_slopes","Puerto Rico",6,6.05306323471027,1.80056446369296
+"negative_binomial: type_slopes","Saint John",1,0.672042002598279,-0.397434436545787
+"negative_binomial: type_slopes","Saint Lucia",2,2.00064636870858,0.693470312701423
+"negative_binomial: type_slopes","Saint Thomas",1,0.797869584078214,-0.225810123361632
+"negative_binomial: type_slopes","Saint Vincent",2,1.54584126921022,0.43556827297316
+"negative_binomial: type_slopes","Tortola",1,0.717219331716331,-0.332373583185629
+"negative_binomial: type_slopes","Sri Lanka",65,100.200678488815,4.6071749599733
+"negative_binomial: type_slopes","Madagascar",280,58.193787734075,4.06377860907593
+"negative_binomial: type_slopes","Mauritius",6,6.54620412687534,1.87888535904457
+"negative_binomial: type_slopes","Réunion",1,9.78612049227809,2.28096510551115
+"poisson: area","Adonara",3,2.23270758191545,0.803215011267004
+"poisson: area","Ambon",4,2.88718714800308,1.06028272296603
+"poisson: area","Aru Islands",1,12.647529645158,2.53746191113519
+"poisson: area","Bacan",8,4.8464877553145,1.57825426844666
+"poisson: area","Bali",42,8.84540935101188,2.17989860703964
+"poisson: area","Basilan",2,3.90741549941646,1.36287615785035
+"poisson: area","Bohol",8,7.70106692228538,2.04135888059667
+"poisson: area","Borneo",210,192.104211926069,5.25803799522946
+"poisson: area","Buru",3,12.9918002348945,2.56431840729238
+"poisson: area","Cebu",4,8.60148091003186,2.15193438727586
+"poisson: area","Flores",22,17.2165914303811,2.8458735369198
+"poisson: area","Halmahera",9,20.505551630645,3.02069566073259
+"poisson: area","Java",109,65.3951398585463,4.18044794161222
+"poisson: area","Kei Islands",2,3.96063854902916,1.37640526202188
+"poisson: area","Komodo",4,1.66426900981796,0.509385993886775
+"poisson: area","Langkawi",23,1.58321862924536,0.459459882067059
+"poisson: area","Larat",1,1.32981115843981,0.285036946017199
+"poisson: area","Leyte",6,11.4293223219475,2.43618218663062
+"poisson: area","Lombok",21,8.3657506927631,2.12414607252375
+"poisson: area","Luzon",40,60.5118319167856,4.10283891478819
+"poisson: area","Mangoli (Mangole)",1,3.8752411455934,1.35460789198991
+"poisson: area","Marinduque",2,3.20536696644883,1.16482658193018
+"poisson: area","Mindanao",37,56.6997372006659,4.03776957581407
+"poisson: area","Mindoro",7,14.06583452513,2.64374877364273
+"poisson: area","Negros",10,16.520097299272,2.80457765786193
+"poisson: area","New Caledonia",49,19.9003778128397,2.99073871712006
+"poisson: area","New Guinea",173,215.632720356235,5.37357659169531
+"poisson: area","Palawan",20,15.1501496808074,2.71801041182785
+"poisson: area","Panay",1,15.6306754879114,2.7492353608963
+"poisson: area","Rinca",2,1.27971944685729,0.246640871764864
+"poisson: area","Samar",7,16.3303160172434,2.793023258739
+"poisson: area","Seram",7,20.1321541616531,3.00231824642767
+"poisson: area","Sibuyan",7,2.0223065980644,0.704238740193654
+"poisson: area","Sulawesi",73,80.8083264174033,4.39208000993813
+"poisson: area","Sumatra",133,143.476223537554,4.96616933183786
+"poisson: area","Sumba",5,15.0936684239802,2.71427534621581
+"poisson: area","Sumbawa",19,17.5912139847934,2.86739957199014
+"poisson: area","Ternate",1,0.831678080192611,-0.184309835880306
+"poisson: area","Timor",9,27.4024525147969,3.31063251722774
+"poisson: area","Tioman",16,0.861045496047562,-0.149607935012505
+"poisson: area","Wetar",5,6.17622167330526,1.82070670477674
+"poisson: area","Cuba",12,61.9291782694613,4.12599144616278
+"poisson: area","Dominica",3,2.84702171560909,1.04627343580776
+"poisson: area","Eleuthera",1,2.0354841643281,0.710733709185166
+"poisson: area","Grenada",4,1.6366560245404,0.492655150799704
+"poisson: area","Guadeloupe",3,4.63949912756932,1.53460641376696
+"poisson: area","Hispaniola",21,49.2761062915087,3.89743930416187
+"poisson: area","Isla de la Juventud",1,5.59609390525394,1.72206883744406
+"poisson: area","Jamaica",5,15.1517735959847,2.71811759414523
+"poisson: area","Martinique",4,3.61364781613205,1.28471773754104
+"poisson: area","New Providence",1,1.32297100095048,0.279879965731957
+"poisson: area","Puerto Rico",6,13.0917662370612,2.57198350107632
+"poisson: area","Saint John",1,0.533183168304286,-0.628890258497135
+"poisson: area","Saint Lucia",2,2.49760205615612,0.915331094031461
+"poisson: area","Saint Thomas",1,0.671243235837266,-0.398623710174802
+"poisson: area","Saint Vincent",2,1.75896913321974,0.564727917687722
+"poisson: area","Tortola",1,0.581623773438228,-0.541931477672799
+"poisson: area","Sri Lanka",65,44.1484479745276,3.78755777296724
+"poisson: area","Madagascar",280,149.296755355981,5.00593597193111
+"poisson: area","Mauritius",6,4.97206401415862,1.60383504849692
+"poisson: area","Réunion",1,6.09493447369241,1.80745801204565
+"poisson: region","Adonara",3,2.83330374028916,1.04144343016979
+"poisson: region","Ambon",4,3.59158105981219,1.27859251218257
+"poisson: region","Aru Islands",1,14.0867114974351,2.64523190601131
+"poisson: region","Bacan",8,5.7875346746895,1.75570641070145
+"poisson: region","Bali",42,9.97031637835818,2.29961231650519
+"poisson: region","Basilan",2,4.75655282908735,1.55952321031716
+"poisson: region","Bohol",8,8.88312585300437,2.18415350553639
+"poisson: region","Borneo",210,162.808608169026,5.09257532790169
+"poisson: region","Buru",3,14.4314730917909,2.66941145293861
+"poisson: region","Cebu",4,9.85440916315933,2.28791898580483
+"poisson: region","Flores",22,18.6176070674334,2.92410774948895
+"poisson: region","Halmahera",9,21.9735384634227,3.08983893230015
+"poisson: region","Java",109,62.701543064913,4.13838605762174
+"poisson: region","Kei Islands",2,4.81640626561922,1.5720280619277
+"poisson: region","Komodo",4,2.15731301056568,0.768863470724957
+"poisson: region","Langkawi",23,2.02988301058649,0.707978161140048
+"poisson: region","Larat",1,1.75729316528347,0.563774650882854
+"poisson: region","Leyte",6,12.8067289060017,2.54997072857733
+"poisson: region","Lombok",21,9.54286858682781,2.25579413070505
+"poisson: region","Luzon",40,59.6359145554676,4.08825798579746
+"poisson: region","Mangoli (Mangole)",1,4.72284913231767,1.55241224721464
+"poisson: region","Marinduque",2,3.96082683656802,1.37645280058444
+"poisson: region","Mindanao",37,56.1590796050706,4.02818837078466
+"poisson: region","Mindoro",7,15.5116410852828,2.74159077979765
+"poisson: region","Negros",10,17.983784203632,2.88947047428609
+"poisson: region","New Caledonia",49,21.1225736818337,3.05034231134905
+"poisson: region","New Guinea",173,186.75459579027,5.22979543302884
+"poisson: region","Palawan",20,16.5481746214925,2.80627580096629
+"poisson: region","Panay",1,17.1325928435556,2.8409826636113
+"poisson: region","Rinca",2,1.69453551575803,0.527408671277624
+"poisson: region","Samar",7,17.8085402586281,2.87967813204628
+"poisson: region","Seram",7,21.6150833434941,3.07339137392961
+"poisson: region","Sibuyan",7,2.57811928329438,0.947060173149605
+"poisson: region","Sulawesi",73,77.4236274900986,4.34929199874184
+"poisson: region","Sumatra",133,129.919118870396,4.86691209429674
+"poisson: region","Sumba",5,16.5674288969179,2.80743865325037
+"poisson: region","Sumbawa",19,19.0096544551681,2.94494697933188
+"poisson: region","Ternate",1,1.13864198429102,0.129836310463863
+"poisson: region","Timor",9,28.7484601762671,3.35858420672266
+"poisson: region","Tioman",16,1.15828650195149,0.146941759561393
+"poisson: region","Wetar",5,7.25241425354882,1.98133441392372
+"poisson: region","Cuba",12,29.4498171077738,3.38268769981596
+"poisson: region","Dominica",3,1.36053122554424,0.307875230498721
+"poisson: region","Eleuthera",1,1.02006976936737,0.0198710262974765
+"poisson: region","Grenada",4,0.80270289276234,-0.219770630060967
+"poisson: region","Guadeloupe",3,2.15149424022426,0.766162596195216
+"poisson: region","Hispaniola",21,18.2974412905475,2.90676122988296
+"poisson: region","Isla de la Juventud",1,2.63649251327179,0.969449440337774
+"poisson: region","Jamaica",5,6.59026387520428,1.88559338947366
+"poisson: region","Martinique",4,1.67875627135252,0.518053204575818
+"poisson: region","New Providence",1,0.683631448501441,-0.38033632455451
+"poisson: region","Puerto Rico",6,5.61254035132828,1.72500344258877
+"poisson: region","Saint John",1,0.294898012222549,-1.22112570369719
+"poisson: region","Saint Lucia",2,1.21925886604489,0.198243187301814
+"poisson: region","Saint Thomas",1,0.364821164329286,-1.00834800621131
+"poisson: region","Saint Vincent",2,0.879825622014027,-0.12803154794778
+"poisson: region","Tortola",1,0.319567802297473,-1.14078581391509
+"poisson: region","Sri Lanka",65,76.3174913318951,4.33490215621057
+"poisson: region","Madagascar",280,187.27188075074,5.232561468712
+"poisson: region","Mauritius",6,10.003035421114,2.30288858904586
+"poisson: region","Réunion",1,12.420097409925,2.5193159194637
+"poisson: type","Adonara",3,2.22104056381514,0.797975808507393
+"poisson: type","Ambon",4,3.70486762008755,1.30964752803888
+"poisson: type","Aru Islands",1,19.9118698166977,2.9913160271119
+"poisson: type","Bacan",8,5.85692451754034,1.76762463946106
+"poisson: type","Bali",42,12.0148224185375,2.48614108909898
+"poisson: type","Basilan",2,3.67238462842389,1.30084121357553
+"poisson: type","Bohol",8,6.67256100933291,1.8980037456542
+"poisson: type","Borneo",210,214.884885145299,5.37010246681146
+"poisson: type","Buru",3,14.3714240716953,2.66524179550756
+"poisson: type","Cebu",4,7.44442702592888,2.00746570225141
+"poisson: type","Flores",22,13.3181503656259,2.5891277940306
+"poisson: type","Halmahera",9,16.3642418538228,2.79509857958534
+"poisson: type","Java",109,78.186278078534,4.35909416001272
+"poisson: type","Kei Islands",2,4.94748056151563,1.59887846953601
+"poisson: type","Komodo",4,1.70467405464368,0.533373922163147
+"poisson: type","Langkawi",23,2.45921623736823,0.899842696483808
+"poisson: type","Larat",1,1.86307364616839,0.622227621792705
+"poisson: type","Leyte",6,9.59631372427602,2.2613790376773
+"poisson: type","Lombok",21,6.95705413490954,1.93975612826951
+"poisson: type","Luzon",40,42.1622454438181,3.74152516286745
+"poisson: type","Mangoli (Mangole)",1,4.86282479513349,1.58161950262816
+"poisson: type","Marinduque",2,3.07525976011878,1.12338937252606
+"poisson: type","Mindanao",37,39.9560016980172,3.68777889116708
+"poisson: type","Mindoro",7,15.3568488175052,2.731561551562
+"poisson: type","Negros",10,13.3220206497191,2.58941835403626
+"poisson: type","New Caledonia",49,19.9118518084561,2.99131512271418
+"poisson: type","New Guinea",173,244.703666960857,5.50004795587315
+"poisson: type","Palawan",20,16.1409725614747,2.78136091886247
+"poisson: type","Panay",1,17.0281645474771,2.83486871126647
+"poisson: type","Rinca",2,1.35313116327868,0.302421287046332
+"poisson: type","Samar",7,13.2992073322915,2.58770443437579
+"poisson: type","Seram",7,21.2597710973738,3.05681660603429
+"poisson: type","Sibuyan",7,2.66280061219145,0.97937843064954
+"poisson: type","Sulawesi",73,71.5091455280786,4.26982535100386
+"poisson: type","Sumatra",133,167.061374512791,5.11836125695338
+"poisson: type","Sumba",5,16.4123358553337,2.79803323838065
+"poisson: type","Sumbawa",19,13.7214620158555,2.61896117754294
+"poisson: type","Ternate",1,0.922641660951917,-0.0805143528493943
+"poisson: type","Timor",9,28.1149964001759,3.33630311370488
+"poisson: type","Tioman",16,1.45940091541326,0.378026019602347
+"poisson: type","Wetar",5,5.50658312274872,1.70594430789597
+"poisson: type","Cuba",12,60.5072415866616,4.10276305352114
+"poisson: type","Dominica",3,2.76039857166932,1.01537507932805
+"poisson: type","Eleuthera",1,2.0524929128809,0.719055109418093
+"poisson: type","Grenada",4,1.67936493173714,0.518415705125665
+"poisson: type","Guadeloupe",3,4.27566174648962,1.45293888490979
+"poisson: type","Hispaniola",21,47.9186894957111,3.86950560568097
+"poisson: type","Isla de la Juventud",1,6.76125270942734,1.91120818493218
+"poisson: type","Jamaica",5,16.4694895781345,2.80150955270352
+"poisson: type","Martinique",4,3.41064901178652,1.22690259922283
+"poisson: type","New Providence",1,1.39666349264853,0.334086172696673
+"poisson: type","Puerto Rico",6,14.4116594923577,2.66803756593158
+"poisson: type","Saint John",1,0.620263707664674,-0.477610556429243
+"poisson: type","Saint Lucia",2,2.45990186766443,0.900121457955276
+"poisson: type","Saint Thomas",1,0.761906634453941,-0.271931257765864
+"poisson: type","Saint Vincent",2,1.79799647086894,0.586672973238239
+"poisson: type","Tortola",1,0.670363728783728,-0.399934835120817
+"poisson: type","Sri Lanka",65,56.1369943292443,4.02779503065553
+"poisson: type","Madagascar",280,59.4620825977719,4.08533884214615
+"poisson: type","Mauritius",6,4.52184551006705,1.50892020920031
+"poisson: type","Réunion",1,5.48792428213425,1.7025500933412
+"poisson: region_type","Adonara",3,2.70431519107791,0.994848716135323
+"poisson: region_type","Ambon",4,4.46539150970812,1.49635689462959
+"poisson: region_type","Aru Islands",1,22.695726378266,3.1221766414886
+"poisson: region_type","Bacan",8,6.72774470343684,1.90623997656379
+"poisson: region_type","Bali",42,14.598625246842,2.68092736310565
+"poisson: region_type","Basilan",2,4.26297373766566,1.44996697723528
+"poisson: region_type","Bohol",8,7.29551445358775,1.98725970088477
+"poisson: region_type","Borneo",210,183.394627158883,5.21164026364014
+"poisson: region_type","Buru",3,15.4070876626818,2.73482764137911
+"poisson: region_type","Cebu",4,8.07088493152118,2.08826313321188
+"poisson: region_type","Flores",22,13.5351628499643,2.60529095476073
+"poisson: region_type","Halmahera",9,16.4255829440164,2.79884005500519
+"poisson: region_type","Java",109,77.1095276873387,4.3452268486457
+"poisson: region_type","Kei Islands",2,5.82859923400927,1.76277670288423
+"poisson: region_type","Komodo",4,2.12795900170563,0.75516330517803
+"poisson: region_type","Langkawi",23,3.48423093444735,1.24824734107809
+"poisson: region_type","Larat",1,2.40574940085941,0.877861456209101
+"poisson: region_type","Leyte",6,10.146632474744,2.31714187455071
+"poisson: region_type","Lombok",21,7.52713965727364,2.01851511005506
+"poisson: region_type","Luzon",40,37.5184901749479,3.62483388278858
+"poisson: region_type","Mangoli (Mangole)",1,5.74748579695167,1.74876250648236
+"poisson: region_type","Marinduque",2,3.63103538235176,1.28951783690462
+"poisson: region_type","Mindanao",37,35.8921113084677,3.5805175306365
+"poisson: region_type","Mindoro",7,16.2789965011706,2.78987571869734
+"poisson: region_type","Negros",10,13.6277387118136,2.61210732672187
+"poisson: region_type","New Caledonia",49,19.337242234833,2.96203288600209
+"poisson: region_type","New Guinea",173,210.8445251666,5.35112101431882
+"poisson: region_type","Palawan",20,16.7064865337355,2.8157970592028
+"poisson: region_type","Panay",1,18.0595836334141,2.89367649309484
+"poisson: region_type","Rinca",2,1.72875146148519,0.547399449396438
+"poisson: region_type","Samar",7,13.6280156642249,2.61212764921286
+"poisson: region_type","Seram",7,21.9765146061587,3.08997436525337
+"poisson: region_type","Sibuyan",7,3.28918866234961,1.19064092717616
+"poisson: region_type","Sulawesi",73,62.2104385885276,4.13052280863112
+"poisson: region_type","Sumatra",133,151.784727684056,5.02246325175827
+"poisson: region_type","Sumba",5,17.357035411653,2.85399792343099
+"poisson: region_type","Sumbawa",19,13.928768102106,2.633956349
+"poisson: region_type","Ternate",1,1.22361697594664,0.201811206969738
+"poisson: region_type","Timor",9,28.410265677599,3.3467505473746
+"poisson: region_type","Tioman",16,2.16726687129469,0.773466867391841
+"poisson: region_type","Wetar",5,6.14070586818817,1.81493969779703
+"poisson: region_type","Cuba",12,26.718391312621,3.28535214149005
+"poisson: region_type","Dominica",3,1.35872338782977,0.306545573487617
+"poisson: region_type","Eleuthera",1,1.06787120547167,0.0656671391382953
+"poisson: region_type","Grenada",4,0.851091762718211,-0.161235326940828
+"poisson: region_type","Guadeloupe",3,2.03045380438038,0.708259317026204
+"poisson: region_type","Hispaniola",21,17.2640890388089,2.84862856598677
+"poisson: region_type","Isla de la Juventud",1,3.30680221081548,1.19598162296259
+"poisson: region_type","Jamaica",5,7.34872668301162,1.99452705781031
+"poisson: region_type","Martinique",4,1.62372062366145,0.484720197175554
+"poisson: region_type","New Providence",1,0.752160707422054,-0.284805271186054
+"poisson: region_type","Puerto Rico",6,6.36225840254299,1.85038340906028
+"poisson: region_type","Saint John",1,0.360430397573282,-1.02045641281669
+"poisson: region_type","Saint Lucia",2,1.241452764686,0.216282278271677
+"poisson: region_type","Saint Thomas",1,0.434160987328669,-0.834339875117105
+"poisson: region_type","Saint Vincent",2,0.9328550391424,-0.0695054609001752
+"poisson: region_type","Tortola",1,0.386669034153066,-0.950186160758926
+"poisson: region_type","Sri Lanka",65,196.427267611619,5.28029222340975
+"poisson: region_type","Madagascar",280,56.9397725603324,4.0419940874677
+"poisson: region_type","Mauritius",6,9.95567124224362,2.2981423628918
+"poisson: region_type","Réunion",1,12.2981740055796,2.50945079652694
+"poisson: region_slopes","Adonara",3,3.76154197805805,1.32482897388091
+"poisson: region_slopes","Ambon",4,4.79664689655937,1.56791711058807
+"poisson: region_slopes","Aru Islands",1,34.9026743562583,3.55256345539167
+"poisson: region_slopes","Bacan",8,6.73577223550737,1.90743246334985
+"poisson: region_slopes","Bali",42,21.2941468056724,3.05843223709577
+"poisson: region_slopes","Basilan",2,5.53817688669459,1.7116653647758
+"poisson: region_slopes","Bohol",8,8.63558151005999,2.15589105270813
+"poisson: region_slopes","Borneo",210,179.648413877831,5.19100168456331
+"poisson: region_slopes","Buru",3,13.6361015225346,2.61272079943235
+"poisson: region_slopes","Cebu",4,9.45572574214356,2.24662045666271
+"poisson: region_slopes","Flores",22,14.3557603978232,2.66415128310869
+"poisson: region_slopes","Halmahera",9,17.1315908439277,2.84092417690476
+"poisson: region_slopes","Java",109,88.757305411721,4.48590573946614
+"poisson: region_slopes","Kei Islands",2,6.0124452768482,1.79383153382675
+"poisson: region_slopes","Komodo",4,3.06026360462992,1.11850105755789
+"poisson: region_slopes","Langkawi",23,6.00975114606408,1.79338334104493
+"poisson: region_slopes","Larat",1,2.86594406085891,1.05289781102251
+"poisson: region_slopes","Leyte",6,11.4423429105633,2.43732076485744
+"poisson: region_slopes","Lombok",21,8.7127455141641,2.16478695522064
+"poisson: region_slopes","Luzon",40,32.9217223227135,3.49413269287024
+"poisson: region_slopes","Mangoli (Mangole)",1,5.948907038653,1.78320751170159
+"poisson: region_slopes","Marinduque",2,4.83732272528178,1.57636141174784
+"poisson: region_slopes","Mindanao",37,31.9094889853891,3.46290342591526
+"poisson: region_slopes","Mindoro",7,14.2096850854479,2.65392378038898
+"poisson: region_slopes","Negros",10,14.6177603457206,2.68223725145949
+"poisson: region_slopes","New Caledonia",49,15.059904047276,2.71203585098863
+"poisson: region_slopes","New Guinea",173,205.564875158138,5.32576167831555
+"poisson: region_slopes","Palawan",20,14.2241910982299,2.65494411359623
+"poisson: region_slopes","Panay",1,15.6661223806216,2.75150057077599
+"poisson: region_slopes","Rinca",2,2.58385363662842,0.949281942144463
+"poisson: region_slopes","Samar",7,14.661941490932,2.68525512226909
+"poisson: region_slopes","Seram",7,18.3766142799083,2.91107889320794
+"poisson: region_slopes","Sibuyan",7,3.69504281909958,1.30699214272262
+"poisson: region_slopes","Sulawesi",73,34.4910565567649,3.54070006019265
+"poisson: region_slopes","Sumatra",133,157.550105375836,5.05974353704366
+"poisson: region_slopes","Sumba",5,15.0533948985929,2.71160354041408
+"poisson: region_slopes","Sumbawa",19,14.7548563727133,2.69157227420407
+"poisson: region_slopes","Ternate",1,1.93706826509548,0.661175626496407
+"poisson: region_slopes","Timor",9,22.8858768030253,3.13051998680952
+"poisson: region_slopes","Tioman",16,4.08001761238589,1.406101305168
+"poisson: region_slopes","Wetar",5,7.49662734080543,2.01445323150973
+"poisson: region_slopes","Cuba",12,20.3313832815508,3.01216566672008
+"poisson: region_slopes","Dominica",3,2.34835156227829,0.853713619155581
+"poisson: region_slopes","Eleuthera",1,2.03467040492773,0.710333842596627
+"poisson: region_slopes","Grenada",4,1.53555160380876,0.428889667503525
+"poisson: region_slopes","Guadeloupe",3,3.22772022276671,1.17177607464611
+"poisson: region_slopes","Hispaniola",21,10.3073317830838,2.3328554656097
+"poisson: region_slopes","Isla de la Juventud",1,4.10868552672066,1.41310315417148
+"poisson: region_slopes","Jamaica",5,7.22256962718857,1.97721079362865
+"poisson: region_slopes","Martinique",4,2.66807767874629,0.981358242601917
+"poisson: region_slopes","New Providence",1,1.5529349076543,0.440146629350145
+"poisson: region_slopes","Puerto Rico",6,6.45146959434509,1.86430794893967
+"poisson: region_slopes","Saint John",1,0.864316965257358,-0.145815719517244
+"poisson: region_slopes","Saint Lucia",2,2.23135645184184,0.802609674916699
+"poisson: region_slopes","Saint Thomas",1,1.00479927710026,0.00478779728513828
+"poisson: region_slopes","Saint Vincent",2,1.7773151614491,0.575103889355142
+"poisson: region_slopes","Tortola",1,0.915051036313699,-0.0887754378700957
+"poisson: region_slopes","Sri Lanka",65,130.123400278698,4.86848323313198
+"poisson: region_slopes","Madagascar",280,87.7107953503362,4.47404498587721
+"poisson: region_slopes","Mauritius",6,0.534980183617266,-0.625525572739853
+"poisson: region_slopes","Réunion",1,1.44818748903691,0.370312766960616
+"poisson: type_slopes","Adonara",3,3.28142093404028,1.18827654018465
+"poisson: type_slopes","Ambon",4,1.48511923017135,0.395495058709296
+"poisson: type_slopes","Aru Islands",1,46.4004369393652,3.83730887598454
+"poisson: type_slopes","Bacan",8,2.71483924486884,0.998732741639856
+"poisson: type_slopes","Bali",42,28.8776729693325,3.36306873492408
+"poisson: type_slopes","Basilan",2,5.04647949083514,1.61869086965109
+"poisson: type_slopes","Bohol",8,8.0488640447545,2.08553096902032
+"poisson: type_slopes","Borneo",210,158.758407195518,5.06738359508246
+"poisson: type_slopes","Buru",3,10.1567085161305,2.31813442471457
+"poisson: type_slopes","Cebu",4,8.89446958139963,2.18542968824363
+"poisson: type_slopes","Flores",22,14.0408142418997,2.64196839135335
+"poisson: type_slopes","Halmahera",9,16.8628406277955,2.82511242164389
+"poisson: type_slopes","Java",109,93.6011477275095,4.53904264545441
+"poisson: type_slopes","Kei Islands",2,2.30684027891283,0.835878743553806
+"poisson: type_slopes","Komodo",4,2.56677121391523,0.94264877205622
+"poisson: type_slopes","Langkawi",23,9.56539340872262,2.2581517320749
+"poisson: type_slopes","Larat",1,0.603241874613588,-0.505437043919406
+"poisson: type_slopes","Leyte",6,10.8980959812045,2.38858809335322
+"poisson: type_slopes","Lombok",21,8.08645726585479,2.09019071993562
+"poisson: type_slopes","Luzon",40,33.3777147372861,3.50788845385549
+"poisson: type_slopes","Mangoli (Mangole)",1,2.28343268533136,0.825679874483366
+"poisson: type_slopes","Marinduque",2,4.36169948308217,1.47286177111042
+"poisson: type_slopes","Mindanao",37,32.8120344383067,3.49079535170434
+"poisson: type_slopes","Mindoro",7,10.9589842792442,2.39415960197381
+"poisson: type_slopes","Negros",10,14.2035341778003,2.65349081940088
+"poisson: type_slopes","New Caledonia",49,13.9031864154216,2.63211805238505
+"poisson: type_slopes","New Guinea",173,183.457692734858,5.21198408360898
+"poisson: type_slopes","Palawan",20,11.1746589562222,2.41364862157508
+"poisson: type_slopes","Panay",1,12.934457758558,2.55989489427674
+"poisson: type_slopes","Rinca",2,2.18625492820036,0.782190001527832
+"poisson: type_slopes","Samar",7,14.221487922599,2.65475405480825
+"poisson: type_slopes","Seram",7,17.2847968036669,2.84982731765896
+"poisson: type_slopes","Sibuyan",7,0.865069429619485,-0.144945509815305
+"poisson: type_slopes","Sulawesi",73,101.84543033448,4.6234562750436
+"poisson: type_slopes","Sumatra",133,150.084443230181,5.01119809056448
+"poisson: type_slopes","Sumba",5,12.1217971276031,2.49500524750414
+"poisson: type_slopes","Sumbawa",19,14.4313679448059,2.66940416696251
+"poisson: type_slopes","Ternate",1,1.61925788727783,0.481967950014111
+"poisson: type_slopes","Timor",9,25.4250895432271,3.23573646378593
+"poisson: type_slopes","Tioman",16,7.01133738629557,1.94752846548826
+"poisson: type_slopes","Wetar",5,6.92840058790698,1.93562899116864
+"poisson: type_slopes","Cuba",12,34.7212816528147,3.5473528030744
+"poisson: type_slopes","Dominica",3,1.5164138734798,0.416348253576121
+"poisson: type_slopes","Eleuthera",1,1.23494086997668,0.211023090372336
+"poisson: type_slopes","Grenada",4,0.963034834358814,-0.0376656950876438
+"poisson: type_slopes","Guadeloupe",3,2.20082094963557,0.788830449683052
+"poisson: type_slopes","Hispaniola",21,18.9707343288106,2.94289749320354
+"poisson: type_slopes","Isla de la Juventud",1,1.41709983491881,0.348612413356415
+"poisson: type_slopes","Jamaica",5,4.66119528524004,1.53927191422587
+"poisson: type_slopes","Martinique",4,1.78006147101869,0.576647897987862
+"poisson: type_slopes","New Providence",1,0.894435032299002,-0.111563008856639
+"poisson: type_slopes","Puerto Rico",6,3.77238363290986,1.32770706503696
+"poisson: type_slopes","Saint John",1,0.451567158525602,-0.79503117183642
+"poisson: type_slopes","Saint Lucia",2,1.40539547629791,0.340318740970376
+"poisson: type_slopes","Saint Thomas",1,0.537210143121979,-0.621365933048204
+"poisson: type_slopes","Saint Vincent",2,1.07736391153962,0.0745172348239788
+"poisson: type_slopes","Tortola",1,0.482195084554199,-0.729406507077568
+"poisson: type_slopes","Sri Lanka",65,126.558289944268,4.84070299210969
+"poisson: type_slopes","Madagascar",280,101.443158872304,4.61949863050674
+"poisson: type_slopes","Mauritius",6,6.54670160247046,1.87896135067021
+"poisson: type_slopes","Réunion",1,8.1692767774108,2.10038038321689
+"mixture: two powers","Adonara",3,3.75589664807476,0.861984336847903
+"mixture: two powers","Ambon",4,4.61993731307657,1.07285566565704
+"mixture: two powers","Aru Islands",1,14.9353021231685,2.29366358304655
+"mixture: two powers","Bacan",8,7.00634041407126,1.49242898249227
+"mixture: two powers","Bali",42,11.5649853946006,2.01906245243321
+"mixture: two powers","Basilan",2,5.93438065273043,1.32589223791665
+"mixture: two powers","Bohol",8,10.1877919206352,1.86693055916858
+"mixture: two powers","Borneo",210,127.151145926897,4.40976027542073
+"mixture: two powers","Buru",3,15.4986135367935,2.29980060880412
+"mixture: two powers","Cebu",4,11.1527893090556,1.95961671900805
+"mixture: two powers","Flores",22,19.4025536151427,2.51526901234693
+"mixture: two powers","Halmahera",9,22.4533734025544,2.66149982019296
+"mixture: two powers","Java",109,55.0531934771682,3.57276654156925
+"mixture: two powers","Kei Islands",2,5.99879754870615,1.33775214195764
+"mixture: two powers","Komodo",4,2.9216781779246,0.61285331233801
+"mixture: two powers","Langkawi",23,2.81402317835344,0.633501362299055
+"mixture: two powers","Larat",1,2.52285425841411,0.4609150241672
+"mixture: two powers","Leyte",6,13.9919628246409,2.1873326027261
+"mixture: two powers","Lombok",21,10.914020968904,1.94551786351761
+"mixture: two powers","Luzon",40,52.9917986704124,3.51880620937245
+"mixture: two powers","Mangoli (Mangole)",1,5.89594041590202,1.33150197444975
+"mixture: two powers","Marinduque",2,5.06550968570321,1.16596207301016
+"mixture: two powers","Mindanao",37,50.3543834973884,3.46931092692764
+"mixture: two powers","Mindoro",7,16.5589977254472,2.35500613460069
+"mixture: two powers","Negros",10,18.844649974567,2.482896324464
+"mixture: two powers","New Caledonia",49,21.729273078595,2.64158881572053
+"mixture: two powers","New Guinea",173,134.987013143604,4.45764793390414
+"mixture: two powers","Palawan",20,17.5131324459164,2.41339945452935
+"mixture: two powers","Panay",1,17.7323145928283,2.4706477679393
+"mixture: two powers","Rinca",2,2.39170343740318,0.404237353650158
+"mixture: two powers","Samar",7,18.6633560606285,2.47766084855431
+"mixture: two powers","Seram",7,22.0985859400098,2.65081344822271
+"mixture: two powers","Sibuyan",7,3.40797496991311,0.778213422338554
+"mixture: two powers","Sulawesi",73,65.6769869743052,3.73918946177963
+"mixture: two powers","Sumatra",133,101.399472378431,4.17534715528484
+"mixture: two powers","Sumba",5,17.5304295668254,2.41671987384134
+"mixture: two powers","Sumbawa",19,19.7379950966435,2.53243187800851
+"mixture: two powers","Ternate",1,1.71394719894655,0.0672929181684214
+"mixture: two powers","Timor",9,28.4701718091919,2.90130213984231
+"mixture: two powers","Tioman",16,1.61516986704534,0.0880486621016824
+"mixture: two powers","Wetar",5,8.54524552710206,1.68990519058645
+"mixture: two powers","Cuba",12,55.6918821575423,3.58423151040549
+"mixture: two powers","Dominica",3,4.58459082534002,1.06345469123715
+"mixture: two powers","Eleuthera",1,3.55000449702982,0.810901763039018
+"mixture: two powers","Grenada",4,2.88073308526237,0.600523799641223
+"mixture: two powers","Guadeloupe",3,6.79538946265947,1.46016146037431
+"mixture: two powers","Hispaniola",21,45.5462161106336,3.36983413560375
+"mixture: two powers","Isla de la Juventud",1,7.85408148298562,1.62731336657613
+"mixture: two powers","Jamaica",5,17.5565958430727,2.42024038069443
+"mixture: two powers","Martinique",4,5.54740551267972,1.25488935938397
+"mixture: two powers","New Providence",1,2.51148615893348,0.460125130003509
+"mixture: two powers","Puerto Rico",6,15.6166827782145,2.29803910353862
+"mixture: two powers","Saint John",1,1.16929869001132,-0.305544224307417
+"mixture: two powers","Saint Lucia",2,4.1441824166897,0.962663550293401
+"mixture: two powers","Saint Thomas",1,1.42852261571793,-0.109232674334506
+"mixture: two powers","Saint Vincent",2,3.1132217201115,0.673793988630241
+"mixture: two powers","Tortola",1,1.26639319387259,-0.24149857503021
+"mixture: two powers","Sri Lanka",65,40.6696626999778,3.26002058818066
+"mixture: two powers","Madagascar",280,111.104231801976,4.27776641987682
+"mixture: two powers","Mauritius",6,7.16365764217922,1.5133386293742
+"mixture: two powers","Réunion",1,8.39599186868817,1.69622141184374

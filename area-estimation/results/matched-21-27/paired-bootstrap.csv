@@ -1,0 +1,21 @@
+"training","model","metric","mean_change","lower","upper"
+"21 islands","Pooled slope","richness_squared_log_error",0,0,0
+"21 islands","Pooled slope","richness_negative_log_score",0,0,0
+"21 islands","Pooled slope","area_absolute_log10_error",0,0,0
+"21 islands","Pooled slope","area_interval_score",0,0,0
+"21 islands","Pooled slope","area_negative_log_score",0,0,0
+"21 islands","Separate slopes","richness_squared_log_error",0.266680641453321,-0.164394950440069,0.727662110606212
+"21 islands","Separate slopes","richness_negative_log_score",0.110571099313715,-0.184686745040682,0.416797910639792
+"21 islands","Separate slopes","area_absolute_log10_error",0.0281214638146761,-0.0440399207832824,0.09707827578838
+"21 islands","Separate slopes","area_interval_score",1.27025785244466,0.356390719935482,2.45279104059641
+"21 islands","Separate slopes","area_negative_log_score",0.250454176076595,0.0917704186993801,0.473251903922156
+"27 islands","Pooled slope","richness_squared_log_error",-0.00154726989866089,-0.374495608953452,0.327392808958721
+"27 islands","Pooled slope","richness_negative_log_score",-0.00906237201262623,-0.260840650899777,0.225102865800861
+"27 islands","Pooled slope","area_absolute_log10_error",0.0200053371132744,-0.0363549546770538,0.0815291772265869
+"27 islands","Pooled slope","area_interval_score",-0.286108437589424,-0.473680053203354,-0.0317955352675278
+"27 islands","Pooled slope","area_negative_log_score",-0.0108999294738937,-0.138053534444373,0.130187729166547
+"27 islands","Separate slopes","richness_squared_log_error",-0.00626230832896779,-0.575539951052094,0.513947203638642
+"27 islands","Separate slopes","richness_negative_log_score",0.0242676005335004,-0.410994540118393,0.451488509147679
+"27 islands","Separate slopes","area_absolute_log10_error",0.0128610115514606,-0.0757871327118942,0.0972260912521282
+"27 islands","Separate slopes","area_interval_score",1.61014395948195,0.0229876887535736,3.3094039452639
+"27 islands","Separate slopes","area_negative_log_score",0.252326330377022,0.00828627157329322,0.541853079617249

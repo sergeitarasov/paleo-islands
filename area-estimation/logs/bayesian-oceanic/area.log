@@ -1,0 +1,30 @@
+simple_prior1 Oceanic islands done
+simple_prior2 Oceanic islands done
+          model            type                   prior     mean   median
+1 simple_prior1 Oceanic islands log_uniform_10_1million 12328.44 1528.141
+6 simple_prior2 Oceanic islands log_uniform_10_1million 12288.07 1519.161
+     lower    upper p_below_100 p_above_100k
+1 63.37060 93469.09  0.04633439   0.02343224
+6 62.79721 93141.87  0.04689830   0.02335357
+           model            type                    prior      mean   median
+1  simple_prior1 Oceanic islands  log_uniform_10_1million 12328.438 1528.141
+2  simple_prior1 Oceanic islands     log_uniform_100_100k  6660.664 1585.006
+3  simple_prior1 Oceanic islands  log_uniform_1_10million 18500.535 1526.777
+4  simple_prior1 Oceanic islands            lognormal_10k  9901.363 2308.179
+5  simple_prior1 Oceanic islands uniform_area_10_1million 57531.170 8213.256
+6  simple_prior2 Oceanic islands  log_uniform_10_1million 12288.072 1519.161
+7  simple_prior2 Oceanic islands     log_uniform_100_100k  6638.028 1576.857
+8  simple_prior2 Oceanic islands  log_uniform_1_10million 18449.946 1517.794
+9  simple_prior2 Oceanic islands            lognormal_10k  9867.732 2301.289
+10 simple_prior2 Oceanic islands uniform_area_10_1million 57201.817 8186.737
+       lower     upper p_below_100 p_above_100k
+1   63.37060  93469.09 0.046334388   0.02343224
+2  133.49407  53256.47 0.000000000   0.00000000
+3   61.16603  97431.11 0.047554959   0.02442081
+4  164.13075  64703.14 0.008822871   0.01462983
+5  306.35138 535233.58 0.002830284   0.13386544
+6   62.79721  93141.87 0.046898297   0.02335357
+7  133.17641  53111.19 0.000000000   0.00000000
+8   60.60625  97112.02 0.048121204   0.02434864
+9  163.24230  64471.67 0.008937584   0.01455700
+10 304.73901 531625.60 0.002873893   0.13327546
